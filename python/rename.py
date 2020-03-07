@@ -6,15 +6,15 @@ import re
 import pprint
 import os
 
-tagetName   = '^(?=.*20xx).*$'
+inpStr = input(r"任意の文字列を入力：")
+
+tagetName   = '^.*' + inpStr +'.*'
 after       = r"2019年度報告書.xlsx"
 p = Path(os.getcwd())
 
 
-
 files = sorted(p.glob("**/*.xls*"))
 repatter = re.compile(tagetName)
-
 
 
 for file_ in files:
@@ -24,8 +24,10 @@ for file_ in files:
     if result == None:
         continue
     else:
-        print(result)
-        #os.path.split(result)
-
+        #print(result.group())
+        dirname, basename = os.path.split(result.group())
+        print('dir = ' + dirname)
+        os.rename(result.group(), os.path.join(dirname, after))
+                
 print('===END===')
 input()
