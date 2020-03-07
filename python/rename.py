@@ -6,23 +6,24 @@ import re
 import pprint
 import os
 
-inpStr = input(r"任意の文字列を入力：")
+inpStr = input(r"検索したい文字列を入力：")
+after = input(r"置換したい文字列を入力：")
 
 tagetName   = '^.*' + inpStr +'.*'
-after       = r"2019年度報告書.xlsx"
 p = Path(os.getcwd())
 
 
-files = sorted(p.glob("**/*.xls*"))
+absPaths = sorted(p.glob("**/**"))
 repatter = re.compile(tagetName)
 
 
-for file_ in files:
-    result = repatter.match(str(file_))
-
+for path_ in absPaths:
+    result = repatter.match(str(path_))
+    if result == None: continue
+    print(result.group())
     #無駄にif文を入れている理由→http://sookibizviz.blog81.fc2.com/blog-entry-1737.html
-    if result == None:
-        continue
+    
+        
     else:
         #print(result.group())
         dirname, basename = os.path.split(result.group())
