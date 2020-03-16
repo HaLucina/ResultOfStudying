@@ -24,11 +24,11 @@ for path_ in absPaths:
     #無駄にif文を入れている理由→http://sookibizviz.blog81.fc2.com/blog-entry-1737.html
     
         
-    else:
-        #print(result.group())
-        dirname, basename = os.path.split(result.group())
-        print('dir = ' + dirname)
-        os.rename(result.group(), os.path.join(dirname, after))
+#else:
+#        #print(result.group())
+#        dirname, basename = os.path.split(result.group())
+#        print('dir = ' + dirname)
+#        os.rename(result.group(), os.path.join(dirname, after))
                 
 print('===END===')
 input()
