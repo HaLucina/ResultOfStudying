@@ -13,6 +13,10 @@ if __name__ == '__main__':  #このファイルを本体として実行した場
     p = Path(os.getcwd())
     mds = sorted(p.glob("**/*"))
     
+    #https://qiita.com/amowwee/items/e63b3610ea750f7dba1b
+    def listup_files(p):
+        yield [os.path.abspath(p) for p in sorted(p.glob("./*.md"))]
+    
     replace_setA = ('ccc =', 'ccc = 100\n') # (検索する文字列, 置換後の文字列)
     replace_setB = ('ddd =', 'ddd = N/A\n') # 最後の\nは改行コード
     
