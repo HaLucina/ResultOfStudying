@@ -1,6 +1,24 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+from pathlib import Path
+import glob
+import re
+import pprint
+import os
 import os, sys
+
+if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
+    # param set
+    tagetName   = '^.*' + inpStr +'.*'
+    p = Path(os.getcwd())
+    mds = sorted(p.glob("**/*"))
+    
+    replace_setA = ('ccc =', 'ccc = 100\n') # (検索する文字列, 置換後の文字列)
+    replace_setB = ('ddd =', 'ddd = N/A\n') # 最後の\nは改行コード
+    
+    # call func
+    replace_func(fname, replace_setA)
+    replace_func(fname, replace_setB)
 
 def replace_func(fname, replace_set):
     target, replace = replace_set
@@ -17,12 +35,4 @@ def replace_func(fname, replace_set):
         for i in range(len(tmp_list)):
             f2.write(tmp_list[i])
 
-if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
-    # param set
-    fname = './test.txt'
-    replace_setA = ('ccc =', 'ccc = 100\n') # (検索する文字列, 置換後の文字列)
-    replace_setB = ('ddd =', 'ddd = N/A\n') # 最後の\nは改行コード
-    
-    # call func
-    replace_func(fname, replace_setA)
-    replace_func(fname, replace_setB)
+
