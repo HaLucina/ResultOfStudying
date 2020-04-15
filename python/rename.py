@@ -13,10 +13,12 @@ tagetName   = '^.*' + inpStr +'.*'
 p = Path(os.getcwd())
 
 
-absPaths = sorted(p.glob("**/**"))
+filesPath = sorted(p.glob("**/**"))
 repatter = re.compile(tagetName)
 
-
+def listup_files(ETOS):
+    yield[eto for eto in ETOS]
+ 
 for path_ in absPaths:
     result = repatter.match(str(path_))
     if result == None: continue
