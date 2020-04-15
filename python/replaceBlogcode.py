@@ -7,11 +7,8 @@ import pprint
 import os, sys
 import fileinput
 
-#def listup_files(files):
-#    yield [print(f.group()) for f in files]
-
 def listup_files(files):
-    yield[os.path.basename(f) for f in files]
+    yield ([os.path.basename(f) for f in files])
     
 #    convert_code(fname, replace_setA)
 #    
@@ -23,11 +20,10 @@ def listup_files(files):
 if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
     # param set
     p   = Path(os.getcwd())
-    mds = sorted(p.glob("**/*.py"))
-    g   = listup_files(mds)
-    print(type(g))
-    for f1 in g:
-        print(f1)
-        for f in f1:
-            print(f)
+    mds = sorted(p.glob("**/*.md"))
+    gen_iter = (os.path.basename(f) for f in mds)
+    print(sys.getsizeof(gen_iter))
+
+    for f in gen_iter:
+        print(f)
        # input()
