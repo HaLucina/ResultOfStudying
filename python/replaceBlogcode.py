@@ -7,9 +7,7 @@ import pprint
 import os, sys
 import fileinput
 
-def listup_files(files):
-    yield ([os.path.basename(f) for f in files])
-    
+   
 #    convert_code(fname, replace_setA)
 #    
 #def convert_code(files):
