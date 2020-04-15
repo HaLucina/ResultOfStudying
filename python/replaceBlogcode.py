@@ -10,8 +10,8 @@ import fileinput
 #def listup_files(files):
 #    yield [print(f.group()) for f in files]
 
-def listup_files(ETOS):
-    yield[os.path.basename(eto) for eto in ETOS]
+def listup_files(files):
+    yield[os.path.basename(f) for f in files]
     
 #    convert_code(fname, replace_setA)
 #    
@@ -22,11 +22,12 @@ def listup_files(ETOS):
 
 if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
     # param set
-    p = Path(os.getcwd())
-    print(type(p))
+    p   = Path(os.getcwd())
     mds = sorted(p.glob("**/*.py"))
-    g1 = listup_files(mds)
-    for f1 in g1:
+    g   = listup_files(mds)
+    print(type(g))
+    for f1 in g:
+        print(f1)
         for f in f1:
             print(f)
        # input()
