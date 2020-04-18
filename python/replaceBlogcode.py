@@ -7,13 +7,18 @@ import pprint
 import os, sys
 import fileinput
 
-   
-#    convert_code(fname, replace_setA)
-#    
-#def convert_code(files):
-#    with fileinput.FileInput(file_name, inplace=True, backup=".bak") as f:
-#        for line in f:
-#            print(line.replace("グーグルマップ", "Google マップ "), end="")
+suketto = (
+    ("c.*", "Brooks Litchfield Conrad"),
+    ("k.*", 'Michael Arthur Kinkade'),
+    ("m.*", "Kevin Ford Mench"),
+    (".*",  "Marcos Vechionacci")
+)
+
+def convert_code(files):
+    with fileinput.FileInput(file_name, inplace=True, backup=".bak") as f:
+        for line in f:
+            dame_gaijin = lambda player: next(v for k,v in suketto if re.match(k,player))  
+            print(line.replace("グーグルマップ", "Google マップ "), end="")
 
 if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
     # param set
