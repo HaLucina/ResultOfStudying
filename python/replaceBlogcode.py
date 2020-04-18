@@ -10,7 +10,7 @@ import fileinput
 
 # https://qiita.com/hasegit/items/2cf05de74680717f9010
 switch_case = (
-    ("c.*", "Brooks Litchfield Conrad"),
+    ("[blogcard url=*", convert_card()),
     ("k.*", 'Michael Arthur Kinkade'),
     ("m.*", "Kevin Ford Mench")
 )
@@ -21,11 +21,16 @@ switch_case = (
 
 
 def convert_code(file_name):
-    with fileinput.FileInput(file_name, openhook=open(file_name,encoding  = "utf-8"), inplace=True, backup=".bak") as f:
+    with fileinput.FileInput(file_name, inplace=True) as f:
         for line in f:
             replace_code = next(v for k,v in switch_case if re.match(k,line))  
             print("print = %s" % replace_code) 
             print(line.replace(line, replace_code), end="")
+
+def convert_card(args):
+    url = args
+    shotCode = url
+    return shotCode
 
 if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
     p   = Path(os.getcwd())
