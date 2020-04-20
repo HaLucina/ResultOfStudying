@@ -12,6 +12,8 @@ draft: false
 ---
 
 <!--more-->
+
+https://twitter.com/for____92/status/1252245552718209025
 {{< tweet 877500564405444608 >}}
 
 また、知り合いのスプラブロガー『<a href="https://twitter.com/elza_let666"><strong>Elzaさん</strong></a>』が、アサリ講座のブログ記事にて動画付き解説をされております（そのブログ記事へのリンクはステージ事に案内してます）。
