@@ -7,18 +7,19 @@ import pprint
 import os, sys
 import fileinput
 
+def notMatch(args):
+    return args
 
 def convert_card(args):
-    url = args
-    shotCode = url
-    return shotCode
+    return "hoge"
 
 # https://qiita.com/hasegit/items/2cf05de74680717f9010
-switch_case = (
-    ("[blogcard url=*", convert_card),
-    ("k.*", 'Michael Arthur Kinkade'),
-    ("m.*", "Kevin Ford Mench")
-)
+case = {
+    ".*blogcard.*" : convert_card,
+    "k.*": 'Michael Arthur Kinkade',
+    "m.*": "Kevin Ford Mench",
+    ".*": notMatch
+}
 
 # https://note.nkmk.me/python-str-replace-translate-re-sub/
 # https://gist.github.com/ginrou/5787895
@@ -26,12 +27,16 @@ switch_case = (
 
 
 def convert_code(file_name):
-    with fileinput.FileInput(file_name, inplace=True) as f:
-        for line in f:
-            replace_code = next(v for k,v in switch_case if re.match(k,line))  
-            print("print = %s" % type(replace_code))
-            print(line.replace(line, replace_code), end="")
+    contents = []
+    with open(file_name, encoding="utf-8") as f:
+        #replace_code = next(v for k,v in switch_case if re.match(k,line))  
+        for line in f.readlines():
+            replace_methoed = next(case[k] for k in case if re.match(k, line))
+            contents.append(replace_methoed(line))
 
+    [print(i) for i in contents]
+    with open(file_name, mode="w", encoding="utf-8") as f:
+        f.write(contents)
 
 if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
     p   = Path(os.getcwd())
@@ -45,4 +50,4 @@ if __name__ == '__main__':  #このファイルを本体として実行した場
         except StopIteration: break
 
 
-input()
+#input()
