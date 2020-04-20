@@ -35,7 +35,7 @@ def convert_code(file_name):
             contents.append(replace_methoed(line))
 
     [print(i) for i in contents]
-    with open(file_name, mode="w", encoding="utf-8") as f:
+    with open("result.md", mode="w", encoding="utf-8") as f:
         f.write(contents)
 
 if __name__ == '__main__':  #このファイルを本体として実行した場合、mainが実行される。
