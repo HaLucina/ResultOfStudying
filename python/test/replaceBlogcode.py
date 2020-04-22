@@ -7,19 +7,23 @@ import pprint
 import os, sys
 import fileinput
 
+#https://note.nkmk.me/python-str-extract/
 
 def convert_blogCard(args):
-    url = re.search(r'\d+', args)
+    url = re.findall(r'url="(.*)" >}}', args)
+    print(url)
     syortCode = "{{< blogcard url=" + url + " >}}"
-    return "blogCard"
+    return syortCode
 
 def convert_tweet(args):
-    num = re.search(r'\d+', args)
+    num = re.findall(r'status/(.*)', args)
+    print(num)
     syortCode = "{{< tweet " + num + " >}}"
-    return "tweet"
+    return syortCode
 
 def convert_imgUrl(args):
-    jpg = re.search(r'', args)
+    jpg = re.findall(r'uploads/(.*)"><img', args)
+    print(jpg)
     syortCode = "![test](/img/uploads/" + jpg + ")"
     return syortCode
 
