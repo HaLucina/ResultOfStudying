@@ -10,21 +10,18 @@ import fileinput
 #https://note.nkmk.me/python-str-extract/
 
 def convert_blogCard(args):
-    url = re.findall(r'url="(.*)" >}}', args)
-    print(url)
-    syortCode = "{{< blogcard url=" + url + " >}}"
+    url = re.findall(r'"(.*)"', args)
+    syortCode = "{{< blogcard url=" + url[0] + " >}}"
     return syortCode
 
 def convert_tweet(args):
     num = re.findall(r'status/(.*)', args)
-    print(num)
-    syortCode = "{{< tweet " + num + " >}}"
+    syortCode = "{{< tweet " + num[0] + " >}}"
     return syortCode
 
 def convert_imgUrl(args):
     jpg = re.findall(r'uploads/(.*)"><img', args)
-    print(jpg)
-    syortCode = "![test](/img/uploads/" + jpg + ")"
+    syortCode = "![test](/img/" + jpg[0] + ")"
     return syortCode
 
 def noMatch(args):
@@ -53,20 +50,18 @@ def convert_code(file_name):
             contents.append(replace_methoed(line))
 
     #rewriteData = "\n".join(contents)
-    [print(i) for i in contents]
-    with open("result.md", mode="w", encoding="utf-8") as f:
+    #[print(i) for i in contents]
+    with open(file_name, mode="w", encoding="utf-8") as f:
         f.writelines(contents)
 
 if __name__ == '__main__':  
     p   = Path(os.getcwd())
     mds = sorted(p.glob("**/*.md"))
     gen_iter = (os.path.abspath(f) for f in mds)    
-    print(sys.getsizeof(gen_iter))
 
     for f in gen_iter:
-        print(f)
         try: convert_code(f)
         except StopIteration: break
 
 
-#input()
+input()
