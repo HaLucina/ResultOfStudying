@@ -6,9 +6,10 @@ categories:
  - Twitter
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 日本には、というより日本人には閉鎖的な独自ルールを作る文化や風習、そしてそれを強制する悪性が根付いています。
@@ -141,8 +142,10 @@ Twitterそのものがオープンな場であり、Twitterユーザの9割以�
 
 &nbsp;
 
-{{< blogcard url=https://kotaku.com/japan-comes-up-with-polite-slang-for-twitter-replies-1798529826 >}}
-{{< blogcard url=https://mashable.com/2017/08/30/japanese-twitter-mansplain-ff-gai/#Lz2_iDCJAmq7 >}}
+[blogcard url="https://kotaku.com/japan-comes-up-with-polite-slang-for-twitter-replies-1798529826"]
+
+[blogcard url="https://mashable.com/2017/08/30/japanese-twitter-mansplain-ff-gai/#Lz2_iDCJAmq7"]
+
 &nbsp;
 
 結局は身内か他人かを区別する意識が恐ろしく強いことや、他人に配慮しないといけないという考えが逆に失礼をかましているんですよね。

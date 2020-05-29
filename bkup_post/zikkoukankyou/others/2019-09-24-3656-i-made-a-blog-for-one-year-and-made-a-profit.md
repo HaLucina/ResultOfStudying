@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ブログを書き始めてそろそろ1年(正確に言うとブログを開設したのは2年前ですが)。

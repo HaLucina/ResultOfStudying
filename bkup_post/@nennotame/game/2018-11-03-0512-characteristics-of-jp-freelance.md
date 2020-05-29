@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以前、TwitterでMartyさんに以下のような質問をしたことがあります。
 
-{{< tweet 1034841785498038274 >}}
+https://twitter.com/MartyBubbler/status/1034841785498038274
+
 とても簡単な翻訳ですが『<strong>JPとEUの野良の違いは何ですか？</strong>』と質問して『<strong>JPの野良の方が生産的です</strong>』という回答を頂いたんです。
 
 &nbsp;
@@ -174,7 +176,8 @@ https://hackheatharu.xyz/dont-use-sp-at-salmonrun/
 
 よければ聞いてください。
 
-{{< tweet 1028932593524174848 >}}
+https://twitter.com/_HaLucina/status/1028932593524174848
+
 &nbsp;
 
 &nbsp;

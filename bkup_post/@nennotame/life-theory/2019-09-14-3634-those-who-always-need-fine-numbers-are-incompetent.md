@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 例えば『この前食べた1000円くらいの料理が微妙だったんだよねぇ〜』なんて話をしてたとするじゃないですか。
@@ -181,10 +182,12 @@ draft: true
 
 &nbsp;
 
-{{< tweet 1143470949661986818 >}}
+https://twitter.com/_HaLucina/status/1143470949661986818
+
 &nbsp;
 
-{{< tweet 1145207540013080583 >}}
+https://twitter.com/_HaLucina/status/1145207540013080583
+
 &nbsp;
 
 ツイートにもありますが、結果としてその通りになりました。
@@ -233,10 +236,12 @@ draft: true
 
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/dapple-dualies-with-main-performance-up/ >}}
+[blogcard url="https://hackheatharu.xyz/dapple-dualies-with-main-performance-up/"]
+
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/stress-is-more-scary-than-disease/ >}}
+[blogcard url="https://hackheatharu.xyz/stress-is-more-scary-than-disease/"]
+
 &nbsp;
 
 相手が詳しく知りたいであろう、もしくは概算じゃないデータ（数値）を伝えたい時は正確に掲載しているつもりです。

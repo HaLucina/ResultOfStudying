@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 最近ブログをデパートなどの建物にある休憩スペースで書いてます。
@@ -172,7 +173,8 @@ Bのお子さんは大丈夫なのだろうか……。
 
 根拠は私がそのような経験を積んできたからです。
 
-{{< blogcard url=https://hackheatharu.xyz/meet-mentors/ >}}
+[blogcard url="https://hackheatharu.xyz/meet-mentors/"]
+
 &nbsp;
 
 &nbsp;

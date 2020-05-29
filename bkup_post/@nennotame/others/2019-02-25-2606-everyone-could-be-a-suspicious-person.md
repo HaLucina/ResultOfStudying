@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 未婚・既婚に関わらず女性の方、もしくは小さなお子さんを持つ両親は不審者対策をされているでしょうか。
@@ -103,7 +104,8 @@ http://hyogo-bouhan.net/criminalCase/detail.do?topicId=31837&amp;top=true</block
 
 先月ですが、私自身こんなことがありました。
 
-{{< tweet 1089488877096599552 >}}
+https://twitter.com/_HaLucina/status/1089488877096599552
+
 &nbsp;
 
 運が悪ければ私も不審者になっていたのかもしれませんね。

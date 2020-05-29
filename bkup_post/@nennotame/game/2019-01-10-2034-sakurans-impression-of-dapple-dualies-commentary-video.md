@@ -6,16 +6,18 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私がフォローしているスパヒュー使いの中で解説動画を作成されている方がいらっしゃいます。
 
 <strong>サクランさん(<a href="https://twitter.com/nicosakuran1230" target="_blank" rel="noopener">@hatenanWR</a>)</strong>という方です。
 
-{{< tweet 1081732088984817664 >}}
+https://twitter.com/nicosakuran1230/status/1081732088984817664
+
 &nbsp;
 
 見ていて<strong>99％のスパ使いは共感する内容である</strong>と感じました。

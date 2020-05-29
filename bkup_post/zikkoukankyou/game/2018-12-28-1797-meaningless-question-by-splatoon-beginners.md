@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 『<strong>スプラプレイヤーがよくする無意味な質問</strong>』には2大巨頭が存在します。

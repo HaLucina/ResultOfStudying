@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 Twitterでサーモンラン関連を見ている時、大抵『<strong>納品型</strong>』か『<strong>処理型</strong>』の２つに分類されます。
@@ -38,7 +39,8 @@ Twitterでサーモンラン関連を見ている時、大抵『<strong>納品�
 
 失敗は２Wave目で、１Wveは満潮・２Waveは通常でした。
 
-![test](/img/2019/03/canva-photo-editor-7.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/canva-photo-editor-7.png"><img class="alignnone size-medium wp-image-2847" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/canva-photo-editor-7-258x300.png" alt="" width="258" height="300" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -86,7 +88,8 @@ Twitterでサーモンラン関連を見ている時、大抵『<strong>納品�
 
 <strong>１つのことに意識を割きすぎている</strong>のも野良の特徴だと思います。
 
-{{< blogcard url=https://hackheatharu.xyz/characteristics-of-jp-freelance/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/characteristics-of-jp-freelance/"]</blockquote>
+&nbsp;
 
 &nbsp;
 

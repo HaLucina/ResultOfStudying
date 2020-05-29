@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 皆さん、こんばんは。HaLucinaです。
@@ -51,7 +52,8 @@ draft: true
 
 それは、<strong>#7119</strong>に電話するか、<strong>「#7119」</strong>でインターネット検索すると『<strong>専門家からアドバイスを頂ける</strong>』そうです。
 
-{{< blogcard url=http://www.tfd.metro.tokyo.jp/lfe/kyuu-adv/soudan-center-a.htm >}}
+[blogcard url="http://www.tfd.metro.tokyo.jp/lfe/kyuu-adv/soudan-center-a.htm"]
+
 &nbsp;
 
 &nbsp;

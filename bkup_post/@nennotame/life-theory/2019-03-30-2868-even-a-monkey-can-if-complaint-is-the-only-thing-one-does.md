@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 半年以上ブログを書いていると的外れな感想や文句を述べる人と出会うようになりました。
@@ -31,7 +32,8 @@ draft: true
 
 最近であればブログ仲間のElzaさんが良い例でしょうか。
 
-{{< tweet 1108597598787530752 >}}
+https://twitter.com/_HaLucina/status/1108597598787530752
+
 &nbsp;
 
 &nbsp;
@@ -50,7 +52,8 @@ draft: true
 
 とても見やすく、他の記事を作成する時に作りやすく改善されたと思います。
 
-{{< blogcard url=https://elzalet.xyz/x%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%82%AC%E3%83%81%E3%83%9B%E3%82%B3%E8%AC%9B%E5%BA%A7%EF%BC%88%E3%83%AB%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%83%86%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC/ >}}
+[blogcard url="https://elzalet.xyz/x%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%82%AC%E3%83%81%E3%83%9B%E3%82%B3%E8%AC%9B%E5%BA%A7%EF%BC%88%E3%83%AB%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%83%86%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC/"]
+
 &nbsp;
 
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - FE
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スマブラSPからファイアーエムブレム（以下FE）を知った方に向けて『<strong>FEキャラの紹介</strong>』をする記事です。
@@ -23,7 +24,7 @@ FEの世界では、このキャラはどのような活躍をしていたのか
 
 &nbsp;
 <h2>スマブラのマルス</h2>
-![test](/img/2018/12/maxresdefault-19.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/maxresdefault-19.jpg)
 スマブラDXから参戦したFE枠での初代スマブラファイターです。
 
 マルスの特徴は『<strong>剣の先端の攻撃力が高い</strong>』ことです。
@@ -47,12 +48,12 @@ FEの世界では、このキャラはどのような活躍をしていたのか
 </ul>
 &nbsp;
 <h5>マルスのスマ知識</h5>
-![test](/img/2018/12/2018121811135900-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1589" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811135900-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811125600-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1588" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811125600-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383500-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1590" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383500-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383800-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1591" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383800-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384000-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1592" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384000-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1593" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384300-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384600-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/2018121811135900-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1589" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811135900-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811125600-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1588" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811125600-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383500-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1590" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383500-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383800-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1591" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811383800-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384000-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1592" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384000-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1593" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384300-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811384600-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg)
 &nbsp;
 
 &nbsp;
 <h2>FEのマルス</h2>
-![test](/img/2018/12/canva-photo-editor-1-2.png)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/canva-photo-editor-1-2.png)
 (画像引用：<a href="https://www.nintendo.co.jp/fe/characters/detail/marth04.html">ファイアーエムブレムワールド【FIRE EMBLEM WORLD】</a>)
 
 &nbsp;
@@ -123,7 +124,7 @@ FEでは本来、下級職⇒上級職となるクラスチェンジを行うこ
  	<li>後の作品では『<strong>英雄王マルス</strong>』と呼ばれるようになるが、『覚醒』ではファンの間で『<strong>蛮族王マルス</strong>』と呼ばれることがある。
 これは彼の武器や幸運ステータスが、<strong>蛮族</strong>というクラスの『<strong>強奪</strong>』スキルにベストマッチしてしまい、結果として金策に最適なキャラとして誕生しからである。</li>
  	<li>FC版とSFC版でグラフィックを比べると笑える。
-![test](/img/2018/12/img_10_m.jpg"><img class="alignnone size-full wp-image-1643" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/img_10_m.jpg" alt="" width="182" height="203" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/img_11_m.jpg) 	<li>2018年11月1日配信「大乱闘スマッシュブラザーズSPECIAL Direct」のPVで『<strong>一人で10体ぐらい倒せればいけるか…?</strong>』という恐ろしい発言をする。
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/img_10_m.jpg"><img class="alignnone size-full wp-image-1643" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/img_10_m.jpg" alt="" width="182" height="203" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/img_11_m.jpg) 	<li>2018年11月1日配信「大乱闘スマッシュブラザーズSPECIAL Direct」のPVで『<strong>一人で10体ぐらい倒せればいけるか…?</strong>』という恐ろしい発言をする。
 これはファンの間で『<strong>マルス理論</strong>』と呼ばれるが、製作者の桜井さんによると『<a href="https://www.famitsu.com/news/201812/17169087.html?page=2"><strong>セリフや動きには、それぞれの個性が表れています。マルスは軍隊の指揮官だから、戦力の見積もりを取っているわけです。</strong></a>』とのこと。</li>
 </ul>
 &nbsp;

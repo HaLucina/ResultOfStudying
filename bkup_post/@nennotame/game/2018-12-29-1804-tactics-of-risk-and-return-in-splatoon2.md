@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私のフォロワーさんが、スプラをするえうで考えさせられる画像をTwitterに投稿されていました。
 
-![test](/img/2018/12/DvVGaJ9UYAAVdt8.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/DvVGaJ9UYAAVdt8.jpg"><img class="alignnone size-medium wp-image-1805" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/DvVGaJ9UYAAVdt8-252x300.jpg" alt="多少リスクのある行動をしないとリターンが無い" width="252" height="300" /></a>
+
 &nbsp;
 
 &nbsp;

@@ -6,12 +6,14 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1086185498622611456 >}}
+https://twitter.com/Sankei_news/status/1086185498622611456
+
 &nbsp;
 
 というニュースが非常に話題になっていますね。
@@ -66,7 +68,8 @@ draft: true
 
 また、聞くところによると『<strong>生徒側は教師をハメようとしてわざと煽った</strong>』疑いがあるそうです。
 
-{{< blogcard url=https://brandnew-s.com/2019/01/18/machidasougou/ >}}
+[blogcard url="https://brandnew-s.com/2019/01/18/machidasougou/"]
+
 真実かどうかはわかりませんけれども、どちらにせよ殴った教師だけが悪いと思えません。
 
 ハメたとなれば生徒は本当にゴミ屑だと思いますし、そうじゃなくとも動画のような態度の生徒はゴミ屑です。

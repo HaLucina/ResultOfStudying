@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 教育大国と言われているフィンランドですが、テレビで『マラソン大会の順位付け』に関して以下のように言及していたようです。

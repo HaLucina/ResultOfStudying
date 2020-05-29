@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 数日前のTwitterでヤグラに乗らないリッター４Kの目の前でカモン連打したり、メインでその４Kを撃ちまくっている動画が話題に挙がっていましたね。

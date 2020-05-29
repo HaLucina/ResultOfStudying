@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 さて、この記事は『<a href="https://twitter.com/kawaharayumeno"><strong>シャケ界のインテリゴリラ 夢乃さん</strong></a>』の以下ツイートを切っ掛けに書かせて頂きました。
@@ -184,7 +185,7 @@ https://youtu.be/U6sT0xpViw4
 
 <strong>ていうか最近、野良にイライラしているので、また高レベルバイトに連れて行ってください。</strong>
 
-![test](/img/2019/07/D87xG9IUIAE-0TI.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/07/D87xG9IUIAE-0TI.png)
 &nbsp;
 
 &nbsp;

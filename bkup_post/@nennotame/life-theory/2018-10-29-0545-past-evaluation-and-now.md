@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私のブログの記事が30記事に到達しました。ありがとうございます。
@@ -136,7 +137,8 @@ https://hackheatharu.xyz/moral-or-morale/
 <h2>他人の評価は当てにならない</h2>
 とても素敵なブログがあったのでご紹介します。
 
-{{< blogcard url=http://www.hikico-mori.com/entry/tanin-hyouka >}}
+[blogcard url="http://www.hikico-mori.com/entry/tanin-hyouka"]
+
 &nbsp;
 <blockquote>私にも世の中の価値観とは違う評価軸があります。
 

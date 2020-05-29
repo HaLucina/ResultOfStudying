@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以前、ガチアサリの全ステージMAP画像撮影の協力を求めたことがありました。
@@ -25,7 +26,8 @@ https://hackheatharu.xyz/all-stage-of-clam-blitz-map/
 
 なぜかというと『<strong>信頼</strong>』があったからであり、最低でも『<strong>信用</strong>』できる人達だからでした。
 
-{{< tweet 1054294473151107072 >}}
+https://twitter.com/_HaLucina/status/1054294473151107072
+
 &nbsp;
 
 一見、意味も用途も同じようなこの2つの言葉の違いをご存知でしょうか。

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 サーモンランで最強のブキは何かと言われると『<strong>スパッタリー</strong>』が候補に挙がります。
@@ -47,7 +48,8 @@ draft: true
 
 &nbsp;
 
-{{< tweet 1074266670565392384 >}}
+https://twitter.com/MartyBubbler/status/1074266670565392384
+
 &nbsp;
 <blockquote>【意訳】
 
@@ -66,8 +68,10 @@ draft: true
 
 ゆえにポラリス満潮の時『<strong>スパッタリーは雑魚処理してあげなさいよ</strong>』と私はTwitterで呟いたのです。
 
-{{< tweet 1075319973365538816 >}}
-{{< tweet 1076388356915752960 >}}
+https://twitter.com/_HaLucina/status/1075319973365538816
+
+https://twitter.com/_HaLucina/status/1076388356915752960
+
 &nbsp;
 
 &nbsp;

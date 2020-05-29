@@ -6,17 +6,20 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 先日、以下のツイートをリツイートし、自分自身の意見も述べたことがありました。
 
 &nbsp;
 
-{{< tweet 1088342959278370816 >}}
-{{< tweet 1088417743584473090 >}}
+https://twitter.com/tomo_spl2/status/1088342959278370816
+
+https://twitter.com/_HaLucina/status/1088417743584473090
+
 &nbsp;
 
 内容についてはここで触れませんが、前述の方は私より遥かにゲームが強い人です。
@@ -31,7 +34,8 @@ draft: true
 
 &nbsp;
 <h2>思ったことを述べるだけなことに立場は関係ない</h2>
-{{< tweet 1062355913305018373 >}}
+https://twitter.com/ROZE07160204/status/1062355913305018373
+
 &nbsp;
 
 以前にこのようなツイートを頂いたことがあります。
@@ -72,10 +76,14 @@ NHKニュースによると、アメリカの研究で『<strong>ＳＮＳで異
 
 例えば冒頭で紹介したツイートに対しても、以下のようにしっかりと自分の考えを述べてくれてました。
 
-{{< tweet 1088414971434659840 >}}
-{{< tweet 1088436033169940485 >}}
-{{< tweet 1088439962452643840 >}}
-{{< tweet 1088446200322224133 >}}
+https://twitter.com/siren3co/status/1088414971434659840
+
+https://twitter.com/qd0bp_hobby/status/1088436033169940485
+
+https://twitter.com/qd0bp_hobby/status/1088439962452643840
+
+https://twitter.com/CsTe_Advance1/status/1088446200322224133
+
 &nbsp;
 
 これって素晴らしくないですか？

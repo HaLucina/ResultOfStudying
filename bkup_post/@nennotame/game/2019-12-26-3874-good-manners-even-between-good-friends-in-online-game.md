@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 Twitterを眺めていて以下のような話題を見かけました。
@@ -106,15 +107,19 @@ MH4では狩るモンスターや簡単な条件を付け加えて部屋を立�
 当時この問題は大きな話題の１つだったので、まとめサイトや個人ブログでもよく取り上げられていたんですよ。
 &nbsp;
 
-{{< blogcard url=http://monhan-mhw.com/archives/7681185.html >}}
-{{< blogcard url=https://monsterhunter-matome.com/archives/32393691.html >}}
-{{< blogcard url=https://bassy-mh.info/mh4-on-friendpass.html >}}
+[blogcard url="http://monhan-mhw.com/archives/7681185.html"]
+
+[blogcard url="https://monsterhunter-matome.com/archives/32393691.html"]
+
+[blogcard url="https://bassy-mh.info/mh4-on-friendpass.html"]
+
 &nbsp;
 
 と、まぁこのように不満が続出していたこともあり、次作のMH4Gでは<strong>フレンドでもパスの入力が必要か不要かという選択を追加した</strong>という経緯があります。
 &nbsp;
 
-{{< blogcard url=http://www.capcom.co.jp/monsterhunter/4G/action/action_09.html?last=0&id=60&cat=4 >}}
+[blogcard url="http://www.capcom.co.jp/monsterhunter/4G/action/action_09.html?last=0&id=60&cat=4"]
+
 &nbsp;
 
 <h2>親しき中にも礼儀あり</h2>

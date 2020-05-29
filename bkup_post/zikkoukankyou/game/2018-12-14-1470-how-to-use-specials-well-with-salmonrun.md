@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私のブログでたびたび紹介しているEUサーモンランの巨匠『<strong>Marty』</strong>さんが『<strong>サーモンランにおけるスペシャルの使い方</strong>』について語ってくれたようです。

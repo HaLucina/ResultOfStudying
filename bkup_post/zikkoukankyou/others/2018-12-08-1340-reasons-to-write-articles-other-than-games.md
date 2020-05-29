@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ブログのおかげなのか、単純にスパッタリーを使っている面白そうな奴だからなのか、数日で何人かの方からフォローして貰っています。

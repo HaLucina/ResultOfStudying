@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 こう見えて読書をしているHaLucinaですが、久しぶりに皆さんへ紹介したい本と出会いました。

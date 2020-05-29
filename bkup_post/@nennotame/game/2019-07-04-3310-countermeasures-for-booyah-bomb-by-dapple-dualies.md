@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私がスパッタリーを使っていて判断に迷う時の１つに『<strong>ナイスダマ発動中の敵への対処</strong>』があります。
@@ -17,7 +18,8 @@ draft: true
 
 以下動画のようにメイン性能1.4スパを使っていて、かつ発動と同時に攻撃を仕掛けたとしても狩るのがギリギリなんですよね。
 
-{{< tweet 1140491281447018497 >}}
+https://twitter.com/_HaLucina/status/1140491281447018497
+
 &nbsp;
 
 そのため『<strong>他のブキもナイスダマ狩るの難しいのかな？</strong>』とか『<strong>そもそもナイスダマを狩るメリットはあるのか？</strong>』という思考を悶々としておりました。
@@ -36,7 +38,8 @@ draft: true
 
 <strong>なんと！Elzaさんがわざわざ検証して下さったんですよ！</strong>
 
-{{< blogcard url=https://elzalet.xyz/%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%80%e3%83%9e%e5%89%b2%e3%82%8a%e3%82%92%e6%ad%a6%e5%99%a8%e5%88%a5%e3%81%a7%e8%a9%a6%e3%81%97%e3%81%9f%e3%80%90%e3%82%b9%e3%83%97%e3%83%a9%e3%83%88%e3%82%a5%e3%83%bc/ >}}
+[blogcard url="https://elzalet.xyz/%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%80%e3%83%9e%e5%89%b2%e3%82%8a%e3%82%92%e6%ad%a6%e5%99%a8%e5%88%a5%e3%81%a7%e8%a9%a6%e3%81%97%e3%81%9f%e3%80%90%e3%82%b9%e3%83%97%e3%83%a9%e3%83%88%e3%82%a5%e3%83%bc/"]
+
 https://youtu.be/PkmgdrjDet8
 
 &nbsp;

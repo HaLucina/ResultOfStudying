@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以前書いた記事で、なぜ日本人は議論が下手なのかを考察した話があります。
@@ -20,7 +21,8 @@ draft: true
 
 相手を打ち負かすこと、もしくは何も言わず相手の意見に流されること、これらから意識を変えなければ質の良い結論が導き出されないでしょう。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/flexible-thinking/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xsrv.jp/flexible-thinking/"]</blockquote>
+&nbsp;
 
 その記事では『柔軟な思考』をすることが大事であると読んでいただいた人に伝えたいものでした。
 
@@ -66,7 +68,8 @@ draft: true
 
 ホントにTwitterでは悪い意味で面白い人に遭遇します。
 
-{{< tweet 1049572023037394944 >}}
+https://twitter.com/fujitatakanori/status/1049572023037394944
+
 閑話休題。
 
 さて、その話の中で主人公は、宇宙飛行士の野口さんが講演で話したことを頭に思い浮かべます。
@@ -95,14 +98,16 @@ draft: true
 
 こちらの記事でも少し触れましたが、日本という保守的なお国柄も相まって話を聞いてくれない、聞こうとしない、むしろ変化することを受け入れられないことが原因なんだと思います。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/flexible-thinking/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/flexible-thinking/"]
+
 &nbsp;
 
 あるいは、彼らのような人たちは何か問題が発生した時<strong>『分かりやすい悪役探し』</strong>をしてきます。
 
 以下の記事でそれの具体的なエピソードが語られています。
 
-{{< blogcard url=https://blog.tinect.jp/?p=43967 >}}
+[blogcard url="https://blog.tinect.jp/?p=43967"]
+
 &nbsp;
 
 &nbsp;
@@ -133,7 +138,8 @@ draft: true
 
 可能なら、そんな人達のことは放っておいて行動に移してしまった方が早いです。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/bad-work-4-18-html/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/bad-work-4-18-html/"]
+
 &nbsp;
 
 もし貴方が多角的に見て行動を起こした結果、失敗しても恥じることはありません。

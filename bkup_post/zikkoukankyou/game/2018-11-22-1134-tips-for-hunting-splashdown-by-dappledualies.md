@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以前から私の元に『<strong>チャクチ狩りのコツを教えてください</strong>』と聞かれることがありました。
@@ -126,7 +127,7 @@ SPが溜まっている時、どちらも光って見えるはずです。
 
 &nbsp;
 
-![test](/img/2018/11/splatoon2-buki-sp-mantan-hyouji-5-300x226.jpg" alt="" width="300" height="226" /></a><a href="https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/splatoon2-buki-sp-mantan-hyouji-5-300x226.jpg" alt="" width="300" height="226" /></a><a href="https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/)
 <strong>※画像引用元：”ゲームメモ” 様 　 [URL ⇒ <a href="https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/">https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/</a>]</strong>
 
 &nbsp;

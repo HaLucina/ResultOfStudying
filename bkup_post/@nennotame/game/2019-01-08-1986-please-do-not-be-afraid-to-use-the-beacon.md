@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私はスパッタリーを使っているため『<strong>ジャンプビーコン</strong>』に関して多少は知識を持ち合わせているつもりです。
@@ -30,7 +31,8 @@ https://hackheatharu.xyz/consideration-about-current-beacon-and-life/
 &nbsp;
 <h2>ビーコン使ってアピールは無駄だし、ビーコンを使うのに遠慮も許可もいらない</h2>
 さて、冒頭で述べたフォロワーさんのビーコン話題というのは、以下の画像の文章です。
-![test](/img/2019/01/DwRfmhOVsAUQYzy.jpg)
+<blockquote><a href="https://hackheatharu.xyz/wp-content/uploads/2019/01/DwRfmhOVsAUQYzy.jpg"><img class="alignnone size-medium wp-image-1995" src="https://hackheatharu.xyz/wp-content/uploads/2019/01/DwRfmhOVsAUQYzy-300x125.jpg" alt="イカスミ堂の記事" width="300" height="125" /></a>
+
 引用元のサイト：<a href="https://ikasumido.com/">https://ikasumido.com/</a></blockquote>
 &nbsp;
 
@@ -56,7 +58,8 @@ https://hackheatharu.xyz/consideration-about-current-beacon-and-life/
 
 &nbsp;
 
-{{< tweet 1082105801466990592 >}}
+https://twitter.com/ragurun7/status/1082105801466990592
+
 &nbsp;
 
 &nbsp;
@@ -94,7 +97,8 @@ https://hackheatharu.xyz/consideration-about-current-beacon-and-life/
 
 <strong>構いません。使ってください。</strong>
 
-{{< tweet 1008105475781451776 >}}
+https://twitter.com/_HaLucina/status/1008105475781451776
+
 &nbsp;
 
 &nbsp;
@@ -122,7 +126,8 @@ https://hackheatharu.xyz/consideration-about-current-beacon-and-life/
 
 <strong>味方がビーコン使うのに、お前のゴミみたいなルールなんか邪魔でしかないんだよ。</strong>
 
-{{< tweet 1008104114092306432 >}}
+https://twitter.com/_HaLucina/status/1008104114092306432
+
 &nbsp;
 
 &nbsp;
@@ -139,7 +144,8 @@ https://hackheatharu.xyz/consideration-about-current-beacon-and-life/
 
 というより、ビーコンを植えている側としては『<strong>使ってもらうと凄く嬉しい</strong>』のです。
 
-{{< tweet 1048920573202509824 >}}
+https://twitter.com/_HaLucina/status/1048920573202509824
+
 &nbsp;
 
 &nbsp;
@@ -154,5 +160,6 @@ https://hackheatharu.xyz/consideration-about-current-beacon-and-life/
 
 <strong>さぁ、みんなビーコンを使おう！</strong>
 
-{{< tweet 1061496808520671232 >}}
-{{< tweet 1079473034417688576 >}}
+https://twitter.com/_HaLucina/status/1061496808520671232
+
+https://twitter.com/_HaLucina/status/1079473034417688576

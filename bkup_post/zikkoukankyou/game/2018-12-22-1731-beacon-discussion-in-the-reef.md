@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 皆さんこんにちは。『<strong>全日本スプラ２ジャンプビーコン研究会</strong>』会員のHaLucinaです。
@@ -41,7 +42,7 @@ https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83
 
 &nbsp;
 
-![test](/img/2018/12/0d76cf833d5683d751da39e51d949354-2-1.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/0d76cf833d5683d751da39e51d949354-2-1.jpg)
 （画像引用：<a href="https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B32%E3%80%91%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%90%E3%83%83%E3%83%86%E3%83%A9%E7%B7%A8/">【スプラトゥーン2】ジャンプビーコン(バッテラ編)</a>）
 
 &nbsp;
@@ -114,14 +115,12 @@ https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83
 
 &nbsp;
 
-{{< tweet 1043729182671364097 >}}
-
-<strong>ハイドラントをオススメするペニーワイズ</strong></a>』もメリットとして挙げる点ですからね。
+{{< tweet 1043729182671364097"><strong>ハイドラントをオススメするペニーワイズ</strong></a>』もメリットとして挙げる点ですからね。 >}}
 &nbsp;
 
-![test](/img/2018/12/canva-photo-editor-10.png)
-![test](/img/2018/12/canva-photo-editor-11.png)
-![test](/img/2018/12/canva-photo-editor-1-4.png)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/canva-photo-editor-10.png)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/canva-photo-editor-11.png)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/canva-photo-editor-1-4.png)
 &nbsp;
 
 &nbsp;
@@ -161,7 +160,7 @@ Elzaさんのブログの画像を見てわかる通り、劣勢時に使うビ�
 
 &nbsp;
 
-![test](/img/2018/12/2018122116543900-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/12/2018122116543900-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 
 &nbsp;

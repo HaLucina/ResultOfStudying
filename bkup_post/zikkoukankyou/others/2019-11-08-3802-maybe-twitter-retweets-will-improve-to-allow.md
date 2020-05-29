@@ -6,7 +6,7 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -55,8 +55,7 @@ draft: true
 しかし、世の中には知らない誰かから思いもよらないものをRTし、勝手に悪評を広めてくれようとする人もいるわけです(ましてや、わざわざ過去のツイートを遡って)。
 私の場合、その結果が以下の記事になるんですけどね。
 
-{{< blogcard url=https://hackheatharu.xyz/is-delivery-0-bound-with-a-salmon-run-bad >}}
-
+{{< blogcard url= >}}
 ぶっちゃけますが、この記事を書いていた当初<strong>『こんなゴミみたいな奴にも絡まれるようになったなら、いっそ鍵アカにしてブログ記事だけツイートするアカウントでも作ろうか』</strong>と真剣に考えていました。
 ですがブログの記事だけ呟くアカウントなんて正直いらないですし、私自身のツイートを見るついでにブログが読まれている効果も無視できなかったのです。
 まさしく引用の通り<strong>『ツイートを拡散してもらうことが有益なので、非公開設定はしたくない』</strong>葛藤がありました。

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 なぜか私のことを『<strong>強いスパッタリー使い</strong>』と認識している方がいらっしゃいますが、全くそんなことはありません。
@@ -17,7 +18,7 @@ draft: true
 
 私の最高はアサリの『<strong>2537.6</strong>』です。
 
-![test](/img/2019/03/DpuXtn_VsAEEA-5.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/DpuXtn_VsAEEA-5.jpg)
 &nbsp;
 
 ホコとヤグラはスパッタリー・ヒューで2450くらい。
@@ -52,7 +53,7 @@ draft: true
 
 以下の画像はコンブトラック中央で2周ほどカメラを回転しながら塗った画像です。
 
-![test](/img/2019/03/bbc45da6bc5ae6c8ed901dbce82b91d1.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/bbc45da6bc5ae6c8ed901dbce82b91d1.png)
 &nbsp;
 
 &nbsp;

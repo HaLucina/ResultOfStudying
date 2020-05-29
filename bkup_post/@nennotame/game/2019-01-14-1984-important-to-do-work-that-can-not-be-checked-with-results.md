@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ノーミス野良カンストを狙う際、とても大事なことがあります。
@@ -28,7 +29,8 @@ draft: true
 
 どちらかと言えば<strong>自分がこのWaveで何をどうできたか</strong>について分析すること主軸を置くべきだと考えます。
 
-{{< blogcard url=https://hackheatharu.xyz/salmonrun-result/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/salmonrun-result/"]</blockquote>
+&nbsp;
 
 バイトでは数値化されてない様々なクリア要因があります。
 
@@ -134,7 +136,8 @@ draft: true
 <h2>コンテナの近くに出現させた金イクラの数</h2>
 いわゆる『<strong>ウマイクラ</strong>』を作ることです。
 
-{{< tweet 1082389829097218048 >}}
+https://twitter.com/xa_hydrogen/status/1082389829097218048
+
 &nbsp;
 
 オオモノは倒せばいいというわけじゃないんです。
@@ -161,7 +164,8 @@ draft: true
 
 &nbsp;
 <h2>味方を守るために雑魚処理をした時のイクラの数</h2>
-{{< tweet 1075319973365538816 >}}
+https://twitter.com/_HaLucina/status/1075319973365538816
+
 &nbsp;
 
 リザルトでは普通のイクラの数が表示されます。

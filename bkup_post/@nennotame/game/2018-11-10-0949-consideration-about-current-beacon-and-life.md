@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
@@ -21,7 +22,8 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 &nbsp;
 
-![test](/img/2018/11/DrZI0oCVYAAHTdJ.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/DrZI0oCVYAAHTdJ.jpg"><img class="alignnone size-medium wp-image-951" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/DrZI0oCVYAAHTdJ-300x269.jpg" alt="" width="300" height="269" /></a>
+
 &nbsp;
 
 私は以前の状態でも十分ビーコンは使えると考えておりましたが、今回の内容がきっかけでビーコンに対する注目が上がったように思います。
@@ -48,7 +50,8 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 &nbsp;
 
-![test](/img/2018/11/FotoJet.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/FotoJet.jpg"><img class="alignnone size-full wp-image-952" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/FotoJet.jpg" alt="" width="117" height="117" /></a>
+
 &nbsp;
 
 この丸ポチの数でビーコンが壊れるか否かが判断できるようになりました。
@@ -59,7 +62,8 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 &nbsp;
 
-{{< tweet 1008105475781451776 >}}
+https://twitter.com/_HaLucina/status/1008105475781451776
+
 &nbsp;
 
 なので被ビーコン者が跳ぶ時に『<strong>まだ壊れないから使おう</strong>』という意識が芽生えてくれる＝<strong>ビーコンを使ってくれることに繋がる</strong>んですね。
@@ -95,13 +99,20 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 &nbsp;
 
-{{< tweet 1060933558993223680 >}}
-{{< tweet 1061014613767016448 >}}
-{{< tweet 1061029518368899072 >}}
-{{< tweet 1061081419277991936 >}}
-{{< tweet 1061086024988643329 >}}
-{{< tweet 1061086630197358593 >}}
-{{< tweet 1061086348864450562 >}}
+https://twitter.com/_HaLucina/status/1060933558993223680
+
+https://twitter.com/ragurun7/status/1061014613767016448
+
+https://twitter.com/spla2_stroika/status/1061029518368899072
+
+https://twitter.com/_HaLucina/status/1061081419277991936
+
+https://twitter.com/spla2_stroika/status/1061086024988643329
+
+https://twitter.com/spla2_stroika/status/1061086630197358593
+
+https://twitter.com/ragurun7/status/1061086348864450562
+
 &nbsp;
 
 私もビーコンを使うのであれば味方にも使って欲しいと思っています。
@@ -120,7 +131,8 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 たまにチャクチの回避やジェッパから逃げるのにも使います。
 
-{{< tweet 998930665004453894 >}}
+https://twitter.com/_HaLucina/status/998930665004453894
+
 &nbsp;
 
 あわよくば味方が復帰に使ってくれたらもっといいんだけどなという気持ちも強いです。
@@ -157,12 +169,18 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 <strong>※追記</strong>：ビーコン使いも2回跳べるのはかなり不利という意見があったので、そうではないと思う私の見解と、私の言いたかったことを代弁してくださったぽんたさんのツイートを追加掲載。
 
-{{< tweet 1061233589386264576 >}}
-{{< tweet 1061235188204658688 >}}
-{{< tweet 1061236022543937536 >}}
-{{< tweet 1061237280193429504 >}}
-{{< tweet 1061236468150988800 >}}
-{{< tweet 1061240628686684160 >}}
+https://twitter.com/_HaLucina/status/1061233589386264576
+
+https://twitter.com/_HaLucina/status/1061235188204658688
+
+https://twitter.com/_HaLucina/status/1061236022543937536
+
+https://twitter.com/_HaLucina/status/1061237280193429504
+
+https://twitter.com/qd0bp_hobby/status/1061236468150988800
+
+https://twitter.com/qd0bp_hobby/status/1061240628686684160
+
 &nbsp;
 
 &nbsp;
@@ -171,13 +189,16 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 できればこの3人だけじゃなく、他のビーコン愛好者の考えも聞いてみたいです。
 
-{{< tweet 1061090951886589953 >}}
-{{< tweet 1061092660998361088 >}}
+https://twitter.com/_HaLucina/status/1061090951886589953
+
+https://twitter.com/spla2_stroika/status/1061092660998361088
+
 &nbsp;
 
 &nbsp;
 
 (';')…………。
 
-{{< tweet 1061096649160712193 >}}
-{{< tweet 1061099611593424896 >}}
+https://twitter.com/_HaLucina/status/1061096649160712193
+
+https://twitter.com/_HaLucina/status/1061099611593424896

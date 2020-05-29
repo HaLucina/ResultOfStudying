@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 皆さん、明けましておめでとうございます。
@@ -40,7 +41,7 @@ draft: true
 
 &nbsp;
 <h2>スパッタリー・ヒューの汎用ギア構成</h2>
-![test](/img/2019/01/2019010110372000-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2019010110372000-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 <ul>
  	<li>カムバ 1.0</li>
@@ -128,7 +129,7 @@ AIMとか立ち回りが問題で敵を倒せない人がマネしてもこの�
 
 &nbsp;
 <h2>スパッタリーの汎用ギア構成</h2>
-![test](/img/2019/01/2019010110510000-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2019010110510000-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 <ul>
  	<li>カムバ 1.0</li>
@@ -169,7 +170,7 @@ AIMとか立ち回りが問題で敵を倒せない人がマネしてもこの�
 
 &nbsp;
 <h2>最近使っているギア構成</h2>
-![test](/img/2019/01/2019010110344100-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2019010110344100-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 <ul>
  	<li>カムバ 1.0</li>

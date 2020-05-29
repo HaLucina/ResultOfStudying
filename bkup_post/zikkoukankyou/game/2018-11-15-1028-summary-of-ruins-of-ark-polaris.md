@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 11月7日に実施されたスプラトゥーン２Ver4.2.0のアップデートで追加されたサーモンラン新ステージ『<strong>朽ちた箱舟 ポラリス</strong>』。
@@ -83,7 +84,7 @@ draft: true
 
 唯一出っ張った足場が無い方向に出現します。
 
-![test](/img/2018/11/2018111423464400-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/2018111423464400-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 
 全体的に簡単であるポラリスですが、逆に全ステージの中で<strong>干潮</strong>だけは難しいと私は感じました。
@@ -166,9 +167,9 @@ draft: true
 
 &nbsp;
 
-![test](/img/2018/11/2018110722115700-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1041" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722115700-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722121100-C616B031331154665D639EF16DA76BC0.jpg)
-![test](/img/2018/11/2018110722121600-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1044" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722121600-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722120000-C616B031331154665D639EF16DA76BC0.jpg)
-![test](/img/2018/11/2018110721175500-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1046" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110721175500-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722401900-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/2018110722115700-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1041" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722115700-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722121100-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/2018110722121600-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1044" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722121600-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722120000-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/2018110721175500-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1046" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110721175500-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018110722401900-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 
 ちなみにライドレールを使うよりも、壁を登った方が早くコンテナへ向かうことができます。
@@ -241,4 +242,4 @@ draft: true
 <h2>おまけ</h2>
 初見で凄い位置にいる蝙蝠を発見した時のHaLucina
 
-![test](/img/2018/11/2018111423551200-C616B031331154665D639EF16DA76BC0-1.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/2018111423551200-C616B031331154665D639EF16DA76BC0-1.jpg)

@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 最新作スマブラSpecialは、前作スマブラ3DS/WiiUと大きく異なる点があります。
@@ -166,8 +167,10 @@ draft: true
 
 &nbsp;
 
-{{< tweet 1007839706220879873 >}}
-{{< tweet 1007841025191055360 >}}
+https://twitter.com/_HaLucina/status/1007839706220879873
+
+https://twitter.com/plus_920/status/1007841025191055360
+
 &nbsp;
 
 &nbsp;

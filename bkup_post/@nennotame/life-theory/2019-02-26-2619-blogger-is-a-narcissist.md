@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 かなりショックなことがありました。
@@ -138,5 +139,6 @@ draft: true
 
 私も先人を見習って、これからもナルシストなブログを書いていこうと思います。
 
-{{< tweet 1058677310222553088 >}}
-{{< tweet 789284070236819456 >}}
+https://twitter.com/nakagome63/status/1058677310222553088
+
+https://twitter.com/HYDRANYslsJP/status/789284070236819456

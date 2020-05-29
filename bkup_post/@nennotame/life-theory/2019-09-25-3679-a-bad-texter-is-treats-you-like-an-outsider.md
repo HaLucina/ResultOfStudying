@@ -6,7 +6,7 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -34,7 +34,9 @@ draft: true
   <a href="https://sosuke7.com/techniques/63/">https://sosuke7.com/techniques/63/</a>
 </blockquote>
 
-{{< blogcard url=https://blog.tinect.jp/?p=60398 >}}
-{{< blogcard url=https://twcu.repo.nii.ac.jp/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=17826&amp;item_no=1&amp;page_id=13&amp;block_id=28 >}}i
+[blogcard url="https://blog.tinect.jp/?p=60398"]
+
+[blogcard url="https://twcu.repo.nii.ac.jp/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=17826&amp;item_no=1&amp;page_id=13&amp;block_id=28"
+i
 
 ゆえに、私が思う真のコミュ障とは『コイツは仲間じゃない、部外者だ』というふうに相手を区別する人間のことを指します。

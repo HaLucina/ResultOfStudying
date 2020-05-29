@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 フォロワーさんから教えて頂いたのですが『<a href="https://twitter.com/Nanatoman710"><strong>ななとgames</strong></a>』さんという方の動画に私が出ていたそうです。
@@ -214,4 +215,4 @@ https://hackheatharu.xyz/keep-in-mind-to-use-the-dapple-dualies/
 
 ↓ ななとさんのYoutubeチャンネル
 
-{{< blogcard url=https://www.youtube.com/channel/UCXqocGp-RQ_sTw8EpPDg10A >}}
+[blogcard url="https://www.youtube.com/channel/UCXqocGp-RQ_sTw8EpPDg10A"]

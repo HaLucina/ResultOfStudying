@@ -6,9 +6,10 @@ categories:
  - FE
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スマブラSP（スマブラスペシャル）が発売されて10日ほど経過しました。
@@ -18,7 +19,8 @@ draft: true
 &nbsp;
 <blockquote>　ゲーム総合情報wp-content/uploads“ファミ通”は、任天堂が2018年12月7日に発売したNintendo Switch向けソフト『<a href="https://www.famitsu.com/search/?q=%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20SPECIAL">大乱闘スマッシュブラザーズ SPECIAL</a>』の国内推定販売本数が、発売3日間で123.8万本だったと発表した。これは、Nintendo Switch用ソフト及び『<a href="https://www.famitsu.com/search/?q=%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA">大乱闘スマッシュブラザーズ</a>』シリーズで、過去最高の初週販売本数。また、Nintendo Switch本体も27.8万台を販売し、累計販売台数が600万台を突破した。
 
-{{< blogcard url=https://www.famitsu.com/news/201812/12169110.html >}}&nbsp;
+[blogcard url="https://www.famitsu.com/news/201812/12169110.html"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -227,7 +229,8 @@ FEでは駒のことを<strong>ユニット</strong>と呼びます。
 
 シリーズによってステータスの種類に違いがありますが、敵と戦闘して経験値を貯めることによりユニットを強くしていきます。
 
-![test](/img/2018/12/e57921e59fd9413f512895dda055582c.png"><img class="alignnone size-medium wp-image-1546" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/e57921e59fd9413f512895dda055582c-300x169.png" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/832567033c0d263c3bdfbd94bfc11761.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/e57921e59fd9413f512895dda055582c.png"><img class="alignnone size-medium wp-image-1546" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/e57921e59fd9413f512895dda055582c-300x169.png" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/832567033c0d263c3bdfbd94bfc11761.png"><img class="alignnone size-medium wp-image-1544" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/832567033c0d263c3bdfbd94bfc11761-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -240,7 +243,8 @@ FEでは駒のことを<strong>ユニット</strong>と呼びます。
 
 &nbsp;
 
-![test](/img/2018/12/bf276ab837ff063b3750468cc298b947.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/bf276ab837ff063b3750468cc298b947.png"><img class="alignnone size-medium wp-image-1545" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/bf276ab837ff063b3750468cc298b947-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -275,7 +279,8 @@ FEでは駒のことを<strong>ユニット</strong>と呼びます。
 
 &nbsp;
 
-![test](/img/2018/12/3skm_b.jpg"><img class="alignnone size-full wp-image-1547" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/3skm_b.jpg" alt="" width="244" height="168" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/3skm_m.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/3skm_b.jpg"><img class="alignnone size-full wp-image-1547" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/3skm_b.jpg" alt="" width="244" height="168" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/3skm_m.jpg"><img class="alignnone size-full wp-image-1548" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/3skm_m.jpg" alt="" width="284" height="187" /></a>
+
 &nbsp;
 
 他にも ”<strong>弓</strong>” や 手裏剣などの ”<strong>暗器</strong>”、もしくは自身を ”<strong>竜</strong>” などに変身させて戦う例外ユニットも数多く存在しますが、上述した３すくみは『<strong>FEの基礎中の基礎</strong>』です。

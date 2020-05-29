@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私はメインで赤スパッタリーを使っています。
@@ -23,10 +24,8 @@ draft: true
 
 &nbsp;
 <h2>ビーコンの恩恵が受けにくいと思う理由</h2>
-![test](/img/2019/02/DuYoEQmUUAAgXo_.jpg)
-
-{{< tweet 1073590526878744577 >}}
-
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/DuYoEQmUUAAgXo_.jpg)
+{{< tweet 1073590526878744577"><strong>リンク</strong></a>） >}}
 &nbsp;
 
 上記の『<strong><a href="https://twitter.com/ragurun7">らぐるんさん</a></strong>』のが作成された画像をお借りして説明していきたいと思います。
@@ -41,7 +40,7 @@ draft: true
 
 これが満たされているのを例に出すなら、アロワナモールの以下画像で示す赤丸の位置ですね。
 
-![test](/img/2019/02/canva-photo-editor-4-1.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/canva-photo-editor-4-1.png)
 &nbsp;
 
 &nbsp;
@@ -94,7 +93,7 @@ Twitterでも検索してみたのですが、壁裏の索敵（図でいう所�
 
 エリアなら尚更この位置の長射程が強いですし。
 
-![test](/img/2019/02/canva-photo-editor-5.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/canva-photo-editor-5.png)
 &nbsp;
 
 &nbsp;

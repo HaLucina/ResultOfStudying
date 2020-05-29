@@ -6,19 +6,22 @@ categories:
  - PC関連
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 フォロワーの<a href="https://twitter.com/chiisann_"><strong>ちぃさん</strong></a>からこんな質問を頂きました。
 
-{{< tweet 1202218364971565062 >}}&nbsp;
+https://twitter.com/chiisann_/status/1202218364971565062
+&nbsp;
 
 私も以下のような似た遊びをしたことがあるのですよ。
 このような数値の羅列は大抵何かしらの文字コードですからね。
 
-{{< tweet 1126054814842933248 >}}&nbsp;
+https://twitter.com/_HaLucina/status/1126054814842933248
+&nbsp;
 
 ちなみに知識としては<strong>『ほぼ独学』</strong>です。
 勉強するなら以下の書籍が大変役に立ちました。
@@ -97,11 +100,13 @@ draft: true
 やり方は簡単です。
 <strong>変換表を見て文字に置き換え</strong>ればいいのです！
 
-{{< blogcard url=http://www12.plala.or.jp/mz80k2/electronics/ascii/ascii.html >}}&nbsp;
+[blogcard url="http://www12.plala.or.jp/mz80k2/electronics/ascii/ascii.html"]
+&nbsp;
 
 さぁ頑張って下さい!……といっても死ぬほどめんどくさいので、素直に変換してくれるサイトを使いましょう。
 
-{{< blogcard url=http://web-apps.nbookmark.com/ascii-converter/ >}}
+[blogcard url="http://web-apps.nbookmark.com/ascii-converter/"]
+
 &nbsp;
 
 で、変換した結果が以下です。

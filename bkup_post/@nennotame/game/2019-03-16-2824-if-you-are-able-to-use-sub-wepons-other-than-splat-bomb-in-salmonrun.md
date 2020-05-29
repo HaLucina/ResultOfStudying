@@ -6,12 +6,14 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1106032575665983488 >}}
+https://twitter.com/kelly77992410/status/1106032575665983488
+
 &nbsp;
 
 と、凄くおもしろそうなことを呟いていたので考察してみることにしました。
@@ -184,9 +186,12 @@ AIMに自信がない人に優しいサブになるのではないでしょう�
 
 <strong>物凄くウキウキで答えてくれました。</strong>
 
-{{< tweet 1106153273315155969 >}}
-{{< tweet 1106154422848143361 >}}
-{{< tweet 1106155402251644928 >}}<blockquote>以前このトピックについて考えたことがあるので、たくさんアイディアを持ってますよ！
+https://twitter.com/_HaLucina/status/1106153273315155969
+
+https://twitter.com/MartyBubbler/status/1106154422848143361
+
+https://twitter.com/MartyBubbler/status/1106155402251644928
+<blockquote>以前このトピックについて考えたことがあるので、たくさんアイディアを持ってますよ！
 
 <strong>-Fizzy（タンサンボム）</strong>：Flyfish（カタパッド）を倒すことができれば、スプラッシュボムよりも良いかもしれません。
 

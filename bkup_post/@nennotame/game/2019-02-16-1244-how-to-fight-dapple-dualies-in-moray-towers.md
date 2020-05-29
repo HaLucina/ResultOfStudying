@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 &nbsp;
@@ -41,7 +42,8 @@ draft: true
 
 &nbsp;
 <h2>ガチエリア</h2>
-![test](/img/2019/02/e430fd3f5423f6c0f300b7041ca3d617.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/e430fd3f5423f6c0f300b7041ca3d617.png"><img class="alignnone size-medium wp-image-2718" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/e430fd3f5423f6c0f300b7041ca3d617-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 確保するエリアが２つある。
@@ -73,7 +75,8 @@ draft: true
 
 &nbsp;
 <h2>ガチヤグラ</h2>
-![test](/img/2019/02/8bb339c790e51404c60b58f054083390.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/8bb339c790e51404c60b58f054083390.png"><img class="alignnone size-medium wp-image-2719" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/8bb339c790e51404c60b58f054083390-300x169.png" alt="" width="300" height="169" /></a>
+
 <strong>※主なビーコン設置位置はエリアと同じなので割愛</strong>
 
 &nbsp;
@@ -108,7 +111,8 @@ draft: true
 
 &nbsp;
 <h2>ガチホコ</h2>
-![test](/img/2019/02/f3c253e3393e5ca80587341601147568.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/f3c253e3393e5ca80587341601147568.png"><img class="alignnone size-medium wp-image-2721" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/f3c253e3393e5ca80587341601147568-300x169.png" alt="" width="300" height="169" /></a>
+
 <strong>※主なビーコン設置位置はエリアと同じなので割愛</strong>
 
 &nbsp;
@@ -141,8 +145,10 @@ draft: true
 
 &nbsp;
 <h2>ガチアサリ</h2>
-![test](/img/2019/02/c7d6c81d06e9b17ca53a703d9e63b5d1.png)
-![test](/img/2018/11/2018102308330400-C616B031331154665D639EF16DA76BC0.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/c7d6c81d06e9b17ca53a703d9e63b5d1.png"><img class="alignnone size-medium wp-image-2720" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/c7d6c81d06e9b17ca53a703d9e63b5d1-300x169.png" alt="" width="300" height="169" /></a>
+
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018102308330400-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1234" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018102308330400-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="タチウオパーキング アサリ出現位置" width="300" height="169" /></a>
+
 &nbsp;
 
 他ルールと違い敵長射程による中央の監視が甘くなりやすいステージ。

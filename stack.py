@@ -1,12 +1,16 @@
-a = input("pull or push:")
+a = input("fifo or filo:")
 
-def hoge():
-    return print("NO")
+if a != "pull": exit()
 
-if a == "pull":
-    print("OK")
-elif a == "push":
-    print("ok")
-else:
-    hoge()
+class FiFo:
+    hoge = []
 
+    def push(val):
+        hoge.push(val)
+
+    def pull()
+        return hoge
+
+    def showList()
+
+class FiLo

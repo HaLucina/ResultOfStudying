@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 何を隠そう私は北海道出身です。
@@ -118,7 +119,7 @@ wp-content/uploadsに騙されないでください。
 
 これの内容を確認したところ『<strong>ジンギスカン鍋</strong>』が付いてくるそうです（簡易と書かれているのでおそらくクッソ安物か使い切りで捨てられるタイプ）。
 
-![test](/img/2018/11/DmacUHPVAAEP0Gh.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/DmacUHPVAAEP0Gh.jpg)
 &nbsp;
 
 ジンギスカン食べる時、家庭によくある<strong>平たいホットプレートの使用はオススメしません。</strong>

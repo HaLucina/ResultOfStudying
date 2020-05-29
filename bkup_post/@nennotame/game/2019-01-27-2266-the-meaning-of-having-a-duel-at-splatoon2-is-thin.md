@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラトゥーン２にはプラべで特殊なルールを用いてフレンドと遊ぶことができます。
@@ -102,7 +103,8 @@ TwitterのTLを見ていると、タイマンの意味が分かっているの�
 
 <strong>如何に味方や周囲の状況に頼ることでキルしてきたか身をもって知るでしょう。
 </strong>
-{{< blogcard url=https://hackheatharu.xyz/keep-in-mind-to-use-the-dapple-dualies/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/keep-in-mind-to-use-the-dapple-dualies/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -116,7 +118,8 @@ TwitterのTLを見ていると、タイマンの意味が分かっているの�
 
 これが<strong>チャンス到来を活かして戦う</strong>理想的な例です。
 
-{{< tweet 1084818352365686784 >}}
+https://twitter.com/_HaLucina/status/1084818352365686784
+
 &nbsp;
 
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラトゥーン２にある様々なステージについてスパッタリー及びスパッタリー・ヒューの戦略を考える『<strong>スパッタリーの立ち回り</strong>』シリーズ。
@@ -47,7 +48,8 @@ draft: true
 
 &nbsp;
 <h2>ガチエリア</h2>
-![test](/img/2019/03/19d4395e1a3df71f6a80b4ed0ab08975.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/19d4395e1a3df71f6a80b4ed0ab08975.png"><img class="alignnone size-medium wp-image-2712" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/19d4395e1a3df71f6a80b4ed0ab08975-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 確保するエリアは中央の1か所のみ。
@@ -80,7 +82,8 @@ draft: true
 
 &nbsp;
 <h2>ガチヤグラ</h2>
-![test](/img/2019/03/891cbb660e14573c3cb6a23745f41ff4.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/891cbb660e14573c3cb6a23745f41ff4.png"><img class="alignnone size-medium wp-image-2713" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/891cbb660e14573c3cb6a23745f41ff4-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 かなり個人的な意見だが、<strong>第１関門まではヤグラの近くで戦った方がルールと勝利に貢献しやすい</strong>と感じている。
@@ -119,7 +122,8 @@ draft: true
 
 &nbsp;
 <h2>ガチホコ</h2>
-![test](/img/2019/03/7368ee0c335a868521e463b5e783203e.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/7368ee0c335a868521e463b5e783203e.png"><img class="alignnone size-medium wp-image-2714" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/7368ee0c335a868521e463b5e783203e-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 <strong>可能な限り限り初手でホコを割りたいステージの１つ。</strong>
@@ -161,8 +165,10 @@ draft: true
 
 &nbsp;
 <h2>ガチアサリ</h2>
-![test](/img/2019/03/aef4a6e6c71ead7d2fb84cfb70e4144a.png)
-![test](/img/2018/11/2018102314115800-C616B031331154665D639EF16DA76BC0.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/aef4a6e6c71ead7d2fb84cfb70e4144a.png"><img class="alignnone size-medium wp-image-2715" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/aef4a6e6c71ead7d2fb84cfb70e4144a-300x169.png" alt="" width="300" height="169" /></a>
+
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018102314115800-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-775" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018102314115800-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="ホッケふ頭 アサリ出現位置" width="300" height="169" /></a>
+
 &nbsp;
 
 アサリであればスパッタリーは、遮蔽物の全然無い広場で戦う必要に迫られない（あるとしたらガチアサリを持った時くらい）ので、唯一このステージで戦いやすいルールと言える。

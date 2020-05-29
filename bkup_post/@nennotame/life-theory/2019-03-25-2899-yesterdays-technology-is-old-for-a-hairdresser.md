@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 皆さんは尊敬している職業というものがあるでしょうか。
@@ -124,7 +125,8 @@ https://hackheatharu.xyz/suspect-environment/
 
 ここでも彼はどんどん昇進し、最終的には幹部になりました。この鉄道会社で、カーネギーはビジネスと投資について多くを学びました。この経験がこの後、大いに生きてくるのです。
 
-{{< blogcard url=https://hackheatharu.xyz/you-had-better-try-it-anyway/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/you-had-better-try-it-anyway/"]</blockquote>
+&nbsp;
 
 &nbsp;
 

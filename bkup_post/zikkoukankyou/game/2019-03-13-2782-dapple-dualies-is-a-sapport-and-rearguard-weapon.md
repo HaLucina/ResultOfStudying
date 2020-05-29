@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛ブキ</strong>』という題目で動画の切り抜きが投稿されていました。
@@ -112,7 +113,7 @@ TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛�
 
 例えばアジフライスタジアムのエリア初動だと、以下画像の赤丸部分を大雑把に塗りながらSPを貯めて前線へ向かいます。
 
-![test](/img/2019/03/bd8cc103650c3121c04890500698c967.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/bd8cc103650c3121c04890500698c967.png)
 &nbsp;
 
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 数カ月前からスプラトゥーン2のやる気が0％になっている今日この頃。
@@ -165,77 +166,77 @@ https://youtu.be/0H4oeZnTLFM
 
 今作では『<strong>北半球と南半球</strong>』も選べみたいですね。
 
-![test](/img/86c3d3ce3be6ad79c92f2f5c7693bec7.png)
-![test](/img/9d4c51d8ba264e1ec810ba66f3786077.png)
-![test](/img/c488e0aed7ea5f0ffcef3d7b32bf211b.png)
-![test](/img/7d8aae55c5a361a337db320300d7da84.png)
-![test](/img/2a9562d7e33abe90367532e56864795f.png)
+![test](https://res.cloudinary.com/ddghc4l09/86c3d3ce3be6ad79c92f2f5c7693bec7.png)
+![test](https://res.cloudinary.com/ddghc4l09/9d4c51d8ba264e1ec810ba66f3786077.png)
+![test](https://res.cloudinary.com/ddghc4l09/c488e0aed7ea5f0ffcef3d7b32bf211b.png)
+![test](https://res.cloudinary.com/ddghc4l09/7d8aae55c5a361a337db320300d7da84.png)
+![test](https://res.cloudinary.com/ddghc4l09/2a9562d7e33abe90367532e56864795f.png)
 &nbsp;
 
 北半球を選べば日本と同じ四季を楽しめるが、南半球になれば逆の季節で遊ぶことができます。動画内では『<strong>現実時間とリンクしている</strong>』と説明されていたので、Switch自体の時間をいじれば季節や昼夜をいじれると予想しているんですけど、<strong>もしもSwitch自体の時間をいじって季節が変えられないのであれば、Switch2台持ちの需要、または南半球で遊んでいるプレイヤーの需要が発生しそうですね。</strong>
 
 仮に季節をいじれたとしても、特殊なイベントで来るどうぶつは無料アップデートが来ないと会えなさそうですね。カブとかは相変わらず日曜の午前中とかに買えそうですけど。あとは島の発展次第でやれることが増えそうです。
 
-![test](/img/4468ebc248a646da9d1f0dc9e0c08c8e.png)
-![test](/img/00106fb5f3daa8e87d6816ca31247899.png)
+![test](https://res.cloudinary.com/ddghc4l09/4468ebc248a646da9d1f0dc9e0c08c8e.png)
+![test](https://res.cloudinary.com/ddghc4l09/00106fb5f3daa8e87d6816ca31247899.png)
 &nbsp;
 
 <h4>たぬきマイレージ</h4>
 
-![test](/img/d4a75a6d13b33e9ce6c8579d4c0add5f.png)
-![test](/img/efb5ee9fd8c595c496a43752c130b73b.png)
+![test](https://res.cloudinary.com/ddghc4l09/d4a75a6d13b33e9ce6c8579d4c0add5f.png)
+![test](https://res.cloudinary.com/ddghc4l09/efb5ee9fd8c595c496a43752c130b73b.png)
 今作で大変重要になりそうだなと思ったのが『<strong>たぬきマイレージ</strong>』だと思いました。実績を解除していくイメージで貯まるポイントみたいなものですね。借金返済に割り当てることも可能なようですが、動画を見た感じ<strong>ユーザにとって便利な機能を増やす為の手段</strong>にも使われるようなので、序盤ではその為にマイレージ集めを頑張るのがいいかもしれませんね。
 
 &nbsp;
 
-![test](/img/64e655a0b7fc5dca891a70af23a35285.png)
-![test](/img/ea299e777efc7ddfa9844d29367c568f.png)
-![test](/img/4219489ce7e85e0900924d2ac8998d5a.png)
-![test](/img/3de947e30f0329977ed1169dc4a5ecdd.png)
+![test](https://res.cloudinary.com/ddghc4l09/64e655a0b7fc5dca891a70af23a35285.png)
+![test](https://res.cloudinary.com/ddghc4l09/ea299e777efc7ddfa9844d29367c568f.png)
+![test](https://res.cloudinary.com/ddghc4l09/4219489ce7e85e0900924d2ac8998d5a.png)
+![test](https://res.cloudinary.com/ddghc4l09/3de947e30f0329977ed1169dc4a5ecdd.png)
 更にマイレージが重要だと思ったのは『<strong>マイル旅行券</strong>』というもの。機長の気まぐれで行ける無人島で、DIYの為の材料集め、自分の島に無いフルーツをゲットするなどで頻繁に利用しそうな予感がしました。これもまた予想なんですけど、もしかすると<strong>訪れた先の島が自分の島の季節と異なっている可能性</strong>がありそうなんですよね。なので無理して時間を変えなくても冬の魚や夏の虫をコンプリートできる……なんて思ったりしました。
 
 あとは推しのどうぶつと出会える可能性もあるので、上述した便利な機能が揃った後はマイル旅行にマイレージを使うことが多くなるかもしれませんね。借金返済にマイレージを使うのは本気で使い道が無くなったらかも。
 
 &nbsp;
 
-![test](/img/3068ff6684e0c20625a645a177971ee5.png)
-![test](/img/ba63a3650756d9cda8d4d7ef65d99f18.png)
-![test](/img/c501c8e86018bb2f966e8f91bf4918cb.png)
-![test](/img/6d85cc3e6ae3d2dde0565bf8f04830b1.png)
-![test](/img/3766d23e17ff7ba3b0c899448a1125ea.png)
-![test](/img/59556882a4eb5f2ed7e509dc3c2e4f2f.png)
-![test](/img/b647fa140b121c0c48c58083e997852f.png)
+![test](https://res.cloudinary.com/ddghc4l09/3068ff6684e0c20625a645a177971ee5.png)
+![test](https://res.cloudinary.com/ddghc4l09/ba63a3650756d9cda8d4d7ef65d99f18.png)
+![test](https://res.cloudinary.com/ddghc4l09/c501c8e86018bb2f966e8f91bf4918cb.png)
+![test](https://res.cloudinary.com/ddghc4l09/6d85cc3e6ae3d2dde0565bf8f04830b1.png)
+![test](https://res.cloudinary.com/ddghc4l09/3766d23e17ff7ba3b0c899448a1125ea.png)
+![test](https://res.cloudinary.com/ddghc4l09/59556882a4eb5f2ed7e509dc3c2e4f2f.png)
+![test](https://res.cloudinary.com/ddghc4l09/b647fa140b121c0c48c58083e997852f.png)
 &nbsp;
 
 <h3>住民の招き方</h3>
 
 e+では<strong>"e+カード"</strong> を使うことで好きな住人を ~~強制召喚~~ 村へ招くことが出来るシステムがありました。あつ森ではamiiboを使って好きな住民を呼べそうですが、マイル旅行で偶然出会ったどうぶつ、キャンプで島に来たどうぶつ、もしくは島民の募集から住民を招くことも可能みたいです。本当はキャラメルのamiiboカードを使い速攻で呼ぼうと思ったのですが、Amazonで値段調べると1400円とかしてたので諦めることにします……。
 
-![test](/img/b12fb73f1d9a1a680d8710ee45b5fde0.png)
-![test](/img/849449719fed19504f6456bfcda1073f.png)
-![test](/img/6fc2d4418a19c6057f165de71b92a691.png)
-![test](/img/f584f89627f37af37b7c03bbc32b035f.png)
+![test](https://res.cloudinary.com/ddghc4l09/b12fb73f1d9a1a680d8710ee45b5fde0.png)
+![test](https://res.cloudinary.com/ddghc4l09/849449719fed19504f6456bfcda1073f.png)
+![test](https://res.cloudinary.com/ddghc4l09/6fc2d4418a19c6057f165de71b92a691.png)
+![test](https://res.cloudinary.com/ddghc4l09/f584f89627f37af37b7c03bbc32b035f.png)
 &nbsp;
 
 <h3>工事ライセンス</h3>
 
-![test](/img/6308f2518dbc23507e3a06c7430af723.png)
-![test](/img/448e71294029715769f892d275d61b16.png)
+![test](https://res.cloudinary.com/ddghc4l09/6308f2518dbc23507e3a06c7430af723.png)
+![test](https://res.cloudinary.com/ddghc4l09/448e71294029715769f892d275d61b16.png)
 &nbsp;
 
 島では自分で橋を掛けたり坂道を設けるインフラ面にも力を入れることも可能なようですが、更に島の開発が進むと『<strong>工事ライセンス</strong>』なるものを取得できるようです。アプリから選ぶと工事の安全帽子を被り、専用の画面が出せるようになる感じでしょうか。道を整備出来るようになったり、川へ陸地を伸ばしたり、崖の壁を壊す増やす、滝を作ってしまうこともできるようです。完全に島そのものをクリエイトできてしまえるようになるみたいですね。これは島を魔改造できそうです。
 
 &nbsp;
 
-![test](/img/6ebad21eab4fd8e62ea842312bd936b7.png)
-![test](/img/cd6799d78640411702e0899b05f18884.png)
-![test](/img/76bcafcccb2aa6a9d2f705f14e0d095d.png)
-![test](/img/f823a7477b5876689641bb0f7b6a19f9.png)
-![test](/img/597d66c16d76a6b35e8a8b64db8afc5d.png)
-![test](/img/575a9a303fbdc63656c23f2d727af42f.png)
-![test](/img/7ddf28b7c0f795c2d6ca3383881fc076.png)
-![test](/img/402529677159a306112f4af290d913bd.png)
-![test](/img/cd01439ff01a0a73f3b14a97b2ab23fc.png)
+![test](https://res.cloudinary.com/ddghc4l09/6ebad21eab4fd8e62ea842312bd936b7.png)
+![test](https://res.cloudinary.com/ddghc4l09/cd6799d78640411702e0899b05f18884.png)
+![test](https://res.cloudinary.com/ddghc4l09/76bcafcccb2aa6a9d2f705f14e0d095d.png)
+![test](https://res.cloudinary.com/ddghc4l09/f823a7477b5876689641bb0f7b6a19f9.png)
+![test](https://res.cloudinary.com/ddghc4l09/597d66c16d76a6b35e8a8b64db8afc5d.png)
+![test](https://res.cloudinary.com/ddghc4l09/575a9a303fbdc63656c23f2d727af42f.png)
+![test](https://res.cloudinary.com/ddghc4l09/7ddf28b7c0f795c2d6ca3383881fc076.png)
+![test](https://res.cloudinary.com/ddghc4l09/402529677159a306112f4af290d913bd.png)
+![test](https://res.cloudinary.com/ddghc4l09/cd01439ff01a0a73f3b14a97b2ab23fc.png)
 &nbsp;
 
 <h2>恐ろしく自由度が高い</h2>

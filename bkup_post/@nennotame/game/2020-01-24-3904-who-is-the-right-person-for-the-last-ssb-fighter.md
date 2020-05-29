@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://youtu.be/xAssd5p6LZM
@@ -34,17 +35,20 @@ https://youtu.be/3O7vtshu6g4
 
 スマブラforの時も、当時最新作だったFEif主人公カムイが追加で参戦したこともあった為、今回のベレト・べレス参戦にそれほど驚いていません。「もしかしたらカムイの時みたいに追加されるだろうなぁ」と期待していました。昔の私も以下の記事でそう書いていますし。
 
-{{< blogcard url=https://hackheatharu.xyz/introducing-fire-emblem-for-smash-bro-player/ >}}
+[blogcard url="https://hackheatharu.xyz/introducing-fire-emblem-for-smash-bro-player/"]
+
 &nbsp;
 
 FEをやっていない人からしたら意外かもしれませんが、任天堂コンテンツの中でもゼルダやポケモンに負けないくらい人気があるんですよ。今作に至っては海外も含めて220万本以上。そして売上全体の50％が北米市場が占めていたと決算で発表されています。要は結果をキチンと出している作品なんですよ、FEというタイトルは。
 
-{{< blogcard url=https://www.nintendo.co.jp/ir/pdf/2019/191101_2.pdf >}}
+[blogcard url="https://www.nintendo.co.jp/ir/pdf/2019/191101_2.pdf"]
+
 &nbsp;
 
 何が言いたいかと言うと<strong>『日本では大して人気が無いコンテンツかもしれませんが、海外では十二分に人気なんだよ』</strong>という事実があります。ゆえに「なんでFEのキャラなんか優遇されてんだよ」と言っている方がいますが、売上からして人気作品の１つであるFEは優遇されてもおかしくないんですよね（冒頭で海外の反応が良くないと書いていて矛盾しているが、その話は後でします）。
 
-{{< blogcard url=https://www.polygon.com/best-games/2019/12/13/21002670/best-games-2019-ps4-pc-xbox-one-nintendo-switch-ios#98fZT3 >}}
+[blogcard url="https://www.polygon.com/best-games/2019/12/13/21002670/best-games-2019-ps4-pc-xbox-one-nintendo-switch-ios#98fZT3"]
+
 &nbsp;
 
 今でこそ人気コンテンツの1つに数えられていますが、実は終わりを迎えようとしていた時期があったんですよ。
@@ -111,7 +115,8 @@ FEをやっていない人からしたら意外かもしれませんが、任天
 
 というのも、現在スマブラで追加されるキャラは「本来スマブラに出れなかったであろうキャラが任天堂キャラとコラボすること」にユーザが期待をしている傾向にあるからです。Wiiでソリッド・スネークが参戦したときも凄かったのですが、今回に至ってはバンジョーとカズーイがとんでもないビッグゲストだったことも相まってます。バンジョーとカズーイの参戦がどれだけ凄いかは以下のまとめを見るとわかりやすいでしょう。
 
-{{< blogcard url=https://togetter.com/li/1365454 >}}
+[blogcard url="https://togetter.com/li/1365454"]
+
 &nbsp;
 
 そりゃあ、こんな凄いゲスト呼ばれたら追加キャラに期待が膨らんでしまうのも無理ないんですよ。最後に追加されるキャラはさぞかし凄いんだろうなとなっちゃうじゃないですか。このような思いが第1段追加キャラで募ってFEキャラが発表されたもんですからスマブラファンからしてみれば期待ハズレと言われてもしょうがないんです。

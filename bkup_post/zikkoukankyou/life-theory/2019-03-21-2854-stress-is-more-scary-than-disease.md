@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 日本人が死ぬ原因1位をご存知でしょうか。
@@ -47,7 +48,7 @@ draft: true
 先程紹介したデータを年齢別に表でまとめたものが厚生労働省のホームページに掲載されています。
 
 そこで年齢別に1位を改めて見てみると、20～39歳からの死因は『<strong>ガン』ではなく『自殺』が1位</strong>にくるのです。
-![test](/img/2019/03/canva-photo-editor-8.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/canva-photo-editor-8.png)
 引用：<a href="https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/suii09/deth8.html">https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/suii09/deth8.html</a></blockquote>
 &nbsp;
 

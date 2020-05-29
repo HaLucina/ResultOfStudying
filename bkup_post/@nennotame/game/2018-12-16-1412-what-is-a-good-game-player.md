@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私はゲームが上手いと言われます。
@@ -157,10 +158,12 @@ draft: true
 
 <strong>そして問題は、うまくなった先で天狗のままでいるとヤバいことです。</strong>
 
-{{< tweet 1059272529087328256 >}}
+https://twitter.com/gekiuma_dog/status/1059272529087328256
+
 &nbsp;
 
-{{< tweet 1067008776354488325 >}}
+https://twitter.com/_HaLucina/status/1067008776354488325
+
 &nbsp;
 
 &nbsp;

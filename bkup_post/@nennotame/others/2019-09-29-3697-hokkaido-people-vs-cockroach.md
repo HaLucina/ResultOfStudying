@@ -6,7 +6,7 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -30,7 +30,8 @@ draft: true
 初めての出会いは以下の記事でも少し書きましたが、今回はその詳細を綴ります。
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/when-it-comes-to-hokkaido/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/when-it-comes-to-hokkaido/"
+&nbsp;
 
 引っ越してから3ヶ月経ったある夜のこと。
 PCをいじっていた時、ふと後ろを振り向いた時のことです。

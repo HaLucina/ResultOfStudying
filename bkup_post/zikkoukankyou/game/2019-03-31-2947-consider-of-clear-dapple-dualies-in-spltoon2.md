@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 <strong>2019/4/4 追記</strong>：スパッタリークリアを実際に使ってみた感想を書きました ⇒ <strong>[<a href="https://hackheatharu.xyz/clear-dapple-dualies-is-classified-as-kill-weapons/">リンク</a>]</strong>
@@ -35,7 +36,7 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 これら12種類の武器は<strong>4月2日（日本では3日）のアップデート ”Ver4.6.0” で一気に追加</strong>されます。
 
-![test](/img/2019/03/dd088dd0248e3b938a4d24d23bdcce0a.png)&nbsp;
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/dd088dd0248e3b938a4d24d23bdcce0a.png)&nbsp;
 
 &nbsp;
 
@@ -45,7 +46,7 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 さらに嬉しいことに、スパッタリークリアのサブとSPは『<strong>トーピード</strong>』『<strong>スーパーチャクチ</strong>』です。
 
-![test](/img/2019/03/canva-photo-editor-5.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/canva-photo-editor-5.png)
 &nbsp;
 
 なんとスパッタリーに『<strong>トーピード</strong>』が与えられました。

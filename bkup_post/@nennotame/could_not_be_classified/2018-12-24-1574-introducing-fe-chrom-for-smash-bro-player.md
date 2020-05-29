@@ -6,9 +6,10 @@ categories:
  - FE
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スマブラSPからファイアーエムブレム（以下FE）を知った方に向けて『<strong>FEキャラの紹介</strong>』をする記事です。
@@ -23,7 +24,8 @@ FEの世界では、このキャラはどのような活躍をしていたのか
 
 &nbsp;
 <h2>スマブラのクロム</h2>
-![test](/img/2018/12/maxresdefault-25.pagespeed.ce_.0WHE1qNHMv.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/maxresdefault-25.pagespeed.ce_.0WHE1qNHMv.jpg"><img class="alignnone size-medium wp-image-1668" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/maxresdefault-25.pagespeed.ce_.0WHE1qNHMv-300x168.jpg" alt="" width="300" height="168" /></a>
+
 スマブラSPで念願の参戦を果たしたFEファイター。
 
 ロイのダッシュファイターなので技や動き等は彼とほぼ同じです。
@@ -52,12 +54,14 @@ FEの世界では、このキャラはどのような活躍をしていたのか
 </ul>
 &nbsp;
 <h5>クロムのスマ知識</h5>
-![test](/img/2018/12/2018121811141300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1619" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811141300-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392200-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1620" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392200-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392400-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1621" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392400-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811393300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811141300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1619" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811141300-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392200-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1620" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392200-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392400-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1621" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811392400-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811393300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1622" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811393300-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;
 <h2>FEのクロム</h2>
-![test](/img/2018/12/canva-photo-editor-5.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-5.png"><img class="alignnone size-medium wp-image-1669" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-5-300x282.png" alt="" width="300" height="282" /></a>
+
 (画像引用：<a href="https://www.nintendo.co.jp/fe/characters/detail/marth04.html">ファイアーエムブレムワールド【FIRE EMBLEM WORLD】</a>)
 
 &nbsp;

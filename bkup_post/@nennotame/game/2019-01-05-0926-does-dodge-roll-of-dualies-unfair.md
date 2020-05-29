@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラ２でよくある意見に『<strong>スライドがズルい</strong>』をよく見かけます。
@@ -116,8 +117,10 @@ draft: true
 
 <a href="https://support.nintendo.co.jp/app/answers/detail/a_id/35450/session/L2F2LzEvdGltZS8xNTQ2NTkwMDk1L3NpZC9mVXNPVjJVTHJVTnMySiU3RTRKYzZzbm1ZV1hZWWFNMTBzRFdjWGtOcVdsaDVXR2VQcTZUV1dXWXNiTDY1RWlDamVaWGVBMUVicWx0YWtnTlRZbUhZU0JaR3BnbjVmODhFSTBvN1pyeUpXZVdvQm1ST1hUc2NXSG9nUSUyMSUyMQ%3D%3D">Ver4.1.0.のアプデ内容</a>でも私はこう呟いていましたし。
 
-{{< tweet 1059757952662331393 >}}
-{{< tweet 1059760517495971840 >}}
+https://twitter.com/_HaLucina/status/1059757952662331393
+
+https://twitter.com/_HaLucina/status/1059760517495971840
+
 &nbsp;
 
 &nbsp;

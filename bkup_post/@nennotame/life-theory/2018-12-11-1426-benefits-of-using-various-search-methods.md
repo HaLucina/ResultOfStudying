@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 前回の記事で以下のように述べました。
@@ -20,15 +21,19 @@ draft: true
 
 つまり問題解決のために検索を活用するのであれば、日本語以外に英語も使えた方が多大なメリットになるのです。
 
-{{< blogcard url=https://hackheatharu.xyz/skill-to-acquire-in-twenties/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/skill-to-acquire-in-twenties/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
 実は、この記事を投稿した日、丁度この話題に関わる会話をフォロワーさんとしていました。
 
-{{< tweet 1072146994670428160 >}}
-{{< tweet 1072147576391008256 >}}
-{{< tweet 1072149242448236544 >}}
+https://twitter.com/sugarray6009/status/1072146994670428160
+
+https://twitter.com/_HaLucina/status/1072147576391008256
+
+https://twitter.com/_HaLucina/status/1072149242448236544
+
 &nbsp;
 
 &nbsp;

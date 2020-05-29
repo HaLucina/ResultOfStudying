@@ -6,14 +6,15 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 {{< tweet 1094463890224627713 >}}
-![test](/img/2019/04/DzBRGr0VAAAqj_N.jpg)
-![test](/img/2019/04/DzBRGrxV4AA8I2d.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/04/DzBRGr0VAAAqj_N.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/04/DzBRGrxV4AA8I2d.jpg)
 &nbsp;
 
 &nbsp;

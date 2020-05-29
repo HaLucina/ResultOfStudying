@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 まず初めに今回の記事を書くに至った切っ掛けを箇条書きにしますと
@@ -149,7 +150,8 @@ draft: true
 
 『<a href="https://cf-vanguard.com/"><strong>カードファイト&#x203c; ヴァンガード</strong></a>』の伝道師『<strong>ドクター・オー</strong>』という人物の呟きで、今でも非常に印象強く残っているものを紹介します。
 
-{{< tweet 424871390311763968 >}}
+https://twitter.com/vanguard_dro/status/424871390311763968
+
 &nbsp;
 
 大抵のゲームは勝負をすると必ず勝者と敗者が決まります（引き分けもある場合があるけどね）。

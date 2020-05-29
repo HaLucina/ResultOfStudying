@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 学校で嫌いな教科を勉強している学生、もしくは昔の自分もそうだったという方は多いのではないでしょうか。
@@ -154,7 +155,8 @@ draft: true
 
 以下のようにゲームの話を外人の方とするのがたまらなく楽しいと感じることでしょう。
 
-{{< tweet 1070376665644195847 >}}
+https://twitter.com/MartyBubbler/status/1070376665644195847
+
 &nbsp;
 
 &nbsp;
@@ -171,7 +173,8 @@ draft: true
 
 &nbsp;
 
-{{< tweet 1069981163362516997 >}}
+https://twitter.com/aprilone_78/status/1069981163362516997
+
 &nbsp;
 
 &nbsp;

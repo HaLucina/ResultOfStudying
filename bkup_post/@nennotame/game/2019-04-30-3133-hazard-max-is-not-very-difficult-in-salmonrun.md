@@ -6,7 +6,7 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -173,7 +173,7 @@ Ver.4.0.0以前であれば、危険度MAXクリアの為に9匹のグリルを�
 
 その最たる例が『<strong>SPを使わない</strong>』ことではないでしょうか。
 
-{{< blogcard url=https://hackheatharu.xyz/dont-use-sp-at-salmonrun/ >}}
+https://hackheatharu.xyz/dont-use-sp-at-salmonrun/
 
 &nbsp;
 
@@ -318,8 +318,7 @@ Ver.4.0.0以前であれば、危険度MAXクリアの為に9匹のグリルを�
 
 そこで私が取った行動は『<strong>ハイプレ中の味方を守ること</strong>』でした。
 
-<video controls preload="noen" width="100%" height="auto" src="/img/uploads/2019/04/2019042910345501-C616B031331154665D639EF16DA76BC0.mp4" ></video>
-
+[video width="1280" height="720" mp4="https://hackheatharu.xyz/wp-content/uploads/2019/04/2019042910345501-C616B031331154665D639EF16DA76BC0.mp4"][/video]
 
 &nbsp;
 
@@ -331,9 +330,9 @@ Ver.4.0.0以前であれば、危険度MAXクリアの為に9匹のグリルを�
 
 2つ目は撤退の道を作ってくれた野良さんです。
 
-<video controls preload="noen" width="100%" height="auto" src="https://hackheatharu.xyz/wp-content/uploads/2019/04/2019042910295301-C616B031331154665D639EF16DA76BC0.mp4"></video>
+[video width="1280" height="720" mp4="https://hackheatharu.xyz/wp-content/uploads/2019/04/2019042910295301-C616B031331154665D639EF16DA76BC0.mp4"][/video]
 
-<video controls preload="noen" width="100%" height="auto" src="https://hackheatharu.xyz/wp-content/uploads/2019/04/2019042910334301-C616B031331154665D639EF16DA76BC0.mp4"></video>
+[video width="1280" height="720" mp4="https://hackheatharu.xyz/wp-content/uploads/2019/04/2019042910334301-C616B031331154665D639EF16DA76BC0.mp4"][/video]
 
 &nbsp;
 

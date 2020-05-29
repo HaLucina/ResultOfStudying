@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 本日、運転免許の更新に行って参りました。
@@ -109,7 +110,8 @@ draft: true
 
 iOSならアプリが無料でダウンロードできるらしいです。
 
-{{< blogcard url=https://itunes.apple.com/jp/app/hazardtouch/id539416327?mt=8 >}}
+[blogcard url="https://itunes.apple.com/jp/app/hazardtouch/id539416327?mt=8"]
+
 &nbsp;
 
 &nbsp;

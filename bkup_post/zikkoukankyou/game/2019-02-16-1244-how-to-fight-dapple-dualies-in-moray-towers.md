@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 &nbsp;
@@ -41,7 +42,7 @@ draft: true
 
 &nbsp;
 <h2>ガチエリア</h2>
-![test](/img/2019/02/e430fd3f5423f6c0f300b7041ca3d617.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/e430fd3f5423f6c0f300b7041ca3d617.png)
 &nbsp;
 
 確保するエリアが２つある。
@@ -73,7 +74,7 @@ draft: true
 
 &nbsp;
 <h2>ガチヤグラ</h2>
-![test](/img/2019/02/8bb339c790e51404c60b58f054083390.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/8bb339c790e51404c60b58f054083390.png)
 <strong>※主なビーコン設置位置はエリアと同じなので割愛</strong>
 
 &nbsp;
@@ -108,7 +109,7 @@ draft: true
 
 &nbsp;
 <h2>ガチホコ</h2>
-![test](/img/2019/02/f3c253e3393e5ca80587341601147568.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/f3c253e3393e5ca80587341601147568.png)
 <strong>※主なビーコン設置位置はエリアと同じなので割愛</strong>
 
 &nbsp;
@@ -141,8 +142,8 @@ draft: true
 
 &nbsp;
 <h2>ガチアサリ</h2>
-![test](/img/2019/02/c7d6c81d06e9b17ca53a703d9e63b5d1.png)
-![test](/img/2018/11/2018102308330400-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/c7d6c81d06e9b17ca53a703d9e63b5d1.png)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/2018102308330400-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 
 他ルールと違い敵長射程による中央の監視が甘くなりやすいステージ。

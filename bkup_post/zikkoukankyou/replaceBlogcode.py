@@ -9,10 +9,6 @@ import fileinput
 
 #https://note.nkmk.me/python-str-extract/
 
-def convert_draft(args):
-    print("hoge")
-    return "thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg\ndraft: true\n"        
-
 
 def convert_blogCard(args):
     try:
@@ -32,8 +28,8 @@ def convert_tweet(args):
 
 def convert_imgUrl(args):
     try:
-        jpg = re.findall(r'uploads/(.*)"><img', args)
-        syortCode = "![test](/img/" + jpg[0] + ")"
+        jpg = re.findall(r'uploads/(.*)">', args)
+        syortCode = "![test](https://res.cloudinary.com/ddghc4l09/" + jpg[0] + ")"
         return syortCode
     except:
         return args        
@@ -44,11 +40,9 @@ def noMatch(args):
 
 # https://qiita.com/hasegit/items/2cf05de74680717f9010
 case = {
-         ".*thumbnailImage:.*"                              : convert_draft,
-    # "![test].*"                              : convert_draft,
-    #".*blogcard url.*"                          : convert_blogCard,
-    #".*twitter.com/.*/status/.*"                : convert_tweet,
-    #".*hackheatharu.xyz/wp-content/uploads/.*"  : convert_imgUrl,
+    ".*blogcard url.*"                          : convert_blogCard,
+    ".*twitter.com/.*/status/.*"                : convert_tweet,
+    ".*hackheatharu.xyz/wp-content/uploads/.*"  : convert_imgUrl,
     ".*" : noMatch
     }
 

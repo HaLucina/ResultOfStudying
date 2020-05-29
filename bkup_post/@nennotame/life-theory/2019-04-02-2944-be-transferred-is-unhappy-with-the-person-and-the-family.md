@@ -6,16 +6,18 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 TwitterのTLを見ていると『<strong>会社からの転勤命令</strong>』について話題でした。
 
 &nbsp;
 
-{{< blogcard url=https://headlines.yahoo.co.jp/hl?a=20190328-00000014-nkgendai-life >}}
+[blogcard url="https://headlines.yahoo.co.jp/hl?a=20190328-00000014-nkgendai-life"]
+
 &nbsp;
 
 &nbsp;
@@ -123,7 +125,8 @@ TwitterのTLを見ていると『<strong>会社からの転勤命令</strong>』
 
 「単身赴任を11年続けた。新築だった家は築11年、幼稚園だった子どもも高校生。新築の家にも住めず、子どもがかわいい時期に一緒に住むことも制限。転勤を拒否できる制度は必要だと思う！」
 
-{{< blogcard url=https://www3.nhk.or.jp/news/html/20190330/amp/k10011866601000.html >}}&nbsp;
+[blogcard url="https://www3.nhk.or.jp/news/html/20190330/amp/k10011866601000.html"]</blockquote>
+&nbsp;
 
 &nbsp;
 

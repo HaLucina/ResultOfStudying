@@ -6,14 +6,15 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 TLからキラキラネームが集合したクラス名簿の画像がバズったツイートが流れてきました。
 
-![test](/img/2019/03/D1SP3OoVYAAFUEq.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/D1SP3OoVYAAFUEq.jpg)
 &nbsp;
 
 &nbsp;

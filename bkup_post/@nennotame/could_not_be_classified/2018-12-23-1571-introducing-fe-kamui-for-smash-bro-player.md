@@ -6,9 +6,10 @@ categories:
  - FE
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スマブラSPからファイアーエムブレム（以下FE）を知った方に向けて『<strong>FEキャラの紹介</strong>』をする記事です。
@@ -23,7 +24,8 @@ FEの世界では、このキャラはどのような活躍をしていたのか
 
 &nbsp;
 <h2>スマブラのカムイ</h2>
-![test](/img/2018/12/maxresdefault-58.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/maxresdefault-58.jpg"><img class="alignnone size-medium wp-image-1660" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/maxresdefault-58-300x168.jpg" alt="" width="300" height="168" /></a>
+
 スマブラ３DS/WiiUで初参戦しました。
 
 カムイはFEファイターの中で最も『<strong>リーチに優れた</strong>』ファイターです。
@@ -50,14 +52,16 @@ FEの世界では、このキャラはどのような活躍をしていたのか
 </ul>
 &nbsp;
 <h5>カムイのスマ知識</h5>
-![test](/img/2018/12/2018121811143700-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1608" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811143700-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404000-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1609" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404000-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404100-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1610" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404100-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404200-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1611" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404200-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1612" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404300-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404400-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1613" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404400-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404600-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1614" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404600-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404700-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811143700-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1608" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811143700-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404000-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1609" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404000-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404100-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1610" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404100-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404200-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1611" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404200-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404300-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1612" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404300-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404400-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1613" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404400-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404600-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1614" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404600-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404700-0E7DF678130F4F0FA2C88AE72B47AFDF.jpg"><img class="alignnone size-medium wp-image-1615" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018121811404700-0E7DF678130F4F0FA2C88AE72B47AFDF-300x169.jpg" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;
 
 &nbsp;
 <h2>FEでのカムイ</h2>
-![test](/img/2018/12/canva-photo-editor-7.png"><img class="alignnone size-medium wp-image-1661" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-7-300x280.png" alt="" width="300" height="280" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-8.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-7.png"><img class="alignnone size-medium wp-image-1661" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-7-300x280.png" alt="" width="300" height="280" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-8.png"><img class="alignnone size-medium wp-image-1662" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-8-300x279.png" alt="" width="300" height="279" /></a>
+
 (画像引用：<a href="https://www.nintendo.co.jp/fe/characters/detail/marth04.html">ファイアーエムブレムワールド【FIRE EMBLEM WORLD】</a>)
 
 &nbsp;

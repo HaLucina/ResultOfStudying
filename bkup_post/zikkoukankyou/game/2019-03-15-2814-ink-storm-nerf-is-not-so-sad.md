@@ -6,14 +6,15 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラトゥーン２の更新 Ver 4.5.0 によってアメフラシがナーフされましたね。
 
-![test](/img/2019/03/D1HhKTWU8AAe7ZR.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/D1HhKTWU8AAe7ZR.png)
 &nbsp;
 
 結構皆さん嘆かれているのを目にするのですが、個人的に<strong>そんな悲しむ程ではない</strong>と思うのです。
@@ -194,7 +195,7 @@ draft: true
 
 まさしく下の画像の赤丸部分なんですけどね。
 
-![test](/img/2019/03/160e8939a2368d8cd7d9769eacdc7bb5.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/160e8939a2368d8cd7d9769eacdc7bb5.png)
 &nbsp;
 
 &nbsp;

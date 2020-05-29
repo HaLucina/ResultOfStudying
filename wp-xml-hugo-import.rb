@@ -81,7 +81,7 @@ doc.elements.each("rss/channel/item[wp:post_type = 'post']") do |e|
     end
     f.puts "description: "
     f.puts "thumbnailImagePosition: left"
-    f.puts "thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg"
+    f.puts "thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg"
     f.puts "draft: #{post_status}"
     f.puts '---'
     f.puts "\n"

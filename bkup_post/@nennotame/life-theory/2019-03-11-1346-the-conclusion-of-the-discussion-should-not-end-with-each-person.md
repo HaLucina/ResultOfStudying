@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://hackheatharu.xyz/flexible-thinking/
@@ -166,4 +167,4 @@ https://hackheatharu.xyz/flexible-thinking/
 
 <strong>”人それぞれ” </strong>かもしれませんが、私はこのような意見を持っています。
 
-{{< tweet 1087274093022347264 >}}
+https://twitter.com/_HaLucina/status/1087274093022347264

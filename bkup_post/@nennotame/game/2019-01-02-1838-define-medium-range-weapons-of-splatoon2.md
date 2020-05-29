@@ -6,12 +6,14 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1080099519897817088 >}}
+https://twitter.com/_HaLucina/status/1080099519897817088
+
 &nbsp;
 
 という急な思い立ちがあり、今年からスパッタリー以外のブキを担いでガチマに潜ってみようかなと思います。
@@ -118,7 +120,8 @@ draft: true
 </div>
 &nbsp;
 
-![test](/img/2019/01/11c019e4dd4ff564d0d71709436bfe1b.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/01/11c019e4dd4ff564d0d71709436bfe1b.png"><img class="alignnone size-medium wp-image-1840" src="https://hackheatharu.xyz/wp-content/uploads/2019/01/11c019e4dd4ff564d0d71709436bfe1b-245x300.png" alt="ダメージ射程比較表" width="245" height="300" /></a>
+
 （画像引用：『<a href="https://note.mu/splat/n/n8c02b05eeab3">Splatoon2のブキ射程比較表を作った</a>』より引用）
 
 &nbsp;

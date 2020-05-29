@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 <strong>2019/4/4 追記</strong>：スパッタリークリアを実際に使ってみた感想を書きました ⇒ <strong>[<a href="https://hackheatharu.xyz/clear-dapple-dualies-is-classified-as-kill-weapons/">リンク</a>]</strong>
@@ -19,7 +20,8 @@ draft: true
 </strong>
 
 <strong>2019/4/1 追記</strong>：申し訳ございません。日本では4月3日が更新日でした。
-{{< tweet 1112158464107659265 >}}
+https://twitter.com/SplatoonJP/status/1112158464107659265
+
 &nbsp;
 
 &nbsp;
@@ -35,7 +37,8 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 これら12種類の武器は<strong>4月2日（日本では3日）のアップデート ”Ver4.6.0” で一気に追加</strong>されます。
 
-![test](/img/2019/03/dd088dd0248e3b938a4d24d23bdcce0a.png)&nbsp;
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/dd088dd0248e3b938a4d24d23bdcce0a.png"><img class="alignnone size-medium wp-image-2951" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/dd088dd0248e3b938a4d24d23bdcce0a-300x169.png" alt="スパッタリー・クリア Clear Dapple Dualies" width="300" height="169" /></a></blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -45,7 +48,8 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 さらに嬉しいことに、スパッタリークリアのサブとSPは『<strong>トーピード</strong>』『<strong>スーパーチャクチ</strong>』です。
 
-![test](/img/2019/03/canva-photo-editor-5.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/canva-photo-editor-5.png"><img class="alignnone size-medium wp-image-2952" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/canva-photo-editor-5-300x169.png" alt="スパッタリー・クリアのサブとSP" width="300" height="169" /></a>
+
 &nbsp;
 
 なんとスパッタリーに『<strong>トーピード</strong>』が与えられました。
@@ -101,7 +105,8 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 クイボだろうがキューバンだろうがトーピードだろうが、メインのみで活路を開かなければならなかった負担が無にできるのですから。
 
-{{< blogcard url=https://hackheatharu.xyz/what-is-the-ideal-one-in-dapple-dualies-sub/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/what-is-the-ideal-one-in-dapple-dualies-sub/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -119,7 +124,8 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 主な使い方はクリアリングであり、<strong>即効性のある起爆が出来ない</strong>（ボムコロは別）<strong>かつ壊されることが欠点</strong>ですね。
 
-{{< blogcard url=https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B32%E3%80%91%E3%83%88%E3%83%BC%E3%83%94%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/ >}}
+参考⇒[blogcard url="https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B32%E3%80%91%E3%83%88%E3%83%BC%E3%83%94%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"]
+
 &nbsp;
 
 &nbsp;
@@ -130,7 +136,8 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 というのも、私が赤スパを使っている時、たまに<strong>囮ビーコン</strong>を使うことがあります。
 
-{{< tweet 999531051205578752 >}}
+https://twitter.com/_HaLucina/status/999531051205578752
+
 &nbsp;
 
 &nbsp;
@@ -254,7 +261,8 @@ https://youtu.be/Gct2o37vlHg?t=9768
 
 チャクチを持っていればナイスダマ相手に強気で攻めることができます。
 
-{{< tweet 1111176077332733952 >}}
+https://twitter.com/Inubasiri016/status/1111176077332733952
+
 &nbsp;
 
 &nbsp;

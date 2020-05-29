@@ -6,16 +6,18 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 およそ1か月前に私が初めて知った海外のサーモンラン巨匠『<strong>Marty</strong>』さん。
 
 以下の記事でも紹介しましたが、彼（または彼女？ Mr. or Ms.? 分からないので便宜上"彼"と呼びます）のバイト遂行能力は凄まじいものがあり、バイトに自信のあった私でしたが、この人には勝てないと思わされた人物でもあります。
 
-{{< blogcard url=https://hackheatharu.xyz/salmonrun-mentors/ >}}
+[blogcard url="https://hackheatharu.xyz/salmonrun-mentors/"]
+
 &nbsp;
 
 機会に恵まれ１度だけ一緒にバイトをして以来、彼から何度かアドバイスを貰ったり彼のツイートを見ていろいろと学んできたつもりです。
@@ -28,8 +30,10 @@ draft: true
 
 &nbsp;
 <h2>Martyさんが使う"ナイス"の意味</h2>
-{{< tweet 1039515995088375808 >}}
-{{< tweet 1039516356734078976 >}}
+https://twitter.com/MartyBubbler/status/1039515995088375808
+
+https://twitter.com/MartyBubbler/status/1039516356734078976
+
 &nbsp;
 <blockquote>【意訳】
 
@@ -40,8 +44,10 @@ draft: true
 
 &nbsp;
 <h2>ノーミス野良カンストのコツ</h2>
-{{< tweet 1044673004637044736 >}}
-{{< tweet 1044692308569010182 >}}
+https://twitter.com/_HaLucina/status/1044673004637044736
+
+https://twitter.com/MartyBubbler/status/1044692308569010182
+
 &nbsp;
 <blockquote>【意訳】
 
@@ -58,8 +64,10 @@ draft: true
 &nbsp;</blockquote>
 &nbsp;
 <h2>どうしてそんなにアベレージが高いのか</h2>
-{{< tweet 1052870067694723073 >}}
-{{< tweet 1052885364069695489 >}}
+https://twitter.com/_HaLucina/status/1052870067694723073
+
+https://twitter.com/MartyBubbler/status/1052885364069695489
+
 &nbsp;
 
 &nbsp;
@@ -94,4 +102,4 @@ EUではサーモンラン自体人気が無いらしく、日本とのプレイ
 &nbsp;
 
 ↓Martyさんのチャンネル
-{{< blogcard url=https://www.youtube.com/channel/UCPmoXQKHgwMghmBRu0NBj3w >}}
+[blogcard url="https://www.youtube.com/channel/UCPmoXQKHgwMghmBRu0NBj3w"]

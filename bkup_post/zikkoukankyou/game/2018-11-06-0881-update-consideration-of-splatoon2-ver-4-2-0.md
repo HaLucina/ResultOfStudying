@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 11月7日（この記事を執筆時点では明日）いよいよVer.4.2.0へアップデートされますね。
@@ -125,7 +126,7 @@ https://hackheatharu.xyz/new-sp-ultrahanko-ultrastamp/
 
 私は画像の赤丸で囲っている壁を利用すべきだと予想しているので、とりあえず当日はそこ付近を定位置として試してみるつもりです。
 
-![test](/img/2018/11/f5d050b4e8dcb83386f4f136b86e2763.jpg"><img class="alignnone size-medium wp-image-895" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/f5d050b4e8dcb83386f4f136b86e2763-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/5ba897d6d697425ab4b38f14e988b482.jpg"><img class="alignnone size-medium wp-image-896" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/5ba897d6d697425ab4b38f14e988b482-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/3.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/f5d050b4e8dcb83386f4f136b86e2763.jpg"><img class="alignnone size-medium wp-image-895" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/f5d050b4e8dcb83386f4f136b86e2763-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/5ba897d6d697425ab4b38f14e988b482.jpg"><img class="alignnone size-medium wp-image-896" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/5ba897d6d697425ab4b38f14e988b482-300x169.jpg" alt="" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/3.jpg)
 &nbsp;
 
 &nbsp;

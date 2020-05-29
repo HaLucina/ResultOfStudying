@@ -6,9 +6,10 @@ categories:
  - PC関連
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 当ブログはWordpressによる運営をしています。
@@ -167,7 +168,8 @@ Markdown記法でpostしてもWordpress側はHTMLに変換してくれません�
 というのもVimWordPressには最初からその機能が備わっています。
 &nbsp;
 
-{{< blogcard url=https://tsuchikazu.net/vim_markdown_wordpress/ >}}
+[blogcard url="https://tsuchikazu.net/vim_markdown_wordpress/"]
+
 &nbsp;
 
 <code>pip3 install markdown2</code> とコンソールからPython3にmarkdown2をインストールします。
@@ -177,7 +179,8 @@ Markdown記法でpostしてもWordpress側はHTMLに変換してくれません�
 以下、参考サイト
 &nbsp;
 
-{{< blogcard url=http://skrby1.com/?p=142 >}}
+[blogcard url="http://skrby1.com/?p=142"]
+
 &nbsp;
 
 Pythonのソースをいじれば直せそうですが、前述した「Markdown Editer」で運用しちゃった方が楽です。
@@ -193,7 +196,8 @@ Pythonのソースをいじれば直せそうですが、前述した「Markdown
 この不具合については以下のサイト様を参考にWordPress側で<code>function.php</code>に2行のコードを加えることで解決できました。
 
 参考サイト
-{{< blogcard url=https://cod-sushi.com/wordpress-markdown-editor-code/ >}}
+[blogcard url="https://cod-sushi.com/wordpress-markdown-editor-code/"]
+
 追加するコード
 
 <pre><code class="php">add_filter( 'markdown_editor_highlight', '__return_false' );
@@ -213,7 +217,8 @@ Markdownでリンクを挿入する<code>[タイトル](URL)</code> と記述し
 
 やり方は以下を参考にしました。
 
-{{< blogcard url=https://decoy284.net/markdown-link-target-blank/ >}}
+[blogcard url="https://decoy284.net/markdown-link-target-blank/"]
+
 <h2>使ってみた感想</h2>
 
 動画・画像のURL記述、プラグイン特有の記述等はWordpress側でやった方が楽です。

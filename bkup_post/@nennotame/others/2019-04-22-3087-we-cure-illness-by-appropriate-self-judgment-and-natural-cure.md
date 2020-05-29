@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 約２週間前に体調を崩してしまい、ようやく体がいつもの状態になってやる気を取り戻しました。
@@ -69,7 +70,8 @@ https://hackheatharu.xyz/meet-mentors/
 
 実際、Kマネージャーのお話と同じようなことを語っている記事もありました。
 
-{{< blogcard url=https://www.1101.com/kaze_a/2018-09-22.html >}}
+[blogcard url="https://www.1101.com/kaze_a/2018-09-22.html"]
+
 &nbsp;
 
 私のTwitterを見てくれていた方は疑問に思っていたことでしょう。

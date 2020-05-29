@@ -6,12 +6,14 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1140864311746674688 >}}
+https://twitter.com/satoexsalmon/status/1140864311746674688
+
 &nbsp;
 
 ドンブラコのヒカリバエで、<strong>カゴより後ろで待機しても右からしかシャケが来ない</strong>という動画が話題になっているそうですね。
@@ -73,8 +75,7 @@ https://tkgstrator.work/?p=16467
 以下画像のようなところが安全地帯といえるでしょう。
 <blockquote><img src="https://pbs.twimg.com/wp-content/uploads/DX2j-1dUQAEZ4XB.jpg" />
 
-{{< tweet 972113841931796481 >}}
-
+引用：<a href="https://twitter.com/ika_shicomcom/status/972113841931796481">https://twitter.com/ika_shicomcom/status/972113841931796481</a></blockquote>
 &nbsp;
 
 &nbsp;
@@ -189,7 +190,8 @@ https://tkgstrator.work/?p=16467
 
 具体的には以下の動画のような感じですね。
 
-{{< tweet 1125944939353796608 >}}
+https://twitter.com/_HaLucina/status/1125944939353796608
+
 &nbsp;
 
 &nbsp;

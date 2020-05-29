@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 &nbsp;
 
-{{< tweet 1095075530112671745 >}}
+https://twitter.com/MartyBubbler/status/1095075530112671745
+
 2月12日のサーモンランにて、<a href="https://twitter.com/MartyBubbler"><strong>EUサーモンランガチ勢のMartyさん</strong></a>が『<strong>ノーミス・ノーデス野良カンスト』を達成</strong>されました。
 
 ノーミス野良カンストじゃないんです。<strong>”ノーミス” </strong>と <strong>”ノーデス” </strong>なんです。
@@ -55,7 +57,8 @@ https://youtu.be/AXioj-Bq-tI
 以前の記事でMartyさん自身も運が絡むと述べていました。
 <blockquote><strong>Marty：</strong>ノーミス野良カンストは、時には運に頼らざるを得ないと思います。フリーランスとバイトする時どのようなメンバーが集うかわからない以上、いくつかのバイトの定石を使うのは困難だからです。
 
-{{< blogcard url=https://hackheatharu.xyz/salmonrun-advice-from-eu/ >}}そのただでさえ運が絡むノーミス野良カンストに、あろうことか<strong>プラスα感覚でノーデスも達成</strong>しちゃっているんです。
+[blogcard url="https://hackheatharu.xyz/salmonrun-advice-from-eu/"]</blockquote>
+そのただでさえ運が絡むノーミス野良カンストに、あろうことか<strong>プラスα感覚でノーデスも達成</strong>しちゃっているんです。
 
 ノーミスを試みた人ならわかると思いますが、これがいかにCrazyなことか……。
 
@@ -67,7 +70,8 @@ https://youtu.be/AXioj-Bq-tI
 
 以下のように答えてくれました。
 
-{{< tweet 1095288999923666945 >}}<blockquote>【意訳】
+https://twitter.com/MartyBubbler/status/1095288999923666945
+<blockquote>【意訳】
 
 サーモンランは私にとって楽しいものなんです。
 

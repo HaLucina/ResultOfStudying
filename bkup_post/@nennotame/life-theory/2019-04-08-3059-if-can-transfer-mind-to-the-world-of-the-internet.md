@@ -6,14 +6,18 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1094463890224627713 >}}
-![test](/img/2019/04/DzBRGr0VAAAqj_N.jpg)
-![test](/img/2019/04/DzBRGrxV4AA8I2d.jpg)
+https://twitter.com/kimuti_X/status/1094463890224627713
+
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/04/DzBRGr0VAAAqj_N.jpg"><img class="alignnone size-medium wp-image-3060" src="https://hackheatharu.xyz/wp-content/uploads/2019/04/DzBRGr0VAAAqj_N-300x185.jpg" alt="意識をネットの世界に移す" width="300" height="185" /></a>
+
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/04/DzBRGrxV4AA8I2d.jpg"><img class="alignnone size-medium wp-image-3061" src="https://hackheatharu.xyz/wp-content/uploads/2019/04/DzBRGrxV4AA8I2d-300x244.jpg" alt="" width="300" height="244" /></a>
+
 &nbsp;
 
 &nbsp;

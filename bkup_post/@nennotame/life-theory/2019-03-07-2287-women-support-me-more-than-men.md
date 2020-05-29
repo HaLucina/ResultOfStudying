@@ -6,20 +6,24 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 こんなツイートをしたことがあります。
 
-{{< tweet 1088301662656069633 >}}
-{{< tweet 1088307319031689216 >}}
+https://twitter.com/_HaLucina/status/1088301662656069633
+
+https://twitter.com/_HaLucina/status/1088307319031689216
+
 &nbsp;
 
 すると後日、水素先生からこのような見解が述べられました。
 
-{{< tweet 1088360587745099776 >}}
+https://twitter.com/xa_hydrogen/status/1088360587745099776
+
 &nbsp;
 
 &nbsp;
@@ -30,8 +34,10 @@ draft: true
 
 &nbsp;
 <h2>女性は ”共感してくれる” 能力が男性より高い</h2>
-{{< tweet 1088360594074259456 >}}
-{{< tweet 1088360599493345281 >}}
+https://twitter.com/xa_hydrogen/status/1088360594074259456
+
+https://twitter.com/xa_hydrogen/status/1088360599493345281
+
 &nbsp;
 
 &nbsp;
@@ -53,7 +59,8 @@ draft: true
 残念ながら元は消されていたので、それについて書かれていたことを掲載しているブログから引用します。
 <blockquote>我々の遺伝子の進化は非常に遅く、狩猟採集時代の遺伝子を引きずっています。農耕社会から産業社会になるまでの期間が大変短かったため、遺伝子が追いついていないのです。狩猟採集時代においては、男性は、狩猟している最中に会話をしていたら獲物が逃げてしまうので、必要最低限の目的のある会話しかしなくなり、その結果、<strong>「目的を解決するための解決脳」</strong>になっています。一方の女性は、いつ獲物に襲われるか分からないので、声をだすことで互いの存在を確認しなくてはいけませんでした。そのため、目的がなくても会話をする必要があり、女性の脳は、<strong>声を出して共感し合う「共感脳」</strong>というものに進化しました。
 
-{{< blogcard url=https://martechlab.gaprise.jp/archives/clicktale/1577/ >}}&nbsp;
+[blogcard url="https://martechlab.gaprise.jp/archives/clicktale/1577/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -73,7 +80,8 @@ draft: true
 ですので男性からすると「女性の話」は「理解できない話」であるため「女の話はつまらない」と感じてしまうのです。
 
 
-{{< blogcard url=https://ueno.link/2017/10/07/001-2/ >}}&nbsp;
+[blogcard url="https://ueno.link/2017/10/07/001-2/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -103,7 +111,8 @@ draft: true
 
 それぞれですが、脳科学的な根拠と今までの経験傾向を考慮したうえで『<strong>女性フォロワーさんが欲しいなぁ</strong>』という結論に至ったのです。
 
-{{< tweet 1088360603347865600 >}}
+https://twitter.com/xa_hydrogen/status/1088360603347865600
+
 &nbsp;
 
 &nbsp;

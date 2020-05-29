@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 これを食べている奴は湿布も食べれるという程に嫌われている味『<strong>チョコミント</strong>』。
@@ -45,7 +46,8 @@ draft: true
 それは、無意識化で「〇〇と言ったら□□」というように定番化されます。
 定番化されたものは変えることはできません。
 
-{{< blogcard url=https://elzalet.xyz/%E4%B8%8A%E4%BD%8D%E6%A6%82%E5%BF%B5%E3%81%A8%E4%B8%8B%E4%BD%8D%E6%A6%82%E5%BF%B5%E3%80%90%E5%95%86%E5%93%81%E9%96%8B%E7%99%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%91/ >}}
+[blogcard url="https://elzalet.xyz/%E4%B8%8A%E4%BD%8D%E6%A6%82%E5%BF%B5%E3%81%A8%E4%B8%8B%E4%BD%8D%E6%A6%82%E5%BF%B5%E3%80%90%E5%95%86%E5%93%81%E9%96%8B%E7%99%BA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%91/"]
+
 &nbsp;</blockquote>
 &nbsp;
 

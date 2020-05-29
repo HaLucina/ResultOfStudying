@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私が嫌いなモノの１つに役職などの『<strong>肩書</strong>』があります。
@@ -73,8 +74,10 @@ draft: true
 
 最終的に行き着く先は、以前お話した悪いフィードバッグをするようになるんです。 詳しくはこちらをご覧ください。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/good-feedback-and-bad-feedback/ >}}
-{{< blogcard url=https://hackheatharu.xsrv.jp/evaluate-clearly/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/good-feedback-and-bad-feedback/"]
+
+[blogcard url="https://hackheatharu.xsrv.jp/evaluate-clearly/"]
+
 &nbsp;
 
 &nbsp;

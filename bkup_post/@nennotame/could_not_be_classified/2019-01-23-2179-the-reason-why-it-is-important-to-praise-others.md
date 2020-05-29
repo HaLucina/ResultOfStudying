@@ -6,9 +6,10 @@ categories:
  - 哲学
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 久しぶりに質問が来ました。
@@ -17,8 +18,10 @@ draft: true
 
 質問が来た前日、私はTwitterで何人かピックアップして褒めていました。
 
-{{< tweet 1086237903309557761 >}}
-{{< tweet 1086238751083249665 >}}
+https://twitter.com/_HaLucina/status/1086237903309557761
+
+https://twitter.com/_HaLucina/status/1086238751083249665
+
 &nbsp;
 
 自分で言うのはアレかもしれませんが、過去のツイートでも何人かピックアップし、なるべく具体的な称賛を送るように心がけていました。

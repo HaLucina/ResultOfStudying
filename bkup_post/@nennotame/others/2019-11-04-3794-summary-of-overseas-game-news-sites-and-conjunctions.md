@@ -6,7 +6,7 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -14,13 +14,16 @@ draft: true
 
 <h2>What's New - Official Site - Nintendo News</h2>
 
-{{< blogcard url=https://www.nintendo.com/whatsnew/#all >}}
+[blogcard url="https://www.nintendo.com/whatsnew/#all"]
+
 <h2>GameSpot</h2>
 
-{{< blogcard url=https://www.gamespot.com/ >}}
+[blogcard url="https://www.gamespot.com/"]
+
 <h2>EuroGamer</h2>
 
-{{< blogcard url=https://www.eurogamer.net/ >}}
+[blogcard url="https://www.eurogamer.net/"]
+
 <h2>Polygon</h2>
 
 [blogcard url="https://www.polygon.com/']

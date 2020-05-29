@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 先日、Elzaさんが面白い記事を公開しました。
 
-{{< blogcard url=https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B32%E3%80%91%E3%82%B9%E3%83%91%E3%83%83%E3%82%BF%E3%83%AA%E3%83%BC%E6%BC%AB%E8%AB%87%E6%9C%80%E9%80%9F%E3%83%9B%E3%82%B3%E5%89%B2/ >}}<blockquote>■ギア：メイン性能なし・対物なし
+[blogcard url="https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B32%E3%80%91%E3%82%B9%E3%83%91%E3%83%83%E3%82%BF%E3%83%AA%E3%83%BC%E6%BC%AB%E8%AB%87%E6%9C%80%E9%80%9F%E3%83%9B%E3%82%B3%E5%89%B2/"]
+<blockquote>■ギア：メイン性能なし・対物なし
 ホコバリア：28発
 イカスフィア：20発
 

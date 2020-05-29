@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私がノーミス野良カンストの挑戦を始めてから、かれこれ30回以上失敗しています。
@@ -160,7 +161,8 @@ Wave3で死ぬほど全力を出してクリアするか、味方がSPを使っ�
 
 &nbsp;
 
-{{< tweet 1123621160204345344 >}}
+https://twitter.com/MartyBubbler/status/1123621160204345344
+
 &nbsp;
 <blockquote>【意訳】
 
@@ -207,7 +209,8 @@ Martyさんはそれ以上で尚且つクリアもされています。カゴへ
 
 <strong>Marty：</strong>野良とのバイトでは死ぬことを避けつつ、野良がやられやすいオオモノを素早く倒すように努めてます（特にタワー、ヘビ、コウモリがそうです）。
 
-{{< blogcard url=https://hackheatharu.xyz/salmonrun-advice-from-eu/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/salmonrun-advice-from-eu/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -247,7 +250,8 @@ Martyさんはそれ以上で尚且つクリアもされています。カゴへ
 
 日本でも難しいステージの１つなので理由はなんとなくわかりますが、具体的に何が難しいかを聞いてみました。
 
-{{< tweet 1123624724528021505 >}}<blockquote>【意訳】
+https://twitter.com/MartyBubbler/status/1123624724528021505
+<blockquote>【意訳】
 
 <span>JPでは誘導してくれるので大丈夫です。
 EUの野良が誘導してくれることはめったにありません。</span>
@@ -301,7 +305,8 @@ Martyさんのようなプロでも味方の誘導無しにはクリアが難し
 
 『<strong>間欠泉全開けマン</strong>』がいても、さほどクリアが難しいと思わないとのこと。
 
-{{< tweet 1123633516426792960 >}}
+https://twitter.com/MartyBubbler/status/1123633516426792960
+
 &nbsp;
 
 &nbsp;
@@ -318,8 +323,10 @@ Martyさんのようなプロでも味方の誘導無しにはクリアが難し
 
 これは私の勉強不足を感じたので、一時の恥でコツを伺ってみました。
 
-{{< tweet 1123645434285703168 >}}
-{{< tweet 1120088951581134848 >}}<blockquote><span><strong>Marty：
+https://twitter.com/MartyBubbler/status/1123645434285703168
+
+https://twitter.com/MrGrizz9/status/1120088951581134848
+<blockquote><span><strong>Marty：
 </strong></span><span>もしコジャケをすぐにキルできないブキなら、壁を利用するともっと簡単に金シャケを倒すことができます！
 そのうち、コジャケを倒しても、遠くの方に再び現れるため邪魔にならない。</span>
 

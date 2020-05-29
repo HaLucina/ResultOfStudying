@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 {{< tweet 1080099519897817088 >}}
@@ -118,7 +119,7 @@ draft: true
 </div>
 &nbsp;
 
-![test](/img/2019/01/11c019e4dd4ff564d0d71709436bfe1b.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/11c019e4dd4ff564d0d71709436bfe1b.png)
 （画像引用：『<a href="https://note.mu/splat/n/n8c02b05eeab3">Splatoon2のブキ射程比較表を作った</a>』より引用）
 
 &nbsp;

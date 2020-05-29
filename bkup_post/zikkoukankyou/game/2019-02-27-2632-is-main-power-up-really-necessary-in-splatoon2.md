@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 <strong>疑似2確プライムくんが強すぎると思います。</strong>
@@ -55,7 +56,7 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-3-0/
 
 しかし、いざ蓋を開けてみると予想外の結果でした。
 
-![test](/img/2019/02/canva-photo-editor-6.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/02/canva-photo-editor-6.png)
 &nbsp;
 
 上記画像はTwitterで見つけたブキ別メイン性能アップの効果を一覧でまとめてくださった画像です。

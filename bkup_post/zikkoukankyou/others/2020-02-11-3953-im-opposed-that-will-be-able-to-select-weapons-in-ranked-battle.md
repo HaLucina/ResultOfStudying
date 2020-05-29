@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラ２で度々挙がる不満といえばマッチング関連が多いですよね。弱い味方が来たとか、スペシャルの差で負けたとか。そんな中でも<strong>編成負け</strong>に対する不満をよく見かけます。編成負けでツイッター検索してみれば「塗れないブキで偏っていた&amp;チャージャーが来たせい」のように、ハッピーセットのごとく定番な文句となっている光景が広がっていました。

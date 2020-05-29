@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私のサーモンラン記事では<strong>”塗り意識を高く持ちましょう”</strong>と口酸っぱく書いていたかと思います。
@@ -29,11 +30,11 @@ draft: true
 
 &nbsp;
 <h2>シェケナダムで地味に塗ってほしい場所</h2>
-![test](/img/2019/01/a622d6358c26a65c3d920ae53ca59c1c.png)（画像引用：『<a href="https://wikiwiki.jp/splatoon2mix/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%A9%E3%83%B3/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/%E3%82%B7%E3%82%A7%E3%82%B1%E3%83%8A%E3%83%80%E3%83%A0">Splatoon2 - スプラトゥーン2 攻略＆検証 Wiki - シェケナダム</a>』）
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/a622d6358c26a65c3d920ae53ca59c1c.png)（画像引用：『<a href="https://wikiwiki.jp/splatoon2mix/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%A9%E3%83%B3/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/%E3%82%B7%E3%82%A7%E3%82%B1%E3%83%8A%E3%83%80%E3%83%A0">Splatoon2 - スプラトゥーン2 攻略＆検証 Wiki - シェケナダム</a>』）
 
 &nbsp;
 <h6>１、東にある坂道側面</h6>
-![test](/img/2019/01/2018102723233900-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018102723233900-C616B031331154665D639EF16DA76BC0.jpg)
 私はここの壁を初動でよく塗ります。
 
 この壁はタワーが出現した時にとても役に立つ場所です。
@@ -46,7 +47,7 @@ draft: true
 
 &nbsp;
 <h6>２、西のカゴすぐ近くの高台壁</h6>
-![test](/img/2019/01/2018102723325900-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018102723325900-C616B031331154665D639EF16DA76BC0.jpg)
 ここを塗った時に進化を発揮するのは<strong>満潮時</strong>です。
 
 カゴの位置からジャンプするとセミをすることができます。
@@ -57,7 +58,7 @@ draft: true
 
 &nbsp;
 <h6>３、干潮時降りてすぐの地面</h6>
-![test](/img/2019/01/2018111314085100-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018111314085100-C616B031331154665D639EF16DA76BC0.jpg)
 干潮時はカゴ周辺の塗りが大事ですが、画像のあたりの地面も満面なく塗っておくと非常に楽です。
 
 ヘビの誘導やカタパ、タワーの回避が楽になります。
@@ -68,12 +69,12 @@ draft: true
 
 &nbsp;
 <h2>ドン・ブラコで地味に塗ってほしい場所</h2>
-![test](/img/2019/01/406b20c10a0b419e9fec19b4551141ae.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/406b20c10a0b419e9fec19b4551141ae.png)
 （画像引用：『<a href="https://wikiwiki.jp/splatoon2mix/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%A9%E3%83%B3/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/%E9%9B%A3%E7%A0%B4%E8%88%B9%E3%83%89%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B3">Splatoon2 - スプラトゥーン2 攻略＆検証 Wiki - 難破船 ドン・ブラコ</a>』）
 
 &nbsp;
 <h6>１、南西側昇降機近くの坂道側面</h6>
-![test](/img/2019/01/2018122216530300-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018122216530300-C616B031331154665D639EF16DA76BC0.jpg)
 ここの坂道の壁を塗っておくと、ほんの少しショートカットすることができます。
 
 昇降機側と海側から敵が迫ってきたと時の逃げ道によく使います。
@@ -82,12 +83,12 @@ draft: true
 
 &nbsp;
 <h2>シャケト場で地味に塗ってほしい場所</h2>
-![test](/img/2019/01/513d62518dd420b78700e893dc0cdfaf.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/513d62518dd420b78700e893dc0cdfaf.png)
 （画像引用：『<a href="https://wikiwiki.jp/splatoon2mix/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%A9%E3%83%B3/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/%E6%B5%B7%E4%B8%8A%E9%9B%86%E8%90%BD%E3%82%B7%E3%83%A3%E3%82%B1%E3%83%88%E5%A0%B4">Splatoon2 - スプラトゥーン2 攻略＆検証 Wiki - 海上集落 シャケト場</a>』）
 
 &nbsp;
 <h6>１、カゴの一番近くの細い柱の裏</h6>
-![test](/img/2019/01/2018102219384700-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018102219384700-C616B031331154665D639EF16DA76BC0.jpg)
 <strong>柱の裏</strong>というのがポイントです。
 
 窓を伝うように移動できるのがメリットで、通常時の緊急回避はもちろん、グリル誘導時で万が一挟み撃ちに遭った場合の回避ルートになります。
@@ -96,7 +97,7 @@ draft: true
 
 &nbsp;
 <h6>２、干潮時キャノンが出現する台の側面</h6>
-![test](/img/2019/01/2018120621475600-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018120621475600-C616B031331154665D639EF16DA76BC0.jpg)
 特に下が海の壁を塗っておくと便利です。
 
 画像の位置で挟まれた時や、カゴまでの道が酷い状況だった場合、壁にジャンプして台の上を通るルートにすることができます。
@@ -107,26 +108,26 @@ draft: true
 
 &nbsp;
 <h2>トキシラズで地味に塗ってほしい場所</h2>
-![test](/img/2019/01/3b8dcd48f86e738888dd942b5cd9b479.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/3b8dcd48f86e738888dd942b5cd9b479.png)
 （画像引用：『<a href="https://wikiwiki.jp/splatoon2mix/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%A9%E3%83%B3/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/%E3%83%88%E3%82%AD%E3%82%B7%E3%83%A9%E3%82%BA%E3%81%84%E3%81%B6%E3%81%97%E5%B7%A5%E6%88%BF">Splatoon2 - スプラトゥーン2 攻略＆検証 Wiki - トキシラズいぶし工房</a>』）
 
 &nbsp;
 <h6>１、東側上り坂の側面</h6>
-![test](/img/2019/01/2018103002293300-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018103002293300-C616B031331154665D639EF16DA76BC0.jpg)
 坂道が登れない状況だった時に壁を塗っておくと役に立つ場所です。
 
 シャケが頻繁に通る道なので、イカ用に塗っておくといった感じです。
 
 &nbsp;
 <h6>２、カゴそばの移動床すぐ下の壁</h6>
-![test](/img/2019/01/2018103002293700-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018103002293700-C616B031331154665D639EF16DA76BC0.jpg)
 西側が混戦になった時に役立つ壁です。
 
 ここを上るとすぐカゴに到達することができます。
 
 &nbsp;
 <h6>３、対岸側金網の下の壁</h6>
-![test](/img/2019/01/2018120117560500-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018120117560500-C616B031331154665D639EF16DA76BC0.jpg)
 初動でタワー、カタパッドが出現した時によく使う壁です。
 
 ここを利用して金網まで登った後、タワーかカタパッド、あるいはその他オオモノを処理できるところです。
@@ -137,10 +138,10 @@ draft: true
 
 &nbsp;
 <h2>ポラリスで地味に塗ってほしい場所</h2>
-![test](/img/2019/01/59e05e614d3ad.png)<p class="title">（画像引用：『<a href="https://wikiwiki.jp/splatoon2mix/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%A9%E3%83%B3/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/%E6%9C%BD%E3%81%A1%E3%81%9F%E7%AE%B1%E8%88%9F%20%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9">Splatoon2 - スプラトゥーン2 攻略＆検証 Wiki - 朽ちた箱舟 ポラリス</a>』）</p>
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/59e05e614d3ad.png)<p class="title">（画像引用：『<a href="https://wikiwiki.jp/splatoon2mix/%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%A9%E3%83%B3/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8/%E6%9C%BD%E3%81%A1%E3%81%9F%E7%AE%B1%E8%88%9F%20%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9">Splatoon2 - スプラトゥーン2 攻略＆検証 Wiki - 朽ちた箱舟 ポラリス</a>』）</p>
 &nbsp;
 <h6>１、南西のライドレールがある小さな壁</h6>
-![test](/img/2019/01/2018111100452300-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018111100452300-C616B031331154665D639EF16DA76BC0.jpg)
 ポラリス自体がそこまで塗る場所が無い、というより壁さえ塗ってくれればというステージです。
 
 なのでこの壁は塗ってほしいというより<strong>”ここも塗れるよ”</strong>という紹介程度です。
@@ -149,7 +150,7 @@ draft: true
 
 &nbsp;
 <h6>２、干潮時で停止されているライドレール付近の地面</h6>
-![test](/img/2019/01/2018112016252800-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/2018112016252800-C616B031331154665D639EF16DA76BC0.jpg)
 ここの地面を塗るのはシェケナダムと同じ理由です。
 
 特にポラリス干潮ではカゴ周辺にオオモノが貯まりやすいので、一旦退避できるようにここの地面を塗っておくと反撃しやすいです。

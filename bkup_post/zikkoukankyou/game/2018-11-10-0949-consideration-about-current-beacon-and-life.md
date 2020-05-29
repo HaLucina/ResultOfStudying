@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
@@ -21,7 +22,7 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 &nbsp;
 
-![test](/img/2018/11/DrZI0oCVYAAHTdJ.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/DrZI0oCVYAAHTdJ.jpg)
 &nbsp;
 
 私は以前の状態でも十分ビーコンは使えると考えておりましたが、今回の内容がきっかけでビーコンに対する注目が上がったように思います。
@@ -48,7 +49,7 @@ https://hackheatharu.xyz/update-consideration-of-splatoon2-ver-4-2-0/
 
 &nbsp;
 
-![test](/img/2018/11/FotoJet.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/11/FotoJet.jpg)
 &nbsp;
 
 この丸ポチの数でビーコンが壊れるか否かが判断できるようになりました。

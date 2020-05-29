@@ -6,7 +6,7 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -32,7 +32,8 @@ draft: true
 <h2>ラバーダッキング法</h2>
 &nbsp;
 
-{{< blogcard url=https://rubberduckdebugging.com/ >}}
+[blogcard url="https://rubberduckdebugging.com/"]
+
 &nbsp;
 
 &nbsp;
@@ -43,7 +44,8 @@ draft: true
 <h2>緑谷出久が理想のラバーダッキング</h2>
 もう少しわかりやすい例を挙げるならば、僕のヒーローアカデミアの主人公『緑谷出久』を知っていると分かりやすいかもしれません。
 
-{{< blogcard url=http://ja.bokunoheroacademia.wikia.com/wiki/%E7%B7%91%E8%B0%B7%E5%87%BA%E4%B9%85 >}}
+[blogcard url="http://ja.bokunoheroacademia.wikia.com/wiki/%E7%B7%91%E8%B0%B7%E5%87%BA%E4%B9%85"]
+
 &nbsp;
 
 &nbsp;

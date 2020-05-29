@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://hackheatharu.xyz/consider-of-clear-dapple-dualies-in-spltoon2/
@@ -98,7 +99,8 @@ https://hackheatharu.xyz/dapple-dualies-is-a-sapport-and-rearguard-weapon/
 
 このようにスパヒューは、<strong>サブとSPによって敵を無理やり動かすことに特化している</strong>のです。
 
-{{< blogcard url=https://hackheatharu.xyz/difference-between-dapple-dualies-and-dapple-dualies-nouveau/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/difference-between-dapple-dualies-and-dapple-dualies-nouveau/"]</blockquote>
+&nbsp;
 
 &nbsp;
 

@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ニュースを見ていて<strong>『スウェーデンのゆたぽん』</strong>というワードが目に飛び込んできました。
@@ -96,7 +97,8 @@ Kマネージャーが私に教えたかったことは<strong>『コーチン�
 以下の記事でも似たようなことを書きましたね。
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/those-who-always-need-fine-numbers-are-incompetent/ >}}
+[blogcard url="https://hackheatharu.xyz/those-who-always-need-fine-numbers-are-incompetent/"]
+
 &nbsp;
 
 古代ギリシアの哲学者<a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%88%E3%83%86%E3%83%AC%E3%82%B9"><strong>『アリストテレス』</strong></a>の弁論術をご存知でしょうか。

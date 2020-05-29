@@ -6,16 +6,17 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 10月29日に<a href="https://twitter.com/SplatoonJP"><strong><span class="FullNameGroup">Splatoon（スプラトゥーン）‏ツイッター公式アカウント</span></strong></a><small class="time"></small>で新スペシャル『<strong>ウルトラハンコ</strong>』についての情報が解禁されました。
 
 &nbsp;
 
-![test](/img/2018/10/f81fd2e4c52864042852c112ce927ae2.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/10/f81fd2e4c52864042852c112ce927ae2.jpg)
 &nbsp;
 
 &nbsp;
@@ -30,7 +31,7 @@ draft: true
 
 &nbsp;
 
-![test](/img/2018/10/DqqfS4QV4AEtDHy.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2018/10/DqqfS4QV4AEtDHy.jpg)
 &nbsp;
 
 11月7日(水)以降に配信予定の更新データVer.4.2にて使えるようになるとのことです。
@@ -108,15 +109,15 @@ draft: true
 
 &nbsp;
 
-![test](/img/2018/10/2018102919133600-C616B031331154665D639EF16DA76BC0.jpg)図１.スパッタリーの最大射程距離
+![test](https://res.cloudinary.com/ddghc4l09/2018/10/2018102919133600-C616B031331154665D639EF16DA76BC0.jpg)図１.スパッタリーの最大射程距離
 
 &nbsp;
 
-![test](/img/2018/10/2018102919144000-C616B031331154665D639EF16DA76BC0.jpg)図２.ボールドの最大射程距離
+![test](https://res.cloudinary.com/ddghc4l09/2018/10/2018102919144000-C616B031331154665D639EF16DA76BC0.jpg)図２.ボールドの最大射程距離
 
 &nbsp;
 
-![test](/img/2018/10/2018102919370900-C616B031331154665D639EF16DA76BC0.jpg)図３.スプラローラー（横振り時）の即死距離
+![test](https://res.cloudinary.com/ddghc4l09/2018/10/2018102919370900-C616B031331154665D639EF16DA76BC0.jpg)図３.スプラローラー（横振り時）の即死距離
 
 &nbsp;
 

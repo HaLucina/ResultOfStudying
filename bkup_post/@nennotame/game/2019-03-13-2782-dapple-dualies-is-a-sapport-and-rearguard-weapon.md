@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛ブキ</strong>』という題目で動画の切り抜きが投稿されていました。
@@ -25,12 +26,14 @@ TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛�
 
 <del>可能なら元動画に直接飛べるURLを誰か教えて頂けると嬉しいです。</del> ⇒ 教えて頂きました！以下リンクからいけます！
 
-{{< blogcard url=https://www.openrec.tv/live/mlrl2d7ne8g >}}
+[blogcard url="https://www.openrec.tv/live/mlrl2d7ne8g"]
+
 &nbsp;
 
 &nbsp;
 <h2>赤スパはサポートブキ</h2>
-{{< tweet 1105016930757300224 >}}<blockquote>【動画内容要約】
+https://twitter.com/Guzutan_2525/status/1105016930757300224
+<blockquote>【動画内容要約】
 
 スパッタリー・ヒューに関しては前で戦う前線ブキだと思っています。
 
@@ -85,7 +88,8 @@ TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛�
 
 &nbsp;
 <h2>スパッタリーは条件さえ整っていれば打開が強い</h2>
-{{< tweet 1105017468693635072 >}}<blockquote>【動画内容要約】
+https://twitter.com/Guzutan_2525/status/1105017468693635072
+<blockquote>【動画内容要約】
 
 （サブが）ビーコンなんで、いかに試合をコントロールするか。
 
@@ -112,7 +116,8 @@ TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛�
 
 例えばアジフライスタジアムのエリア初動だと、以下画像の赤丸部分を大雑把に塗りながらSPを貯めて前線へ向かいます。
 
-![test](/img/2019/03/bd8cc103650c3121c04890500698c967.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/bd8cc103650c3121c04890500698c967.png"><img class="alignnone size-medium wp-image-2787" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/bd8cc103650c3121c04890500698c967-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -153,7 +158,8 @@ TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛�
 
 &nbsp;
 <h2>実は味方に前～中衛がいる時のスパッタリーが強い</h2>
-{{< tweet 1105018051043352579 >}}<blockquote>【動画内容要約】
+https://twitter.com/Guzutan_2525/status/1105018051043352579
+<blockquote>【動画内容要約】
 
 （スパッタリーは）表とビーコンから同時打開を図るデザインだと思っています。
 
@@ -174,7 +180,8 @@ TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛�
 前線ブキはちょっとした塗りを使ったりするのが得意なので、そういう盤面を作りやすいのがスパッタリーだと思っています。</blockquote>
 &nbsp;
 
-{{< tweet 1105018585255043073 >}}<blockquote>【動画内容要約】
+https://twitter.com/Guzutan_2525/status/1105018585255043073
+<blockquote>【動画内容要約】
 
 １の時は敵の高台を取って復活短縮とかで無限に飛ぶ戦法が流行っていたので、それを疑似的に２でやるとしたらスパッタリーなのかなと。
 
@@ -235,7 +242,8 @@ TwitterのTLを眺めていたら『<strong>スパッタリー(無印)は後衛�
 
 ブログを見ていて少ない同志がいたことに嬉しくなってました。
 
-{{< blogcard url=https://lineblog.me/fogbound/archives/1538865.html >}}
+[blogcard url="https://lineblog.me/fogbound/archives/1538865.html"]
+
 &nbsp;
 
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私はメインで赤スパッタリーを使っています。
@@ -23,9 +24,9 @@ draft: true
 
 &nbsp;
 <h2>ビーコンの恩恵が受けにくいと思う理由</h2>
-![test](/img/2019/02/DuYoEQmUUAAgXo_.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuYoEQmUUAAgXo_.jpg"><img class="alignnone size-medium wp-image-2582" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuYoEQmUUAAgXo_-300x280.jpg" alt="アンチョビットゲームズのジャンプビーコンの設置場所候補" width="300" height="280" /></a>
 
-{{< tweet 1073590526878744577 >}}
+（画像元ツイート：<a href="https://twitter.com/ragurun7/status/1073590526878744577"><strong>リンク</strong></a>）
 
 &nbsp;
 
@@ -41,7 +42,8 @@ draft: true
 
 これが満たされているのを例に出すなら、アロワナモールの以下画像で示す赤丸の位置ですね。
 
-![test](/img/2019/02/canva-photo-editor-4-1.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/canva-photo-editor-4-1.png"><img class="alignnone size-medium wp-image-2598" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/canva-photo-editor-4-1-300x169.png" alt="アロワナの強いビーコン位置" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -94,7 +96,8 @@ Twitterでも検索してみたのですが、壁裏の索敵（図でいう所�
 
 エリアなら尚更この位置の長射程が強いですし。
 
-![test](/img/2019/02/canva-photo-editor-5.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/canva-photo-editor-5.png"><img class="alignnone size-medium wp-image-2599" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/canva-photo-editor-5-300x168.png" alt="アンチョビ 強い長射程位置" width="300" height="168" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -131,7 +134,8 @@ Twitterでも検索してみたのですが、壁裏の索敵（図でいう所�
 
 これは本当にその通りだと思う意見をらぐるんさんから貰いました。
 
-{{< tweet 1097355922295316480 >}}
+https://twitter.com/ragurun7/status/1097355922295316480
+
 &nbsp;
 
 &nbsp;

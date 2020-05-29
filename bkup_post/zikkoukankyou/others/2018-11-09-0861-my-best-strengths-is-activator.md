@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 『<strong>ストレングスファインダー</strong>』という診断を受けると自分の長所がわかります。
@@ -17,7 +18,7 @@ draft: true
 
 以下は私の診断結果であるTOP５の強みです。
 
-![test](/img/2018/10/pmuhpr4A37GQ3yq1540948482_1540948550.png)
+![test](https://res.cloudinary.com/ddghc4l09/2018/10/pmuhpr4A37GQ3yq1540948482_1540948550.png)
 &nbsp;
 
 診断結果を受け取ると『<strong>強みのインサイトガイド</strong>』と『<strong>特長的な資質レポート</strong>』というページでTOP5資質の詳しい説明をみることができます。

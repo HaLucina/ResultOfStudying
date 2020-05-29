@@ -6,17 +6,20 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 先日、私のブログが『<strong>Google Adsense（グーグルアドセンス）</strong>』の審査を通過しました。
 
 &nbsp;
 
-{{< tweet 1060112859311423490 >}}
-{{< tweet 1060115989663145984 >}}
+https://twitter.com/_HaLucina/status/1060112859311423490
+
+https://twitter.com/CsTe_Advance1/status/1060115989663145984
+
 という疑問を頂いたので、私なりに『Googlea Adsense』とは何なのかと、そもそもアフィリエイトってなんなのさ？という部分を大雑把に解説していきたいと思います。
 
 &nbsp;
@@ -110,7 +113,8 @@ E３で発表されただけの未発売ゲームなのに攻略まとめなど�
 
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/know-my-strengths/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/know-my-strengths/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -174,8 +178,10 @@ E３で発表されただけの未発売ゲームなのに攻略まとめなど�
 
 &nbsp;
 
-{{< tweet 1059361440597856257 >}}
-{{< tweet 1059362930418806785 >}}
+https://twitter.com/_HaLucina/status/1059361440597856257
+
+https://twitter.com/_HaLucina/status/1059362930418806785
+
 &nbsp;
 
 今回、グーグルアドセンスによる公告掲載が承認されたのは私としても大きいです。

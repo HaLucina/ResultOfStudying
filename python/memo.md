@@ -1,8 +1,12 @@
+## pythonの問題無料
+[pygrade](https://www.pygrade.com/start-training)
+
 ## yieldについて
 [yeildについて](https://qiita.com/Tadahiro_Yamamura/items/26a925d9a670f01bf497)
 
 
-
+## クラスメソッド、スタティックメソッドの一番わかり易い説明
+[インスタンスメソッド、staticmethod、classmethodの違いと使い方](https://djangobrothers.com/blogs/class_instance_staticmethod_classmethod_difference/)
 
 
 

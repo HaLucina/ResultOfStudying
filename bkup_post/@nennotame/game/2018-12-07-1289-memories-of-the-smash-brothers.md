@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 <strong>大乱闘スマッシュブラザースSPECIAL</strong>が発売されましたね。
@@ -338,4 +339,4 @@ https://www.youtube.com/watch?v=Lf9ZxmcUYWs
 
 ゲーム好きな方、興味ある方は見ると面白い内容なので宣伝しておきますね。
 
-{{< blogcard url=https://www.famitsu.com/news/201705/17132636.html?page=2 >}}
+[blogcard url="https://www.famitsu.com/news/201705/17132636.html?page=2"]

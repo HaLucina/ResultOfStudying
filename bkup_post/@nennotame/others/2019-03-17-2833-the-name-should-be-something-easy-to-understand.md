@@ -6,14 +6,16 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 TLからキラキラネームが集合したクラス名簿の画像がバズったツイートが流れてきました。
 
-![test](/img/2019/03/D1SP3OoVYAAFUEq.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/D1SP3OoVYAAFUEq.jpg"><img class="alignnone size-medium wp-image-2834" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/D1SP3OoVYAAFUEq-300x225.jpg" alt="キラキラネーム ネタ画像" width="300" height="225" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -97,7 +99,8 @@ TLからキラキラネームが集合したクラス名簿の画像がバズっ
 
 見ると凄くめんどくさいですし、何より<strong>そこまでして改名したいほどの名前を付けられた本人の人生</strong>がデメリットばかりで辛かったでしょう。
 
-{{< blogcard url=https://www.bengo4.com/c_23/n_9355/ >}}
+[blogcard url="https://www.bengo4.com/c_23/n_9355/"]
+
 &nbsp;
 
 一応、何かメリットが無いのか調べたり考えてみたりしました。

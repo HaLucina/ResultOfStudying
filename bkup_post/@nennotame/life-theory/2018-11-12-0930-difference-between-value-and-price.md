@@ -6,16 +6,18 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 TwitterのTLでハンドメイドに関する炎上の話題が頻繁に流れてたことが記憶に新しいです。
 
 詳しくは以下の記事をご覧ください。
 
-{{< blogcard url=https://news.nifty.com/article/entame/showbizd/12184-43878/ >}}
+[blogcard url="https://news.nifty.com/article/entame/showbizd/12184-43878/"]
+
 &nbsp;
 
 最近ですが、フォロワーさんが素敵なハンドメイドをされていることを知りました。
@@ -62,7 +64,8 @@ TwitterのTLでハンドメイドに関する炎上の話題が頻繁に流れ�
 <div>言ってしまう原因ではないかなと思います。</div>
 そういう人達は、思考力を奪われた人達なのかもしれないです。
 
-{{< blogcard url=https://ameblo.jp/nyg1t10/entry-12417630435.html >}}&nbsp;
+[blogcard url="https://ameblo.jp/nyg1t10/entry-12417630435.html"]</blockquote>
+&nbsp;
 
 ハンドメイドの炎上の争点は『<strong>適切な価格設定か否か</strong>』です。
 

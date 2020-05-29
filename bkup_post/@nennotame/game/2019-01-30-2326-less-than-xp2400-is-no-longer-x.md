@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://hackheatharu.xyz/x-power-2300-is-low/
@@ -29,7 +30,8 @@ https://hackheatharu.xyz/x-power-2300-is-low/
 
 しかし、最近だと<strong>XP2800を超える人</strong>も続々と現れ、終いには<strong>XP2900を達成されている人</strong>も出てきました。
 
-{{< tweet 1073290871833976832 >}}
+https://twitter.com/rrchocopero/status/1073290871833976832
+
 &nbsp;
 
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 勉強や仕事はやりたいとは思わないのに、ゲームならだれに指図されずともプレイし始める。
@@ -46,7 +47,8 @@ draft: true
 例２：部活の後輩に対して『もっと相手の動きを観察した方がいい』と言ったアドバイスをする
 
 &nbsp;</blockquote>
-{{< blogcard url=https://hackheatharu.xyz/good-feedback-and-bad-feedback/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/good-feedback-and-bad-feedback/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -75,7 +77,8 @@ draft: true
 
 すると、<strong>能力を褒めた側に比べ努力を褒めた子供たりは成績を伸ばした</strong>そうです。
 
-{{< blogcard url=https://hackheatharu.xyz/evaluate-clearly/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/evaluate-clearly/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -109,13 +112,9 @@ draft: true
 &nbsp;
 
 ですが最近だと、<strong>あまりにもゲームが難しすぎると発狂することがある</strong>ようです。
+<blockquote><a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuC2WPTU0AATQhe.jpg"><img class="alignnone size-medium wp-image-2337" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuC2WPTU0AATQhe-169x300.jpg" alt="スマブラで小学生が発狂" width="169" height="300" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuC2WPVU4AATuwO.jpg"><img class="alignnone size-medium wp-image-2338" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuC2WPVU4AATuwO-169x300.jpg" alt="スマブラで小学生が発狂" width="169" height="300" /></a>
 
-![test](/img/2019/02/DuC2WPTU0AATQhe.jpg"><img class="alignnone size-medium wp-image-2337" src="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuC2WPTU0AATQhe-169x300.jpg" alt="スマブラで小学生が発狂" width="169" height="300" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2019/02/DuC2WPVU4AATuwO.jpg)
-
-{{< tweet 1072057213718413312  >}}
-
-<a><blockquote>?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1072057213718413312&amp;ref_url=http%3A%2F%2Fsmash-matome.com%2Farchives%2F349">https://twitter.com/usa8216900/status/1072057213718413312?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1072057213718413312&amp;ref_url=http%3A%2F%2Fsmash-matome.com%2Farchives%2F349</a></blockquote>
-
+引用：<a href="https://twitter.com/usa8216900/status/1072057213718413312?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1072057213718413312&amp;ref_url=http%3A%2F%2Fsmash-matome.com%2Farchives%2F349">https://twitter.com/usa8216900/status/1072057213718413312?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1072057213718413312&amp;ref_url=http%3A%2F%2Fsmash-matome.com%2Farchives%2F349</a></blockquote>
 &nbsp;
 
 &nbsp;

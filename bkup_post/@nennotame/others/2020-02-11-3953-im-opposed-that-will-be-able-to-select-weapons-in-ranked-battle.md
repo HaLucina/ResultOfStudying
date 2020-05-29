@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラ２で度々挙がる不満といえばマッチング関連が多いですよね。弱い味方が来たとか、スペシャルの差で負けたとか。そんな中でも<strong>編成負け</strong>に対する不満をよく見かけます。編成負けでツイッター検索してみれば「塗れないブキで偏っていた&amp;チャージャーが来たせい」のように、ハッピーセットのごとく定番な文句となっている光景が広がっていました。
@@ -38,7 +39,8 @@ draft: true
 
 「レーン」を選択することは、リグマでいう「みんな何のブキ選ぼうか？」と同じ様な場面です。そしてLoLの間では<strong>無言即ピック&amp;ロック</strong>という行為がプレイヤー間で問題視されています。以下のサイトがとってもわかりやすい説明でしたので引用します。
 
-{{< blogcard url=http://notoshake.hatenablog.com/entry/2015/12/05/010230 >}}
+[blogcard url="http://notoshake.hatenablog.com/entry/2015/12/05/010230"]
+
 <blockquote>
   ゲームの種類を選択した後にマッチングが成立すると、チャンピオンピックが始まります。
   
@@ -97,8 +99,10 @@ draft: true
 
 しかし残念なことに、<strong>それらを全部無視してキャラを決めやがる(即ピックする)プレイヤーが少なくありません。しかもそういう奴に限って弱い。</strong>稀にそのキャラだけを極めに極めた強者だったりすることもありますけれど……。個人的に今まで出会った即ピ行為は<strong>低レベル帯であるほど遭遇率が高い</strong>と感じます。下手すると「<a href="https://rakueigaku.com/troll/">troll（荒らし行為）</a>」なんて単語が飛んでくるかもしれません。
 
-{{< blogcard url=https://twitter.com/search?q=%E3%83%80%E3%83%A1%E3%83%95%E3%83%A9%E5%8D%B3%E3%83%94&src=typed_query&f=live >}}
-{{< blogcard url=https://yumineko.com/ow-silver-troll/ >}}
+[blogcard url="https://twitter.com/search?q=%E3%83%80%E3%83%A1%E3%83%95%E3%83%A9%E5%8D%B3%E3%83%94&src=typed_query&f=live"]
+
+[blogcard url="https://yumineko.com/ow-silver-troll/"]
+
 スプラのガチマだったらどうなるでしょうねぇ。「俺はイカ忍ローラーでリスキルしかしねぇ」というキルレ厨がローラーを即ピし、それの帳尻を合わせる為のブキを選ばざるを得ない未来が目に浮かびます。ナワバリみたいにランクが関わらないなら別に気にしませんけど、ガチマであれば相当嫌われますね。
 
 選択制は周りに合わせようと試みるプレイヤーが集まれば真価を発揮するものです。考えてもみてください。<strong>試合中ですら連携しようとしない野良が多いスプラにおいて、ブキ選択時に相手のことを考えて選ぶ野良なんか多いわけないでしょうよ。</strong>そもそも最初からそんな気遣い出来るプレイヤーが低レベル帯に存在しているとは考えにくい。
@@ -140,5 +144,6 @@ draft: true
 
 まぁ、どうせどんな仕組みを導入しようとも、<strong>チャージャーまたは弱いブキを選んだ奴のせいにする</strong>のが底辺味方晒しプレイヤーじゃないですか。たとえ編成が良くても負ければ何かと理由を探しだして他人を戦犯として吊るすし、チャージャーがいればとりあえず全部責任を押し付けるだけじゃないですかね。それにしてもチャージャー可哀想だな……。
 
-{{< blogcard url=https://hackheatharu.xyz/long-range-weapons-and-tower-control-in-splatoon2/ >}}
+[blogcard url="https://hackheatharu.xyz/long-range-weapons-and-tower-control-in-splatoon2/"]
+
 そもそも、こんな代案を考える暇あったら<strong>「最初から編成で左右されにくいブキを持っていけよ」</strong>としか思わないんですけど私だけなんですかねぇ……。スパッタリーだけでやってきた身としては編成差なんて当たり前の中でXになりましたし。愚痴って発散するだけなら全然良いですけど、いつまでも負けの理由を編成に決めつけてリザルト晒してるうちは、ウデマエなんか一生上がらんでしょうに。

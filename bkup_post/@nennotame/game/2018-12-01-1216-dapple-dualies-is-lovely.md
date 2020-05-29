@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 今日までスプラトゥーン２というゲームに様々なブキが追加されてきました。
@@ -165,7 +166,8 @@ SPを貯めれば場を有利にして挑むことができますが、貯める
 
 昔ながらのフォロワーさんは、私がよく『<strong>スパッタリーは対面が弱い</strong>』などの意見をTwitterで見かけていたと思います。
 
-{{< tweet 984216170373894144 >}}
+https://twitter.com/_HaLucina/status/984216170373894144
+
 &nbsp;
 
 そういうことを言っていた背景には、上記のような経験があったからなんです。

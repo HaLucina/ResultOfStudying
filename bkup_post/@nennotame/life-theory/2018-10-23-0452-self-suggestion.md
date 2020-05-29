@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 <strong>プラシーボ効果、</strong>または<strong>プラセボ効果</strong>というものをご存知でしょうか。
@@ -63,8 +64,10 @@ draft: true
 
 もしくは、わかりやすい動画を１つ張っておいたのでそれだけでも見ると面白いですよ。
 
-{{< blogcard url=http://www.apmc.jp/book/sanko_pdf/s1-d-2.pdf >}}
-{{< blogcard url=https://www.toyo.ac.jp/uploaded/attachment/8177.pdf >}}
+[blogcard url="http://www.apmc.jp/book/sanko_pdf/s1-d-2.pdf"]
+
+[blogcard url="https://www.toyo.ac.jp/uploaded/attachment/8177.pdf"]
+
 https://www.youtube.com/watch?time_continue=1&amp;v=z03FQGlGgo0
 
 &nbsp;
@@ -115,7 +118,8 @@ https://www.youtube.com/watch?time_continue=1&amp;v=z03FQGlGgo0
 <h2>思い込みを上手にコントロールして自信を手に入れる</h2>
 以前の記事でイワン・ジョセフ博士が自信を持つコツ、そして他人に自信を持たせる方法についての動画を紹介をしました。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/evaluate-clearly/‎ >}}<blockquote>最後になりますが、自信がある人たちは、フィードバックを自分に都合良く解釈します。私の息子はこれがとても得意なんです。父親に似て酷い運動音痴の息子に、こんなことを聞いてみました。私「試合はどうだった？」息子「ああ、すごかったよ。3点決めて、2度アシストしたんだ。」私は息子が（ホッケーの）パックに触ったのを見ていません！　しかし彼は、彼がどうプレイしたか独自の認識を持っているのです！　素晴らしいと思います！
+[blogcard url="https://hackheatharu.xsrv.jp/evaluate-clearly/‎"]
+<blockquote>最後になりますが、自信がある人たちは、フィードバックを自分に都合良く解釈します。私の息子はこれがとても得意なんです。父親に似て酷い運動音痴の息子に、こんなことを聞いてみました。私「試合はどうだった？」息子「ああ、すごかったよ。3点決めて、2度アシストしたんだ。」私は息子が（ホッケーの）パックに触ったのを見ていません！　しかし彼は、彼がどうプレイしたか独自の認識を持っているのです！　素晴らしいと思います！
 
 引用：<a href="https://logmi.jp/17347">https://logmi.jp/17347</a></blockquote>
 &nbsp;

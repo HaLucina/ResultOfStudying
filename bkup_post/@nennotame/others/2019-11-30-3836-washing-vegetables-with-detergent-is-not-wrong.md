@@ -6,14 +6,16 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ツイッターでこんなものを見つけた。
 
-{{< tweet 1199992630613921794 >}}&nbsp;
+https://twitter.com/saikosugi3150/status/1199992630613921794
+&nbsp;
 
 消されているかもしれないので文章でも書いておくと<strong>「ブロッコリーを洗剤で洗っている」</strong>動画でした。
 内容としてはブロッコリーの表面にあるワックス（農薬）を落とす目的で、洗剤を入れた水で混ぜるように洗うというものである。
@@ -38,7 +40,8 @@ draft: true
   
   これ、意外に家事のプロとかでも知らないみたいなんですが、食器用洗剤が野菜や果物を洗うのに使えるというのは、今に始まったことじゃありません。もちろん製品によってのことなので、すべての食器用洗剤がOKということじゃないですけどね
   
-{{< blogcard url=https://hoshina.cazuki.com/dishwashing-detergent-bits-knowledge-d47a66266990 >}}</blockquote>
+  [blogcard url="https://hoshina.cazuki.com/dishwashing-detergent-bits-knowledge-d47a66266990"]
+</blockquote>
 
 &nbsp;
 
@@ -51,7 +54,8 @@ draft: true
   
   と語った。
   
-{{< blogcard url=https://j-town.net/tokyo/column/allprefcolumn/235174.html?p=all >}}  &nbsp;
+  [blogcard url="https://j-town.net/tokyo/column/allprefcolumn/235174.html?p=all"]
+  &nbsp;
 </blockquote>
 
 上記引用のように<strong>「洗って良い洗剤が存在する」</strong>ことを明記する記事が多数ヒットするではないですか。
@@ -103,7 +107,9 @@ draft: true
   </ul></li>
   </ul>
   
-{{< blogcard url=http://takanashi.hateblo.jp/entry/2013/03/10/174023 >}}{{< blogcard url=https://jsda.org/w/01_katud/a_seminar09.html >}}</blockquote>
+  [blogcard url="http://takanashi.hateblo.jp/entry/2013/03/10/174023"]
+  [blogcard url="https://jsda.org/w/01_katud/a_seminar09.html"]
+</blockquote>
 
 &nbsp;
 
@@ -115,8 +121,10 @@ draft: true
 「海外では洗うための洗剤がある＝海外は野菜を洗剤で洗うのは普通」というわけでは無いように思えますね。
 というより野菜を正しく洗う為に重要なのは<strong>「野菜よりまずお前の手やまな板を洗う方が重要だからね？」という意見の方が多々見受けられて面白かった。</strong>
 
-{{< blogcard url=https://translate.google.com/translate?hl=ja&sl=en&u=http://homeorchard.ucdavis.edu/8121.pdf&prev=search >}}
-{{< blogcard url=https://translate.google.com/translate?hl=ja&sl=en&u=https://www.huffpost.com/entry/wash-fruits-vegetables_l_5ce4566ae4b06f64624c1f91&prev=search >}}
+[blogcard url="https://translate.google.com/translate?hl=ja&sl=en&u=http://homeorchard.ucdavis.edu/8121.pdf&prev=search"]
+
+[blogcard url="https://translate.google.com/translate?hl=ja&sl=en&u=https://www.huffpost.com/entry/wash-fruits-vegetables_l_5ce4566ae4b06f64624c1f91&prev=search"]
+
 <h2>改めてよく調べることは重要だ</h2>
 
 野菜が洗剤で洗えることもそうなのだが、<strong>自分の持っている常識を改めて調べ直す重要性</strong>というのも知ることができた。

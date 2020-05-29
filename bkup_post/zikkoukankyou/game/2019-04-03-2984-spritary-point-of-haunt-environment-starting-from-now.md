@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 本日Ver.4.6.0へアップデートされますね。
@@ -53,7 +54,7 @@ draft: true
 上記がこれまでの効果でした。
 
 さて、本日のアプデで以下の効果が新たに追加されます。
-![test](/img/2019/04/canva-photo-editor-8.png)※タップまたはクリックで拡大表示されます。
+![test](https://res.cloudinary.com/ddghc4l09/2019/04/canva-photo-editor-8.png)※タップまたはクリックで拡大表示されます。
 引用：<a href="https://support.nintendo.co.jp/app/answers/detail/a_id/34680">https://support.nintendo.co.jp/app/answers/detail/a_id/34680</a></blockquote>
 &nbsp;
 

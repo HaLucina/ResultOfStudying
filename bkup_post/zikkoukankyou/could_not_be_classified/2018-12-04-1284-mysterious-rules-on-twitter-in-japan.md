@@ -6,9 +6,10 @@ categories:
  - Twitter
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 日本には、というより日本人には閉鎖的な独自ルールを作る文化や風習、そしてそれを強制する悪性が根付いています。

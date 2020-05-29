@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私は車が嫌いです。運転することも嫌いです。
@@ -147,7 +148,8 @@ Twitterでも動画流れてきたりしてますが、いやはや、こんな�
 
 テレビでも話題になりましたが、東名の煽り運転では<strong>懲役23年</strong>の判決が下されました。
 
-{{< tweet 1071961880325844992 >}}
+https://twitter.com/VelvetS9763313h/status/1071961880325844992
+
 2018年から煽り運転が厳罰化されたため、この裁判は非常に良い示しとなったでしょう。
 
 個人的には<strong>『懲役の年数が</strong><strong>軽すぎないか？』</strong>と思ってますが、10年以上もバカを閉じ込めてくれるようになっただけでも大きな一歩だと感じています。
@@ -192,14 +194,16 @@ https://hackheatharu.xyz/features-of-aggressive-personality/
 <h2>理由6. 高齢者は車に乗ってる世界が怖い</h2>
 以下は『<strong>警察庁交通局</strong>』がまとめた『<strong>平成29年における交通死亡事故等の特徴について</strong>』というPDFです。
 
-{{< blogcard url=https://www.npa.go.jp/toukei/koutuu48/H29siboubunnseki.pdf >}}
+[blogcard url="https://www.npa.go.jp/toukei/koutuu48/H29siboubunnseki.pdf"]
+
 &nbsp;
 
 <strong>『高齢者ドライバーは絶滅してくれ』</strong>という願いが私の中で強いです。
 
 だってニュースで『<strong>高齢者ドライバーが高速道路を逆走</strong>』<strong>って見出しが出ることに慣れてしまっている自分が恐ろしい</strong>んですもの。
 
-{{< blogcard url=https://dot.asahi.com/wa/2014121800045.html >}}
+[blogcard url="https://dot.asahi.com/wa/2014121800045.html"]
+
 &nbsp;
 
 これが普通になること自体が異常じゃないですか。
@@ -257,7 +261,8 @@ https://hackheatharu.xyz/features-of-aggressive-personality/
 
 &nbsp;
 
-{{< blogcard url=https://news.nicovideo.jp/watch/nw4156540?ref=video_watch_html5_marquee >}}&nbsp;
+[blogcard url="https://news.nicovideo.jp/watch/nw4156540?ref=video_watch_html5_marquee"]</blockquote>
+&nbsp;
 
 &nbsp;
 

@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 この間、以下のような『接客』に関する記事を見かけました。
@@ -41,7 +42,8 @@ https://blog.tinect.jp/?p=55586
 
 先日書いたブログ記事『<a href="https://hackheatharu.xyz/the-real-intention-of-a-convenience-store-clerk/"><strong>元コンビニ店員から聞いた客に対する本音</strong></a>』にて、私のフォロワーさんから以下のような感想を頂きました。
 
-{{< tweet 1091667224627040256 >}}
+https://twitter.com/Shiixx_nagi/status/1091667224627040256
+
 &nbsp;
 
 <strong>こういう客を私は『バカ』と呼んでいます。</strong>

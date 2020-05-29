@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 最近は『<a href="https://twitter.com/MartyBubbler" target="_blank" rel="noopener">Martyさん</a>』の影響を受けてサーモンランノーミス野良カンストを目指すようになってきました。
 
-{{< blogcard url=https://hackheatharu.xyz/salmonrun-advice-from-eu/ >}}
+[blogcard url="https://hackheatharu.xyz/salmonrun-advice-from-eu/"]
+
 &nbsp;
 
 そう思ってからかれこれ10回以上挑戦しているのですが、シャケマエ600付近でよく失敗しています。

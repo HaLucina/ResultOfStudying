@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 HaLucinaが普段閲覧しているブログや動画(主にYoutube)の中でオススメなものを3つ程度ピックアップし300文字くらいの感想を添えて紹介する。制作者様も3行くらいで気ままに紹介するだけのゆるい記事。

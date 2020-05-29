@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ネガティブでいることをやめようと努力しています。
@@ -34,7 +35,8 @@ Elzaさんのブログ記事『【スプラトゥーン2】味方批判につい
 
 それは「<strong>心が楽になる</strong>」だと思います。
 
-{{< blogcard url=https://elzalet666.hatenablog.com/entry/2018/11/01/085350 >}}&nbsp;
+[blogcard url="https://elzalet666.hatenablog.com/entry/2018/11/01/085350"]</blockquote>
+&nbsp;
 
 例えば誰かに叱られたとしましょう。
 
@@ -124,7 +126,8 @@ Twitterなり２ちゃんねるなりによく生息してるじゃないです�
 
 お互い、「それは一理あるけど、やっぱ自分が正しいわ、うん」と思っているから後腐れがないのかもしれませんが。
 
-{{< blogcard url=https://www.amamiyashion.com/entry/2016/07/22/193000 >}}&nbsp;
+[blogcard url="https://www.amamiyashion.com/entry/2016/07/22/193000"]</blockquote>
+&nbsp;
 
 &nbsp;
 

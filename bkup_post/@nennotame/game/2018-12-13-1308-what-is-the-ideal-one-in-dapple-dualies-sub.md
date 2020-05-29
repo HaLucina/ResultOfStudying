@@ -6,12 +6,14 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1069881360725114881 >}}
+https://twitter.com/SplatoonJP/status/1069881360725114881
+
 &nbsp;
 
 12月5日スプラトゥーン2最後の新武器追加は、残念ながらスパッタリーではありませんでした。

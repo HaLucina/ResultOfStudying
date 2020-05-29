@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラトゥーン２にある様々なステージについて、スパッタリー及びスパッタリー・ヒューの戦略を考える『スパッタリーの立ち回り』シリーズ。
@@ -31,7 +32,7 @@ draft: true
 
 &nbsp;
 <h2>ガチエリア</h2>
-![test](/img/2019/03/3c94e0d3aa78a9abccb305142668e240.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/3c94e0d3aa78a9abccb305142668e240.png)
 &nbsp;
 
 &nbsp;
@@ -90,7 +91,7 @@ draft: true
 <h2>ガチヤグラ</h2>
 &nbsp;
 
-![test](/img/2019/03/ba9077dcc0eb62d8ba1e087a50633e5a.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/ba9077dcc0eb62d8ba1e087a50633e5a.png)
 ※ビーコン位置はエリアと同じなので割愛
 
 &nbsp;
@@ -123,7 +124,7 @@ draft: true
 
 &nbsp;
 <h2>ガチホコ</h2>
-![test](/img/2019/03/68ae2037518bca706b8ac9dc47719c3f.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/68ae2037518bca706b8ac9dc47719c3f.png)
 ※ビーコン位置はエリアと同じなので割愛
 
 &nbsp;
@@ -167,7 +168,7 @@ draft: true
 
 &nbsp;
 <h2>ガチアサリ</h2>
-![test](/img/2019/03/a6ac570fdd1b9b95f74cce2948fc56ca.png"><img class="alignnone size-medium wp-image-2921" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/a6ac570fdd1b9b95f74cce2948fc56ca-300x169.png" alt="スパッタリーの立ち回り アジフライスタジアムのアサリ" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018102314494200-C616B031331154665D639EF16DA76BC0.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/03/a6ac570fdd1b9b95f74cce2948fc56ca.png"><img class="alignnone size-medium wp-image-2921" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/a6ac570fdd1b9b95f74cce2948fc56ca-300x169.png" alt="スパッタリーの立ち回り アジフライスタジアムのアサリ" width="300" height="169" /></a><a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/2018102314494200-C616B031331154665D639EF16DA76BC0.jpg)
 &nbsp;
 
 &nbsp;

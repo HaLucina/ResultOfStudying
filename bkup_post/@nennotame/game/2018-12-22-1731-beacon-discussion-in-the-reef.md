@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 皆さんこんにちは。『<strong>全日本スプラ２ジャンプビーコン研究会</strong>』会員のHaLucinaです。
@@ -41,7 +42,8 @@ https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83
 
 &nbsp;
 
-![test](/img/2018/12/0d76cf833d5683d751da39e51d949354-2-1.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/0d76cf833d5683d751da39e51d949354-2-1.jpg"><img class="alignnone size-medium wp-image-1735" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/0d76cf833d5683d751da39e51d949354-2-1-300x188.jpg" alt="Elzaさんブログ画像" width="300" height="188" /></a>
+
 （画像引用：<a href="https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B32%E3%80%91%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%90%E3%83%83%E3%83%86%E3%83%A9%E7%B7%A8/">【スプラトゥーン2】ジャンプビーコン(バッテラ編)</a>）
 
 &nbsp;
@@ -58,7 +60,8 @@ https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83
 
 というわけで何となくその意見を述べたところ『<strong>全日本スプラ２ジャンプビーコン研究会</strong><strong> 会長 らぐるんさん</strong>』から意見を頂きました。
 
-{{< tweet 1075986622783512576 >}}
+https://twitter.com/ragurun7/status/1075986622783512576
+
 ということがきっかけで、その位置のビーコンに関する議論をしたのでまとめます。
 
 &nbsp;
@@ -95,7 +98,8 @@ https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83
 
 [video width="1280" height="720" mp4="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018122117075601-C616B031331154665D639EF16DA76BC0.mp4"][/video]
 
-{{< tweet 1076118746765221888 >}}
+https://twitter.com/ragurun7/status/1076118746765221888
+
 &nbsp;
 
 使ってみて『<strong>撤退する時は悪くないなぁ</strong>』と思いました。
@@ -114,14 +118,16 @@ https://elzalet.xyz/%E3%80%90%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83
 
 &nbsp;
 
-{{< tweet 1043729182671364097 >}}
+高台にいる長射程ブキの強さは『<a href="https://twitter.com/_HaLucina/status/1043729182671364097"><strong>ハイドラントをオススメするペニーワイズ</strong></a>』もメリットとして挙げる点ですからね。
 
-<strong>ハイドラントをオススメするペニーワイズ</strong></a>』もメリットとして挙げる点ですからね。
 &nbsp;
 
-![test](/img/2018/12/canva-photo-editor-10.png)
-![test](/img/2018/12/canva-photo-editor-11.png)
-![test](/img/2018/12/canva-photo-editor-1-4.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-10.png"><img class="alignnone size-medium wp-image-1744" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-10-300x172.png" alt="ハイドラントをオススメするペニーワイズ" width="300" height="172" /></a>
+
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-11.png"><img class="alignnone size-medium wp-image-1745" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-11-300x174.png" alt="ハイドラントをオススメするペニーワイズ" width="300" height="174" /></a>
+
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-1-4.png"><img class="alignnone size-medium wp-image-1746" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/canva-photo-editor-1-4-300x167.png" alt="クーゲル使うわ" width="300" height="167" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -161,7 +167,8 @@ Elzaさんのブログの画像を見てわかる通り、劣勢時に使うビ�
 
 &nbsp;
 
-![test](/img/2018/12/2018122116543900-C616B031331154665D639EF16DA76BC0.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018122116543900-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1743" src="https://hackheatharu.xyz/wp-content/uploads/2018/12/2018122116543900-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="余裕で壊せるビーコンの位置" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -186,7 +193,8 @@ Elzaさんのブログの画像を見てわかる通り、劣勢時に使うビ�
 
 そのため<strong>活用できる機会が他の劣勢時使用ビーコンより低い</strong>と私は考えています。
 
-{{< tweet 1076380415147954176 >}}
+https://twitter.com/ragurun7/status/1076380415147954176
+
 &nbsp;
 
 活用できる機会といえば、先ほど紹介した動画を撮る際、私はかなり意識してあのビーコンを使っていたんです。
@@ -208,7 +216,8 @@ Elzaさんのブログの画像を見てわかる通り、劣勢時に使うビ�
 
 具体的には以下のらぐるんさんのツイート画像にある『<strong>３・４・５</strong>』と『<strong>１・２辺りの高台</strong>』あたりですね。
 
-{{< tweet 948853689183125504 >}}
+https://twitter.com/ragurun7/status/948853689183125504
+
 &nbsp;
 <h2>総評</h2>
 以上のことから個人的総評をさせて頂くと『<strong>独特な位置のビーコン</strong>』だと思いました。
@@ -223,7 +232,8 @@ Elzaさんのブログの画像を見てわかる通り、劣勢時に使うビ�
 
 また、この議論をしている際、らぐるん会長から以下の理論が語られました。
 
-{{< tweet 1076032570779852805 >}}
+https://twitter.com/ragurun7/status/1076032570779852805
+
 &nbsp;
 
 本当にその通りだと思います。
@@ -232,7 +242,8 @@ Elzaさんのブログの画像を見てわかる通り、劣勢時に使うビ�
 
 議題に挙がったビーコンも、序盤とか、とりあえず最初の１個という感覚で置く分には悪くないと思います。
 
-{{< tweet 1076380415147954176 >}}
+https://twitter.com/ragurun7/status/1076380415147954176
+
 &nbsp;
 
 結局のところ<strong>ビーコンで一番大事なのは中盤以降</strong>で、<strong>戦局を左右させるような位置に自分や味方を素早く復帰させる</strong>ために置くことが大事なので。
@@ -243,5 +254,6 @@ Elzaさんのブログの画像を見てわかる通り、劣勢時に使うビ�
 
 今回のような疑問などがあった場合、私もまた記事にしたいと思います。
 
-{{< blogcard url=https://elzalet.xyz/ >}}
+[blogcard url="https://elzalet.xyz/"]
+
 &nbsp;

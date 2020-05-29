@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 皆さんは自分の強みを理解していますか。
@@ -177,7 +178,8 @@ draft: true
 
 そして、私の診断結果が以下になります。
 
-![test](/img/2018/10/pmuhpr4A37GQ3yq1540948482_1540948550.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/10/pmuhpr4A37GQ3yq1540948482_1540948550.png"><img class="alignnone size-medium wp-image-736" src="https://hackheatharu.xyz/wp-content/uploads/2018/10/pmuhpr4A37GQ3yq1540948482_1540948550-300x148.png" alt="" width="300" height="148" /></a>
+
 &nbsp;
 
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 タイトルの通りです。
@@ -61,8 +62,10 @@ draft: true
 
 （以下、<strong>フレンドと0納品</strong>をやった時の画像）
 
-{{< tweet 1124133592815136768 >}}
-{{< tweet 1124134026732662784 >}}
+https://twitter.com/_HaLucina/status/1124133592815136768
+
+https://twitter.com/_HaLucina/status/1124134026732662784
+
 &nbsp;
 
 &nbsp;
@@ -73,7 +76,8 @@ draft: true
 
 それは『<strong>Martyさんが”野良で”0納品縛りを達成した動画</strong>』を見た時です。
 
-{{< tweet 1135500116125736960 >}}
+https://twitter.com/MartyBubbler/status/1135500116125736960
+
 &nbsp;
 
 &nbsp;
@@ -200,7 +204,8 @@ draft: true
 
 貴重なご意見ありがとうございます。
 
-{{< tweet 1156029095592882181 >}}
+https://twitter.com/yoshi44n/status/1156029095592882181
+
 &nbsp;
 
 &nbsp;

@@ -6,7 +6,7 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -15,7 +15,8 @@ draft: true
 個人的に素晴らしいニュースがあったので書きます。
 元の記事は以下のもです。
 
-{{< blogcard url=https://gigazine.net/news/20191106-twitter-fundamentally-change-retweets-mentions/ >}}
+[blogcard url="https://gigazine.net/news/20191106-twitter-fundamentally-change-retweets-mentions/"]
+
 <blockquote>
   Twitterのデザイン・リサーチ部門でヴァイスプレジデントを務めるダントリー・デイビス氏が、2020年に改善したいTwitterの機能のリストを公開しました。このリストによると、Twitterはリツイートや＠ツイート(メンション)の仕組みを根本的に見直す可能性があります。
   
@@ -55,7 +56,7 @@ draft: true
 しかし、世の中には知らない誰かから思いもよらないものをRTし、勝手に悪評を広めてくれようとする人もいるわけです(ましてや、わざわざ過去のツイートを遡って)。
 私の場合、その結果が以下の記事になるんですけどね。
 
-{{< blogcard url=https://hackheatharu.xyz/is-delivery-0-bound-with-a-salmon-run-bad >}}
+[blogcard url=""https://hackheatharu.xyz/is-delivery-0-bound-with-a-salmon-run-bad/]
 
 ぶっちゃけますが、この記事を書いていた当初<strong>『こんなゴミみたいな奴にも絡まれるようになったなら、いっそ鍵アカにしてブログ記事だけツイートするアカウントでも作ろうか』</strong>と真剣に考えていました。
 ですがブログの記事だけ呟くアカウントなんて正直いらないですし、私自身のツイートを見るついでにブログが読まれている効果も無視できなかったのです。

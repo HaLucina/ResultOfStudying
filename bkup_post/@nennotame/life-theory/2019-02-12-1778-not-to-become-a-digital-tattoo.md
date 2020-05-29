@@ -6,17 +6,20 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 くら寿司で切った魚をゴミ箱捨てるなど、最近のSNSでは炎上が物凄く多いです。
 
-{{< blogcard url=https://www.yomiuri.co.jp/national/20190206-OYT1T50274/ >}}
+[blogcard url="https://www.yomiuri.co.jp/national/20190206-OYT1T50274/"]
+
 &nbsp;
 
-{{< tweet 1093930533476683777 >}}
+https://twitter.com/tachibanasyuuhe/status/1093930533476683777
+
 最近ではInstagramでこういったことが多いらしいですが、Twitterでも数年前に同じことが多く投稿されていました。
 
 周期のような何かを思わさるような出来事ですが、なぜこのような行為をするのでしょうか。
@@ -44,7 +47,8 @@ draft: true
 そのためバカッターから転じて『<strong>バカスタグラム</strong>』という言葉も生まれた。
 <blockquote>問題の動画はTwitterなどで拡散したため「バカッター」とも呼ばれたが、実際は、Instagramの「ストーリーズ」に投稿された動画がTwitterなどに転載されて広がった。「バカッターではなく『バカスタグラム』だ」との指摘もあり、「バカスタグラム」という言葉が定着しつつある。
 
-{{< blogcard url=https://news.yahoo.co.jp/byline/okadayuka/20190212-00114476/ >}}&nbsp;
+[blogcard url="https://news.yahoo.co.jp/byline/okadayuka/20190212-00114476/"]</blockquote>
+&nbsp;
 
 &nbsp;
 

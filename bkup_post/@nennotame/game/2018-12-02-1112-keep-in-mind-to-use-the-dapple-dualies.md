@@ -6,18 +6,22 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ９割くらいふざけていましたが、フォロワーさんとこのようなやりとりをしていました。
 
 &nbsp;
 
-{{< tweet 1064105876141699073 >}}
-{{< tweet 1064108233730621440 >}}
-{{< tweet 1064109501224181761 >}}
+https://twitter.com/_HaLucina/status/1064105876141699073
+
+https://twitter.com/_HaLucina/status/1064108233730621440
+
+https://twitter.com/_HaLucina/status/1064109501224181761
+
 ガッツ石松現象はどうでも良いのですが『<strong>チャンピオンは ”いついかなる時でも誰の挑戦でも受けなければならない”</strong>』という言葉は素敵だと思います。
 
 チャンピオンになったからにはという ”心掛け” は、どの競技だろうと大切なことだと思います。
@@ -59,8 +63,10 @@ draft: true
 
 中でも御茶ノ道さん（<a href="https://twitter.com/ochanomichi" target="_blank" rel="noopener">@ochanomichi</a>）のような理想的戦い方をしている人は滅多に見ませんね。
 
-{{< tweet 1002212131259826177 >}}
-{{< tweet 1002213244612755457 >}}
+https://twitter.com/ochanomichi/status/1002212131259826177
+
+https://twitter.com/ochanomichi/status/1002213244612755457
+
 &nbsp;
 
 有利状況では仕掛け、不利状況、一人で勝てなさそうな相手には挑まない。
@@ -75,7 +81,8 @@ draft: true
 
 &nbsp;
 
-{{< tweet 1002215573420310528 >}}
+https://twitter.com/ochanomichi/status/1002215573420310528
+
 &nbsp;
 
 そんな御茶さんの ”スパッタリーの本質へ通ずる道” のような戦い方を『ロックマンエグゼ4・５』のゲームシステムの呼び名を借りて『<strong>スパッタリー茶道ソウル</strong>』と呼んでいます
@@ -210,7 +217,8 @@ draft: true
 
 &nbsp;
 
-{{< tweet 1068338874445754369 >}}
+https://twitter.com/SplatoonJP/status/1068338874445754369
+
 &nbsp;
 
 またもや長射程が強いステージが増えそうですね。

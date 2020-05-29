@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 何度か私の元に『配信はされないんですか？』というリプやDMが来たことがありました。 
@@ -21,7 +22,8 @@ draft: true
 11月24日東京・幕張メッセで<a href="http://www.capcom.co.jp/monsterhunter/festa19-20/"><strong>「モンスターハンターフェスタ’19-’20」</strong></a>というイベントがあったそうです。
 その中で視聴者参加型のステージイベントがあったようですが、結果から言うと残念なことになったそうです。
 
-{{< blogcard url=https://automaton-media.com/articles/newsjp/20191124-107020/ >}}
+[blogcard url="https://automaton-media.com/articles/newsjp/20191124-107020/"]
+
 &nbsp;
 
 上記引用記事の要点をまとめると
@@ -36,7 +38,8 @@ draft: true
 
 で、その狩猟笛を使っていた参加者というのが『悪意を持って「ゾンビ状態」を妨害していた』らしいんです。
 
-{{< tweet 1198641233129656321 >}}
+https://twitter.com/munotannkyu/status/1198641233129656321
+
 私がこのニュースを見た時の感想なんですけど、<strong>最も悪いのは悪意を持って狩猟笛を使った参加者であり1番に批判されるべき</strong>だと思います。
 ただし、<strong>運営も過去のイベントから全く反省を活かしていないな</strong>とも思いました。
 
@@ -68,7 +71,8 @@ draft: true
 たとえば<strong>『Youtube Live』</strong>なら生配信をする際、限定公開に設定して視聴者を限定する方法があります。
 "不特定多数の悪意"から身を守る対策となるでしょう。
 
-{{< blogcard url=https://aprico-media.com/posts/2210 >}}
+[blogcard url="https://aprico-media.com/posts/2210"]
+
 暇人に対する対策は、最初からこちらに関わらなくさせることが一番です。
 ブロックも出来るなら使うべきでしょう。
 スルーするにしたって限界がありますもの。人間だもの。
@@ -76,16 +80,19 @@ draft: true
 このようなリスクは配信だけではなくネットをしている時点で誰もが被害者となりえる問題です。
 私のようにブログをやっている人であれば、コメント欄を許可制にしていない限り同様の問題が起こりえるでしょう。
 
-{{< blogcard url=https://hackheatharu.xyz/do-not-need-a-comment-field/ >}}
+[blogcard url="https://hackheatharu.xyz/do-not-need-a-comment-field/"]
+
 SNSなら暇人からするとより手軽に荒らすことが出来る広場です。
 何も設定してなければ急に流れ弾が飛んできたりするので気をつけてくださいね(経験談)。
 個人で身を守る努力をしましょう。
 
-{{< blogcard url=https://help.twitter.com/ja/using-twitter/blocking-and-unblocking-accounts >}}
+[blogcard url="https://help.twitter.com/ja/using-twitter/blocking-and-unblocking-accounts"]
+
 鍵アカにしたりブロックしたりする自衛が大事ですが、Twitter運営もこの問題に取り組んでくれそうな気配を醸し出しています。
 今後に期待しましょう。
 
-{{< blogcard url=https://hackheatharu.xyz/maybe-twitter-retweets-will-improve-to-allow/ >}}
+[blogcard url="https://hackheatharu.xyz/maybe-twitter-retweets-will-improve-to-allow/"]
+
 というわけで、後半グダグダと話が別方向にいってしまいましたが、私が配信することは期待しないで頂きたく思うのです。
 完全に無いとは言いませんけれども、上述の件も含めて<strong>『配信することが乗り気ではない』</strong>という気持ちに傾いています。
 いや、そもそも私ごときが配信したところで人が来ないことは明白なんですけどね。

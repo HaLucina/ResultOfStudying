@@ -6,12 +6,14 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1066280158779236352 >}}
+https://twitter.com/SplatoonJP/status/1066280158779236352
+
 またまた急に来ましたね。甲子園の後に発表されるアプデの報告。
 
 Ver4.3.0は12月5日（木）だそうです。
@@ -43,7 +45,8 @@ Ver4.3.0は12月5日（木）だそうです。
 
 &nbsp;
 <h2><strong>『メイン性能アップ』の詳細</strong></h2>
-{{< tweet 1066280921211449344 >}}
+https://twitter.com/SplatoonJP/status/1066280921211449344
+
 &nbsp;
 
 <strong>『メイン性能アップ』</strong>はアップデート後、ショップなどでこのパワーが付いたギアを購入できるとのこと。
@@ -131,7 +134,8 @@ AIMのうまい人がつけたら確実に仕留められることでしょう�
 
 &nbsp;
 
-{{< tweet 1066284798690250753 >}}
+https://twitter.com/_HaLucina/status/1066284798690250753
+
 ツイッターではマニュと記載していますが、この時はブキカテゴリーでの性能アップだと勘違いしていました。
 
 しかし、ブキ毎に性能が設定されていることが改めてわかったので、ここではスパッタリーに限った考察をしていきます。

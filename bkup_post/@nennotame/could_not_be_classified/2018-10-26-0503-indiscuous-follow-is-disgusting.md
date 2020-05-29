@@ -6,17 +6,24 @@ categories:
  - Twitter
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1051776695248740352 >}}
-{{< tweet 1051777410738221056 >}}
-{{< tweet 1053214330907283457 >}}
-{{< tweet 1053215100377620480 >}}
-{{< tweet 1053215425360625664 >}}
-{{< tweet 1053216002383593472 >}}
+https://twitter.com/_HaLucina/status/1051776695248740352
+
+https://twitter.com/_HaLucina/status/1051777410738221056
+
+https://twitter.com/_HaLucina/status/1053214330907283457
+
+https://twitter.com/_HaLucina/status/1053215100377620480
+
+https://twitter.com/_HaLucina/status/1053215425360625664
+
+https://twitter.com/_HaLucina/status/1053216002383593472
+
 上記の私のツイート通り、最近は本当に無差別フォローしてくるアカウントが多いです。
 
 特に <strong>"自分のことをとにかく知ってもらって利益や仕事を貰いたいから手当たり次第に集客したい！" </strong>という魂胆が丸見えなんですよね。
@@ -39,7 +46,8 @@ draft: true
 
 以前記事で紹介したマキャベリストに含まれますね。
 
-{{< blogcard url=https://hackheatharu.xyz/deceiver/ >}}
+[blogcard url="https://hackheatharu.xyz/deceiver/"]
+
 &nbsp;
 
 &nbsp;
@@ -64,7 +72,8 @@ draft: true
 <h2>数字に捉われる人生を送りたくない</h2>
 以前の記事で私を応援してくれる人のことについて触れました。
 
-{{< blogcard url=https://hackheatharu.xyz/reason-is-not-necessary-for-affirmation/ >}}
+[blogcard url="https://hackheatharu.xyz/reason-is-not-necessary-for-affirmation/"]
+
 &nbsp;
 
 記事内では26人もの人から応援を貰ったと書きましたが、これが1人だったとしても同様の記事を書いていたと自信を持って答えます。
@@ -97,7 +106,8 @@ draft: true
 
 おかげさまで私のブログ内に200PVを超える記事が誕生しました。
 
-{{< blogcard url=https://hackheatharu.xyz/salmonrun-advice-from-eu/ >}}
+[blogcard url="https://hackheatharu.xyz/salmonrun-advice-from-eu/"]
+
 &nbsp;
 
 上述のような人間だったらこう考えていたんじゃないですかね。
@@ -126,7 +136,8 @@ draft: true
 
 これは良い記事だと思います
 
-{{< blogcard url=https://hoshitanikki.com/twitter-followers/ >}}
+[blogcard url="https://hoshitanikki.com/twitter-followers/"]
+
 &nbsp;
 
 &nbsp;
@@ -137,4 +148,4 @@ draft: true
 
 少なくとも、約半年前の自分も同じ気持ちを持っていたようです。
 
-{{< tweet 1001748754163154944 >}}
+https://twitter.com/_HaLucina/status/1001748754163154944

@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 先日の早朝、通勤していた私の目の前を自転車が通過してきました。
@@ -81,7 +82,8 @@ draft: true
 『<strong>リカンベントは速いんじゃなく、結局速く走れているだけ。</strong>』という言葉もあるようで、構造的に速い自転車というよりは『<strong>速く走る条件が有利な自転車』</strong>という認識が正しいそうです。
 
 ちなみに欧米では<strong>屋根付きにすることで本気の速度を引き出せるリカンベント</strong>を開発しているそうです。
-![test](/img/2019/03/canva-photo-editor-3.png)
+<blockquote><a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/canva-photo-editor-3.png"><img class="alignnone size-medium wp-image-2932" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/canva-photo-editor-3-300x147.png" alt="欧米のリカンベント" width="300" height="147" /></a>
+
 引用：<a href="https://internetcom.jp/202242/grant-sinclair-iris-etrike-for-super-fast-commute">https://internetcom.jp/202242/grant-sinclair-iris-etrike-for-super-fast-commute</a></blockquote>
 &nbsp;
 

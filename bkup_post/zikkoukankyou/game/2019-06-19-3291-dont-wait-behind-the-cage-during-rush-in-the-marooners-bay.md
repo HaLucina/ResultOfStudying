@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 {{< tweet 1140864311746674688 >}}
@@ -73,9 +74,7 @@ https://tkgstrator.work/?p=16467
 以下画像のようなところが安全地帯といえるでしょう。
 <blockquote><img src="https://pbs.twimg.com/wp-content/uploads/DX2j-1dUQAEZ4XB.jpg" />
 
-{{< tweet 972113841931796481 >}}
-
-&nbsp;
+{{< tweet 972113841931796481">https://twitter.com/ika_shicomcom/status/972113841931796481</a></blockquote> >}}&nbsp;
 
 &nbsp;
 

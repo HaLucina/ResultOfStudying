@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以前から私の元に『<strong>チャクチ狩りのコツを教えてください</strong>』と聞かれることがありました。
@@ -126,7 +127,8 @@ SPが溜まっている時、どちらも光って見えるはずです。
 
 &nbsp;
 
-![test](/img/2018/11/splatoon2-buki-sp-mantan-hyouji-5-300x226.jpg" alt="" width="300" height="226" /></a><a href="https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/)
+<a href="https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/"><img class="alignnone size-medium wp-image-1135" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/splatoon2-buki-sp-mantan-hyouji-5-300x226.jpg" alt="" width="300" height="226" /></a><a href="https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/"><img class="alignnone size-medium wp-image-1136" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/splatoon2-buki-sp-mantan-hyouji-1-300x248.jpg" alt="" width="300" height="248" /></a>
+
 <strong>※画像引用元：”ゲームメモ” 様 　 [URL ⇒ <a href="https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/">https://ga-m.com/n/splatoon2-buki-sp-mantan-hyouji/</a>]</strong>
 
 &nbsp;
@@ -145,7 +147,8 @@ SPが溜まっている時、どちらも光って見えるはずです。
 
 よく見ると不自然にAIMが上へ向いていることが伝わるでしょうか。
 
-{{< tweet 996719404112003072 >}}
+https://twitter.com/_HaLucina/status/996719404112003072
+
 &nbsp;
 
 &nbsp;
@@ -160,7 +163,8 @@ SPが溜まっている時、どちらも光って見えるはずです。
 
 インク残量のことも考えると、<strong>相手が無傷なら私が死んでいた場面</strong>です。
 
-{{< tweet 986951624739270657 >}}
+https://twitter.com/_HaLucina/status/986951624739270657
+
 &nbsp;
 
 &nbsp;
@@ -171,7 +175,8 @@ SPが溜まっている時、どちらも光って見えるはずです。
 
 以下の動画は、その条件が全て満たされていたから撃ち落とせたチャクチです。
 
-{{< tweet 977314280356720640 >}}
+https://twitter.com/_HaLucina/status/977314280356720640
+
 &nbsp;
 
 そうじゃない限りは撤退することも視野に入れておくべきです。

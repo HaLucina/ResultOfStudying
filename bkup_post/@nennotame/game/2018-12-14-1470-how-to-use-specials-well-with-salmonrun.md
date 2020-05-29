@@ -6,29 +6,34 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私のブログでたびたび紹介しているEUサーモンランの巨匠『<strong>Marty』</strong>さんが『<strong>サーモンランにおけるスペシャルの使い方</strong>』について語ってくれたようです。
 
-{{< tweet 1073168377496199168 >}}
+https://twitter.com/MartyBubbler/status/1073168377496199168
+
 &nbsp;
 
 &nbsp;
 
 そしてサーモンラン情報屋の一角を担う『<strong>水素</strong>』さんが、我々JPプレイヤーの為にそれを意訳してくれました。
 
-{{< tweet 1073178956646379520 >}}
+https://twitter.com/xa_hydrogen/status/1073178956646379520
+
 &nbsp;
 
 &nbsp;
 
 さっそく水素さんに御礼のリプをしましたが
 
-{{< tweet 1073202988972269568 >}}
-{{< tweet 1073217240684670977 >}}
+https://twitter.com/xa_hydrogen/status/1073202988972269568
+
+https://twitter.com/xa_hydrogen/status/1073217240684670977
+
 &nbsp;
 
 なぜかこうなってしまったため、水素先生へ論文を提出するために今回この記事を書くことにしました。
@@ -41,9 +46,12 @@ draft: true
 
 &nbsp;
 <h2>ハイプレとボムピは ”ハズレSPではない” ということを理解しよう</h2>
-{{< tweet 1073181231901073409 >}}
-{{< tweet 1073182563651338240 >}}
-{{< tweet 1073184799760633858 >}}
+https://twitter.com/xa_hydrogen/status/1073181231901073409
+
+https://twitter.com/xa_hydrogen/status/1073182563651338240
+
+https://twitter.com/xa_hydrogen/status/1073184799760633858
+
 &nbsp;
 
 &nbsp;
@@ -129,10 +137,14 @@ Martyさんが述べている『<strong>祝砲</strong>』とは、<strong>バ�
 
 &nbsp;
 <h2>スペシャルを使う状況を理解しよう</h2>
-{{< tweet 1073186438617780224 >}}
-{{< tweet 1073187571948081152 >}}
-{{< tweet 1073188884178100224 >}}
-{{< tweet 1073189929423798272 >}}
+https://twitter.com/xa_hydrogen/status/1073186438617780224
+
+https://twitter.com/xa_hydrogen/status/1073187571948081152
+
+https://twitter.com/xa_hydrogen/status/1073188884178100224
+
+https://twitter.com/xa_hydrogen/status/1073189929423798272
+
 &nbsp;
 
 &nbsp;
@@ -176,7 +188,8 @@ Martyさんが述べている『<strong>祝砲</strong>』とは、<strong>バ�
 
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/dont-use-sp-at-salmonrun/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/dont-use-sp-at-salmonrun/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -189,7 +202,8 @@ Martyさんが呟いたことと似たことを書いていますね。
 
 少なくとも味方のインク節約かつ生存に繋がるチャンスが生まれるので、積極的に使ってほしいんです。
 
-{{< blogcard url=https://hackheatharu.xyz/characteristics-of-jp-freelance/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/characteristics-of-jp-freelance/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -235,32 +249,46 @@ Martyさんが呟いたことと似たことを書いていますね。
 
 &nbsp;
 <h6>【例１】</h6>
-{{< tweet 1073190987340468230 >}}
-{{< tweet 1030741645711425536 >}}
+https://twitter.com/xa_hydrogen/status/1073190987340468230
+
+https://twitter.com/MartyBubbler/status/1030741645711425536
+
 &nbsp;
 <h6>【例２】</h6>
-{{< tweet 1073191385564536832 >}}
-{{< tweet 1028674877362847744 >}}
+https://twitter.com/xa_hydrogen/status/1073191385564536832
+
+https://twitter.com/MartyBubbler/status/1028674877362847744
+
 &nbsp;
 <h6>【例３】</h6>
-{{< tweet 1073191881134071810 >}}
-{{< tweet 983425925386682368 >}}
+https://twitter.com/xa_hydrogen/status/1073191881134071810
+
+https://twitter.com/_glowglowglow_/status/983425925386682368
+
 &nbsp;
 <h6>【例４】</h6>
-{{< tweet 1073192379136372736 >}}
-{{< tweet 1069653778444378112 >}}
+https://twitter.com/xa_hydrogen/status/1073192379136372736
+
+https://twitter.com/MartyBubbler/status/1069653778444378112
+
 &nbsp;
 <h6>【例５】</h6>
-{{< tweet 1073192845022883845 >}}
-{{< tweet 1073184017078456320 >}}
+https://twitter.com/xa_hydrogen/status/1073192845022883845
+
+https://twitter.com/MartyBubbler/status/1073184017078456320
+
 &nbsp;
 <h6>【例６】</h6>
-{{< tweet 1073194216270909444 >}}
-{{< tweet 1069655435551039489 >}}
+https://twitter.com/xa_hydrogen/status/1073194216270909444
+
+https://twitter.com/MartyBubbler/status/1069655435551039489
+
 &nbsp;
 <h6>【例７】</h6>
-{{< tweet 1073194913422991362 >}}
-{{< tweet 1056645034244620288 >}}
+https://twitter.com/xa_hydrogen/status/1073194913422991362
+
+https://twitter.com/MartyBubbler/status/1056645034244620288
+
 &nbsp;
 
 &nbsp;

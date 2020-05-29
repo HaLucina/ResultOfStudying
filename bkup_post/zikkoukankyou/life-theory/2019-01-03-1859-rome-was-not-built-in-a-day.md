@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 気が付いたら私のブログの<strong>投稿記事数が１００を超えていました。</strong>
@@ -44,8 +45,8 @@ https://hackheatharu.xyz/dapple-dualies-with-main-performance-up/
 
 &nbsp;
 
-![test](/img/2019/01/canva-photo-editor.png)
-![test](/img/2019/01/canva-photo-editor-1.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/canva-photo-editor.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/canva-photo-editor-1.png)
 &nbsp;
 
 上の画像は『<a href="https://search.google.com/search-console/about?hl=ja">Google Search Console</a>』 による ”合計クリック数” と ”検索パフォーマンス” の結果を表示した画像です。
@@ -60,7 +61,7 @@ https://hackheatharu.xyz/dapple-dualies-with-main-performance-up/
 
 &nbsp;
 
-![test](/img/2019/01/canva-photo-editor-3.png)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/canva-photo-editor-3.png)
 &nbsp;
 
 『<a href="https://marketingplatform.google.com/intl/ja_ALL/about/analytics/">Googleアナリティクス</a>』による ユーザー概要の分析を見ると、<strong>10月からのPV総数は8179</strong>でした。

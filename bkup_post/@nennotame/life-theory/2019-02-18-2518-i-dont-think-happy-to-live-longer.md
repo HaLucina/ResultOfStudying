@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 先日、フォロワーさんのペットが亡くなったというTLが流れてきました。
@@ -43,7 +44,8 @@ draft: true
 
 驚いたことに、金魚を飼う上で重要なのは『<strong>アンモニアを食べて分解してくれるバクテリアがいる環境』</strong>を用意することらしいです。
 
-{{< blogcard url=http://www.gex-fp.co.jp/kingyo/kaikata/kingyo_failure.html >}}
+[blogcard url="http://www.gex-fp.co.jp/kingyo/kaikata/kingyo_failure.html"]
+
 &nbsp;
 
 &nbsp;
@@ -107,7 +109,8 @@ draft: true
 <p class="tyrnEditor">私たちは「最期に話ができてよかった」なんて、センチメンタルな気持ちで終わることはできませんでした。祖父の延命措置をお願いしてしまったのです。間質性肺炎に、完治へ向かう有効な治療法はありません。</p>
 <p class="tyrnEditor">しかし、その進行を遅らせる薬はあります。残酷な言い方をすれば、私たちは祖父が苦しむ期間を長くするだけの薬を投与したのです。</p>
 <p class="tyrnEditor">次に祖父に会ったとき、数日前の冷静な判断を下した祖父はもういませんでした。間質性肺炎は簡単に言えば「肺ごと水に溺れる」ような苦しみを味わうのだそうです。息を吸っても、酸素を取り込む機能がダメになっているから、楽になれません。激しく胸が上下していました。眼球がぐるぐるとメリーゴーラウンドのように回り続ける祖父を見るだけで、涙がボロボロ出ました。あれだけ望んだ安らかな死を、私たちは与えられなかった。</p>
-{{< blogcard url=https://kaigo.homes.co.jp/tayorini/column/toianna/ >}}&nbsp;
+[blogcard url="https://kaigo.homes.co.jp/tayorini/column/toianna/"]</blockquote>
+&nbsp;
 
 &nbsp;
 

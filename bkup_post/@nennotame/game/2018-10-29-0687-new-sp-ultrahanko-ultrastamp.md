@@ -6,16 +6,18 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 10月29日に<a href="https://twitter.com/SplatoonJP"><strong><span class="FullNameGroup">Splatoon（スプラトゥーン）‏ツイッター公式アカウント</span></strong></a><small class="time"></small>で新スペシャル『<strong>ウルトラハンコ</strong>』についての情報が解禁されました。
 
 &nbsp;
 
-![test](/img/2018/10/f81fd2e4c52864042852c112ce927ae2.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/10/f81fd2e4c52864042852c112ce927ae2.jpg"><img class="alignnone size-full wp-image-688" src="https://hackheatharu.xyz/wp-content/uploads/2018/10/f81fd2e4c52864042852c112ce927ae2.jpg" alt="" width="273" height="184" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -30,7 +32,8 @@ draft: true
 
 &nbsp;
 
-![test](/img/2018/10/DqqfS4QV4AEtDHy.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/10/DqqfS4QV4AEtDHy.jpg"><img class="alignnone size-medium wp-image-690" src="https://hackheatharu.xyz/wp-content/uploads/2018/10/DqqfS4QV4AEtDHy-300x169.jpg" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 11月7日(水)以降に配信予定の更新データVer.4.2にて使えるようになるとのことです。
@@ -43,9 +46,12 @@ draft: true
 <h2>ウルトラハンコの特徴と感想</h2>
 以下は冒頭で紹介したスプラ公式アカウントから公開された情報です。
 
-{{< tweet 1056832680044638209 >}}
-{{< tweet 1056833113467236353 >}}
-{{< tweet 1056833423224954880 >}}
+https://twitter.com/SplatoonJP/status/1056832680044638209
+
+https://twitter.com/SplatoonJP/status/1056833113467236353
+
+https://twitter.com/SplatoonJP/status/1056833423224954880
+
 ツイッターの紹介文からわかることをまとめてみると
 <ul>
  	<li>正面からの弾をある程度防ぎながら進める。</li>
@@ -108,15 +114,18 @@ draft: true
 
 &nbsp;
 
-![test](/img/2018/10/2018102919133600-C616B031331154665D639EF16DA76BC0.jpg)図１.スパッタリーの最大射程距離
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/10/2018102919133600-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-693" src="https://hackheatharu.xyz/wp-content/uploads/2018/10/2018102919133600-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a>
+図１.スパッタリーの最大射程距離
 
 &nbsp;
 
-![test](/img/2018/10/2018102919144000-C616B031331154665D639EF16DA76BC0.jpg)図２.ボールドの最大射程距離
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/10/2018102919144000-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-694" src="https://hackheatharu.xyz/wp-content/uploads/2018/10/2018102919144000-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a>
+図２.ボールドの最大射程距離
 
 &nbsp;
 
-![test](/img/2018/10/2018102919370900-C616B031331154665D639EF16DA76BC0.jpg)図３.スプラローラー（横振り時）の即死距離
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/10/2018102919370900-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-695" src="https://hackheatharu.xyz/wp-content/uploads/2018/10/2018102919370900-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="" width="300" height="169" /></a>
+図３.スプラローラー（横振り時）の即死距離
 
 &nbsp;
 

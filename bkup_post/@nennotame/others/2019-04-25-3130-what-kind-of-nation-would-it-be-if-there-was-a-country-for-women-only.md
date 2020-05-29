@@ -6,7 +6,7 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -14,7 +14,8 @@ draft: true
 
 フォロワーさんが非常に面白いことを呟いていた。
 
-{{< tweet 1121006886122246145 >}}
+https://twitter.com/mizu2782/status/1121006886122246145
+
 &nbsp;
 
 &nbsp;

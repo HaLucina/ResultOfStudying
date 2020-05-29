@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 Twitterにて『フォローを返す条件は何ですか？』という質問を頂きました。
@@ -19,10 +20,12 @@ Twitterにて『フォローを返す条件は何ですか？』という質問�
 
 &nbsp;
 <h2><strong>他人を攻撃せずにはいられない人とは</strong></h2>
-{{< tweet 1060044349386313728 >}}
+https://twitter.com/_HaLucina/status/1060044349386313728
+
 &nbsp;
 
-{{< tweet 1060047942839463936 >}}
+https://twitter.com/_HaLucina/status/1060047942839463936
+
 &nbsp;
 
 上記ツイートの内容通り、私は攻撃的な人を避けています。
@@ -102,7 +105,8 @@ Twitterにて『フォローを返す条件は何ですか？』という質問�
 &nbsp;
 <blockquote>オハイオ州立大学のスコーロンスキー博士が行った実験によると、被験者たちに「人の悪口を言っている男性の映像」を見せて、『どう思いましたか？』と尋ねたそうです。すると、多くの反応は、悪口を言われている人に対しては、判断を保留したのに、悪口を言っている男性に対しては、嫌な印象を抱いたのだそうです。つまり、<span class="ymarker">悪口を言うと自分の評価だけが下がる</span>ということです。
 
-{{< blogcard url=https://nagomiworks.com/blog/howtowriteblog/negativeword >}}&nbsp;
+[blogcard url="https://nagomiworks.com/blog/howtowriteblog/negativeword"]</blockquote>
+&nbsp;
 
 &nbsp;
 

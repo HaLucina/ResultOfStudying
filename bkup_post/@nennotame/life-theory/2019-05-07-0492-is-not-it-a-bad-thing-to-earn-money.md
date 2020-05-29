@@ -6,7 +6,7 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
 
@@ -69,7 +69,8 @@ draft: true
 <h2>お金＝資産を増やす</h2>
 Yahoo知恵袋に素晴らしい回答が
 
-{{< blogcard url=https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1165573141 >}}
+[blogcard url="https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1165573141"]
+
 &nbsp;
 
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 なぜか私のことを『<strong>強いスパッタリー使い</strong>』と認識している方がいらっしゃいますが、全くそんなことはありません。
@@ -17,7 +18,8 @@ draft: true
 
 私の最高はアサリの『<strong>2537.6</strong>』です。
 
-![test](/img/2019/03/DpuXtn_VsAEEA-5.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/DpuXtn_VsAEEA-5.jpg"><img class="alignnone size-medium wp-image-2896" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/DpuXtn_VsAEEA-5-169x300.jpg" alt="HaLucina XP最高値" width="169" height="300" /></a>
+
 &nbsp;
 
 ホコとヤグラはスパッタリー・ヒューで2450くらい。
@@ -52,7 +54,8 @@ draft: true
 
 以下の画像はコンブトラック中央で2周ほどカメラを回転しながら塗った画像です。
 
-![test](/img/2019/03/bbc45da6bc5ae6c8ed901dbce82b91d1.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/bbc45da6bc5ae6c8ed901dbce82b91d1.png"><img class="alignnone size-medium wp-image-2897" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/bbc45da6bc5ae6c8ed901dbce82b91d1-300x169.png" alt="スパッタリーの射程範囲をスシと比較" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;

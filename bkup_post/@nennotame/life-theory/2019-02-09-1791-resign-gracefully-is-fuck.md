@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 <strong>退職代行サービス</strong>というのをご存知でしょうか。
@@ -19,7 +20,8 @@ draft: true
 
 正社員じゃなくアルバイトでも（アルバイトは3万円）利用できるそうです。
 
-{{< blogcard url=https://www.taishokudaikou.com/ >}}
+[blogcard url="https://www.taishokudaikou.com/"]
+
 &nbsp;
 
 私は肯定的に思うのですが、この手のサービスに対する反対意見に『<strong>円満退職できない</strong>』というものをよく見ます。

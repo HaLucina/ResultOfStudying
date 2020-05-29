@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 2018年10月14日にスプラ甲子園沖縄地区が開催されました。
@@ -17,7 +18,8 @@ draft: true
 
 &nbsp;
 
-{{< tweet 1051640364879106049 >}}
+https://twitter.com/Le_Mat00/status/1051640364879106049
+
 私は仕事の都合で2回戦からしか見れませんでしたが、知り合いが何かしらの大会に出場するというのはテンションがあがりますね。
 
 リアルタイムで見ていた時はとにかく応援しか意識していなかったので、この記事ではアーカイブを見て改めて試合の感想を書いていこうかなと思います。
@@ -221,7 +223,8 @@ MAP上の方でぼんこつさんとバケデコさんが応戦していまし�
 
 あの大舞台で試合をこなしたこと自体、胸を張れることだと私は思います。
 
-{{< tweet 1051350747676258304 >}}
+https://twitter.com/_HaLucina/status/1051350747676258304
+
 『Make a splash of きの(こ)』 感動をありがとう！
 
 お疲れ様でした！
@@ -280,4 +283,4 @@ MAP上の方でぼんこつさんとバケデコさんが応戦していまし�
 
 &nbsp;
 
-{{< tweet 948853689183125504 >}}
+https://twitter.com/ragurun7/status/948853689183125504

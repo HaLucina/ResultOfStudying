@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ブログを書き始めてそろそろ1年(正確に言うとブログを開設したのは2年前ですが)。
@@ -30,7 +31,8 @@ draft: true
 アフィリエイトについては記事を書いているので、そちらを参照ください。
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/how-affiliate-works/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/how-affiliate-works/"]
+&nbsp;
 
 あまり良い言い方じゃありませんが『寝ていてもお金が稼げるようになった』わけです。
 一見、楽そうに見えますがココまで来るのに1年ほど掛かりました。
@@ -46,7 +48,8 @@ draft: true
 10年くらいしないと出来ないと思ってたからオラびっくりしたぞ。
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/dapple-dualies-with-main-performance-up/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/dapple-dualies-with-main-performance-up/"]
+&nbsp;
 
 Twitterでも呟きましたが、コレは<strong>読んでくれる人たちがいたから</strong>出来たことです。
 決して自分の手腕で上り詰めたというクソみたいな天狗の心情には1mmもなっていません。

@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 何を隠そう私は北海道出身です。
@@ -118,7 +119,8 @@ wp-content/uploadsに騙されないでください。
 
 これの内容を確認したところ『<strong>ジンギスカン鍋</strong>』が付いてくるそうです（簡易と書かれているのでおそらくクッソ安物か使い切りで捨てられるタイプ）。
 
-![test](/img/2018/11/DmacUHPVAAEP0Gh.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2018/11/DmacUHPVAAEP0Gh.jpg"><img class="alignnone size-medium wp-image-1081" src="https://hackheatharu.xyz/wp-content/uploads/2018/11/DmacUHPVAAEP0Gh-300x300.jpg" alt="" width="300" height="300" /></a>
+
 &nbsp;
 
 ジンギスカン食べる時、家庭によくある<strong>平たいホットプレートの使用はオススメしません。</strong>
@@ -276,7 +278,8 @@ https://www.youtube.com/watch?v=nEDJLzewomE
 
 なお、同志のフォロワーさんによると……。
 
-{{< tweet 1063644800644112386 >}}
+https://twitter.com/degu_eri/status/1063644800644112386
+
 &nbsp;
 
 &nbsp;

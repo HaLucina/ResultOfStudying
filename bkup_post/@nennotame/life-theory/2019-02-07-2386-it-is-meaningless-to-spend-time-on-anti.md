@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 実は昨日、以下の記事の件でフォロワーさんからあるDMを頂きました。
@@ -142,7 +143,8 @@ https://hackheatharu.xyz/do-not-need-a-comment-field/
 
 2人は「アンチコメントに精神崩壊寸前。受け入れるべきかスルーすべきか」を中居正広らに相談する。
 
-{{< blogcard url=https://news.nicovideo.jp/watch/nw4782658 >}}&nbsp;
+[blogcard url="https://news.nicovideo.jp/watch/nw4782658"]</blockquote>
+&nbsp;
 
 &nbsp;
 
@@ -157,7 +159,8 @@ https://hackheatharu.xyz/do-not-need-a-comment-field/
 
 こうした状況にたむらは、「ネットの皆様へ　もう、やめましょう。僕に対するお言葉はこの後もありがたく頂戴しますが、向こうへのお言葉はもうやめましょう。皆さんの大切な時間を費やしてまでやる価値のないことです。ご理解よろしくお願いします　たむらけんじ」と大人の対応を示した。
 
-{{< blogcard url=https://news.nicovideo.jp/watch/nw4786302?ref=video_watch_html5_marquee >}}&nbsp;
+[blogcard url="https://news.nicovideo.jp/watch/nw4786302?ref=video_watch_html5_marquee"]</blockquote>
+&nbsp;
 
 &nbsp;
 

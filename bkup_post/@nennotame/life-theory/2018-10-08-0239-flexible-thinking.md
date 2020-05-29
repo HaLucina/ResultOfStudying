@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 近年では個性を大事にしようという風潮が叫ばれていますね。
@@ -73,7 +74,8 @@ draft: true
 
 幼いころからディベートやグループディスカッションをする機会に恵まれている他、そもそも普段の会話が議論になることもしばしばだそうです。
 
-{{< blogcard url=http://www.franceplusplus.com/2014/01/debate/ >}}
+[blogcard url="http://www.franceplusplus.com/2014/01/debate/"]
+
 &nbsp;
 
 これは私が小学生の頃の出来事ですが、何かの授業でディベートを行ったことがありました。
@@ -114,7 +116,8 @@ draft: true
 
 以下のリンクでは、議論のうまい人とはどういったことかを紹介されています。
 
-{{< blogcard url=https://blog.tinect.jp/?p=45811 >}}
+[blogcard url="https://blog.tinect.jp/?p=45811"]
+
 &nbsp;
 
 <strong>『勝ち負け』や『論破すること』</strong>は議論の本当の目的ではありません。
@@ -127,15 +130,24 @@ draft: true
 
 良い例かどうかは分かりませんが、私があるゲームのシステムについて言及していた時に以下のような議論へ発展したことがあります。
 
-{{< tweet 1035960168519856129 >}}
-{{< tweet 1035965280453722112 >}}
-{{< tweet 1035970001314832384 >}}
-{{< tweet 1035971912818511872 >}}
-{{< tweet 1035973479483367424 >}}
-{{< tweet 1035977839453958144 >}}
-{{< tweet 1035981717901697025 >}}
-{{< tweet 1035986872835534848 >}}
-{{< tweet 1036169482157187072 >}}
+https://twitter.com/_HaLucina/status/1035960168519856129
+
+https://twitter.com/ragurun7/status/1035965280453722112
+
+https://twitter.com/_HaLucina/status/1035970001314832384
+
+https://twitter.com/ragurun7/status/1035971912818511872
+
+https://twitter.com/ragurun7/status/1035973479483367424
+
+https://twitter.com/_HaLucina/status/1035977839453958144
+
+https://twitter.com/ragurun7/status/1035981717901697025
+
+https://twitter.com/_HaLucina/status/1035986872835534848
+
+https://twitter.com/ragurun7/status/1036169482157187072
+
 ゲームのことなので内容に関しては割愛しますが、私が相手の方としている議論は
 
 <strong>『私はこう考えます』⇒『いえ、こういう理由があるんですよ』⇒『なるほど、しかしこういうことも考えられますよね』……</strong>
@@ -164,7 +176,8 @@ draft: true
 
 ぜひご覧ください。
 
-{{< blogcard url=https://mizu414774290.wordpress.com/ >}}
+[blogcard url="https://mizu414774290.wordpress.com/"]
+
 &nbsp;
 
 &nbsp;

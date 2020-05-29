@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://hackheatharu.xyz/what-is-the-ideal-one-in-dapple-dualies-sub/
@@ -77,10 +78,14 @@ https://hackheatharu.xyz/what-is-the-ideal-one-in-dapple-dualies-sub/
 
 数か月前にクアッドホッパーのチャクチをうまく使うにはどうしたらよいか、自分で実験したことがあります。
 
-{{< tweet 1021452917184724992 >}}
-{{< tweet 1021454129233682432 >}}
-{{< tweet 1021455583277223936 >}}
-{{< tweet 1021457125657067520 >}}
+https://twitter.com/_HaLucina/status/1021452917184724992
+
+https://twitter.com/_HaLucina/status/1021454129233682432
+
+https://twitter.com/_HaLucina/status/1021455583277223936
+
+https://twitter.com/_HaLucina/status/1021457125657067520
+
 &nbsp;
 
 興味ある人は読んでみてください。

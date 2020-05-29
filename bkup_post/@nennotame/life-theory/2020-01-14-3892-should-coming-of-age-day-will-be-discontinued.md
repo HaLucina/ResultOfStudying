@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 2020/1/13 令和になって初の成人式が行われましたね。
@@ -88,7 +89,8 @@ draft: true
 
 2019年1月7日、日本財団の<strong>「第7回-成人式- 18歳意識調査」</strong>に掲載されているデータの中で<strong>「成人式で騒いでみたいか」という質問に対して9割弱が "騒ぎたくない" と回答</strong>しています
 
-{{< blogcard url=https://www.nippon-foundation.or.jp/app/uploads/2019/01/wha_pro_eig_24.pdf >}}
+[blogcard url="https://www.nippon-foundation.or.jp/app/uploads/2019/01/wha_pro_eig_24.pdf"]
+
 &nbsp;
 
 このデータを元に意見を述べるならば、9割程度は普通で良識のある成人となっていることでしょう。

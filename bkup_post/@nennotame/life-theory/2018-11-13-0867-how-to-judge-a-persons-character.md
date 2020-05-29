@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 少し昔話になりますが、私が前職で自社の営業と面談する機会があった時に、以下のように言われたことがありました。
@@ -81,7 +82,8 @@ draft: true
 言葉によって騙されやすいですが、別に高齢でも新婚になれますしカップルにもなれますよね。
 
 &nbsp;
-{{< blogcard url=https://www.huffingtonpost.jp/2015/06/14/oldest-british-couple-wedding_n_7578676.html >}}&nbsp;
+<blockquote>[blogcard url="https://www.huffingtonpost.jp/2015/06/14/oldest-british-couple-wedding_n_7578676.html"]</blockquote>
+&nbsp;
 
 &nbsp;
 

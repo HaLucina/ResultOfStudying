@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 名前の後ろに<strong>『〇〇キッズ』</strong>と付けたプレイヤーを見かけますよね。
@@ -110,7 +111,8 @@ draft: true
 復讐心かつ正義感溢れるユーザで拡散された場合、こういったものは簡単に消すことができません。
 いわゆる<strong>『デジタルタトゥー』</strong>というものです。
 
-{{< blogcard url=https://hackheatharu.xyz/not-to-become-a-digital-tattoo/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/not-to-become-a-digital-tattoo/"]
+&nbsp;
 
 ましてや炎上がきっかけなら悪名で広がっちゃいますし、プレイヤー名で検索したら連携先も簡単にヒットしちゃいますよね。
 もしキッズがその立場だったのであれば、プレイヤー名の後ろにある<strong>"憧れの人の名前"</strong>も同時に晒されてしまうことでしょう。
@@ -189,7 +191,8 @@ MTタグのような事例を知ってからは、交流が終わるとすぐタ
   
   子供に「インターネット上での立ち回り方」を少しずつ強く、浸透させて欲しいね。一方で僕も偏見を少しずつ弱くして色々な物に触れていきたいと思う。自分にとっても刺激になるし、それぞれのマナーを知る事も出来るだろうから。
   
-{{< blogcard url=https://ameblo.jp/smakirdora/entry-11785587284.html >}}</blockquote>
+  [blogcard url="https://ameblo.jp/smakirdora/entry-11785587284.html"]
+</blockquote>
 
 &nbsp;
 
@@ -201,4 +204,4 @@ MTタグのような事例を知ってからは、交流が終わるとすぐタ
 以下の記事でも書きましたが、とりあえずこの言葉を原則にネットゲームやツイッターしてみてほしいと願っています。
 
 &nbsp;
-{{< blogcard url=https://hackheatharu.xyz/mysterious-rules-on-twitter-in-japan/ >}}
+[blogcard url="https://hackheatharu.xyz/mysterious-rules-on-twitter-in-japan/"]

@@ -6,9 +6,10 @@ categories:
  - PC関連
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以下は自分でLinux(Lubuntu)をデュアルブートするまでにしてきたことの記録である。
@@ -50,67 +51,85 @@ Lubuntuにカーソルを合わせてEnterを押せばOK。
 
 <h5>ディレクトリの日本語表記を英語に変更した。</h5>
 
-{{< blogcard url=http://puff000.web.fc2.com/pc/pc5/20140913-05/index.html >}}
+<p>[blogcard url="http://puff000.web.fc2.com/pc/pc5/20140913-05/index.html"]
+
 <h5>GIFに関して</h5>
 
-{{< blogcard url=https://iwb.jp/gif-animation-play-javascript/ >}}
+[blogcard url="https://iwb.jp/gif-animation-play-javascript/"]
+
 <h5>CapsLockをCtrlに変えたので、変換メソッドの切り替え(Shift+CapsLock)やESCの代わり(CapsLock+角括弧)を使うようにした。</h5>
 
 ちなみに.Xmodmapの内容を全部消して再起動すれば、これを初期化できる。
-{{< blogcard url=https://lambdalisue.hatenablog.com/entry/2013/09/27/212118 >}}
+  [blogcard url="https://lambdalisue.hatenablog.com/entry/2013/09/27/212118"]
+
 <h5>タッチパッドに手のひらが触れてカーソルが動くのを防止した。</h5>
 
-{{< blogcard url=https://qiita.com/uchan_nos/items/ccc4ef7e319cb6200cc9 >}}
+[blogcard url="https://qiita.com/uchan_nos/items/ccc4ef7e319cb6200cc9"]
+
 <h5>[Eye of GNOME]をインストールして画像ビューはターミナルで[eog]と打てば表示されるようにした。</h5>
 
-{{< blogcard url=https://help.gnome.org/users/eog/stable/index.html.ja#advanced >}}
+[blogcard url="https://help.gnome.org/users/eog/stable/index.html.ja#advanced"]
+
 <h5>コンソールの文字化け対策</h5>
 
-{{< blogcard url=https://knowledge4linux.blogspot.com/2014/05/linux-tips.html >}}
+[blogcard url="https://knowledge4linux.blogspot.com/2014/05/linux-tips.html"]
+
 <h2>3.vim環境設定(.vimrcの設定)</h2>
 
 <h3>vim全般に関わる設定</h3>
 
 <h5>URLが書かれた文字列上で[gx]と入力するとブラウザで表示されるようにした。</h5>
 
-{{< blogcard url=https://easyramble.com/open-url-with-browser-from-vim.html >}}
+[blogcard url="https://easyramble.com/open-url-with-browser-from-vim.html"]
+
 <h5>ディレクトリツリーを表示できるプラグイン[NERDTree]を導入した。</h5>
 
-{{< blogcard url=https://qiita.com/zwirky/items/0209579a635b4f9c95ee >}}
+[blogcard url="https://qiita.com/zwirky/items/0209579a635b4f9c95ee"]
+
 <h5>全角スペースのハイライト設定</h5>
 
-{{< blogcard url=https://oki2a24.com/2019/02/22/attention-when-visualizing-double-byte-space-with-vim-and-error-when-failing/ >}}
+[blogcard url="https://oki2a24.com/2019/02/22/attention-when-visualizing-double-byte-space-with-vim-and-error-when-failing/"]
+
 <h5>文字化け対策</h5>
 
 全角文字が重ならないようにする設定
-{{< blogcard url=https://www.softel.co.jp/blogs/tech/archives/5890 >}}
+  [blogcard url="https://www.softel.co.jp/blogs/tech/archives/5890"]
+
 <h5>auto fcitx(挿入モードからコマンドモードになった時、自動的に半角英数にする)</h5>
 
-{{< blogcard url=http://www.nemotos.net/?p=2019 >}}
+[blogcard url="http://www.nemotos.net/?p=2019"]
+
 <h3>markdownの為に設定したこと</h3>
 
 <h5>NeoBundle設定</h5>
 
-{{< blogcard url=https://www.mk-mode.com/blog/2013/08/25/vim-install-neobundle/# >}}
+[blogcard url="https://www.mk-mode.com/blog/2013/08/25/vim-install-neobundle/#"]
+
 <h5>.vimrcとNeoBundleでMarkdownの環境を構築した。</h5>
 
-{{< blogcard url=https://www.mk-mode.com/blog/2013/08/25/vim-install-neobundle/# >}}
+[blogcard url="https://www.mk-mode.com/blog/2013/08/25/vim-install-neobundle/#"]
+
 <h5>mdファイルをHTMLに変換するためにPandocを導入した。</h5>
 
-{{< blogcard url=https://qiita.com/sky_y/items/3c5c46ebd319490907e8 >}}
+[blogcard url="https://qiita.com/sky_y/items/3c5c46ebd319490907e8"]
+
 <h5>pandocでMarkdownをHTMLに一発変換したりCSSを適応して変換するコマンド</h5>
 
-{{< blogcard url=https://kawahara-zakki.com/vim-markdown/ >}}{{< blogcard url=https://qiita.com/fk_2000/items/d9ba2984349728bb5609 >}}
+[blogcard url="https://kawahara-zakki.com/vim-markdown/"]
+  [blogcard url="https://qiita.com/fk_2000/items/d9ba2984349728bb5609"]
+
 <h5>vim-quickrunがpandocに文章を渡すための設定</h5>
 
 [blogcard url="https://kawahara-zakki.com/vim-markdown/]
 
 <h5>vim(markdown)からWordPressの記事を投稿できるようにした</h5>
 
-{{< blogcard url=https://hackheatharu.xyz/create-wordpress-blog-posts-from-vim-with-markdown-notation/ >}}
+[blogcard url="https://hackheatharu.xyz/create-wordpress-blog-posts-from-vim-with-markdown-notation/"]
+
 <h5>markdownで作成したWordPress記事のリンクを別タブで開けるようにする</h5>
 
-{{< blogcard url=https://blog.takoyama.net/technique/md-link-tab/ >}}
+[blogcard url="https://blog.takoyama.net/technique/md-link-tab/"]
+
 <h2>[.vimrc]ソース</h2>
 
 <pre><code class="vim">set number

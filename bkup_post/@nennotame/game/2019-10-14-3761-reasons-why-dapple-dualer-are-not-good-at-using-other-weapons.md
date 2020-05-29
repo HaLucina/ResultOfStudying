@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 自慢じゃありませんが、私はスパッタリー以外のブキを満足に使うことが出来ません。
@@ -57,7 +58,8 @@ draft: true
 現在はシューターの一斉強化により決してそうと言えなくなりましたけど……。
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/want-to-told-that-the-splattershot-got-strong-in-splatoon2/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/want-to-told-that-the-splattershot-got-strong-in-splatoon2/"]
+&nbsp;
 
 ただし、便利ではあっても<strong>決して万能ではございません。</strong>
 スライド後は硬直するので(デュアルは例外だが)こちらがヘマしたらあっさり返り討ちにされます。
@@ -152,4 +154,4 @@ AIMをずらせるとはいってもスライド中は無敵ありません。
 (ここでは擬似確の理不尽は置いておいて)大抵のブキは使い手によって強くもなるし弱くもなります。
 結局は<strong>『ブキを使っているのか、使われているのか』</strong>が原点なのかもしれませんね。
 
-{{< blogcard url=https://hackheatharu.xyz/bad-locust/ >}}
+[blogcard url="https://hackheatharu.xyz/bad-locust/"]

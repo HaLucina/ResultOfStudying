@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 皆さん、明けましておめでとうございます。
@@ -40,7 +41,8 @@ draft: true
 
 &nbsp;
 <h2>スパッタリー・ヒューの汎用ギア構成</h2>
-![test](/img/2019/01/2019010110372000-C616B031331154665D639EF16DA76BC0.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/01/2019010110372000-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1828" src="https://hackheatharu.xyz/wp-content/uploads/2019/01/2019010110372000-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="スパヒュー汎用ギア" width="300" height="169" /></a>
+
 &nbsp;
 <ul>
  	<li>カムバ 1.0</li>
@@ -119,16 +121,20 @@ AIMとか立ち回りが問題で敵を倒せない人がマネしてもこの�
 
 &nbsp;
 
-{{< blogcard url=https://splatoon2-kiwameika.com/2898.html >}}
-{{< blogcard url=http://pvpgameblog.com/2018/08/10/post-6824/ >}}
-{{< blogcard url=https://ikasumido.com/anzengutu2/ >}}
+[blogcard url="https://splatoon2-kiwameika.com/2898.html"]
+
+[blogcard url="http://pvpgameblog.com/2018/08/10/post-6824/"]
+
+[blogcard url="https://ikasumido.com/anzengutu2/"]
+
 &nbsp;
 
 &nbsp;
 
 &nbsp;
 <h2>スパッタリーの汎用ギア構成</h2>
-![test](/img/2019/01/2019010110510000-C616B031331154665D639EF16DA76BC0.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/01/2019010110510000-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1829" src="https://hackheatharu.xyz/wp-content/uploads/2019/01/2019010110510000-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="スパッタリー汎用ギア" width="300" height="169" /></a>
+
 &nbsp;
 <ul>
  	<li>カムバ 1.0</li>
@@ -169,7 +175,8 @@ AIMとか立ち回りが問題で敵を倒せない人がマネしてもこの�
 
 &nbsp;
 <h2>最近使っているギア構成</h2>
-![test](/img/2019/01/2019010110344100-C616B031331154665D639EF16DA76BC0.jpg)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/01/2019010110344100-C616B031331154665D639EF16DA76BC0.jpg"><img class="alignnone size-medium wp-image-1830" src="https://hackheatharu.xyz/wp-content/uploads/2019/01/2019010110344100-C616B031331154665D639EF16DA76BC0-300x169.jpg" alt="スパイカ忍ギア" width="300" height="169" /></a>
+
 &nbsp;
 <ul>
  	<li>カムバ 1.0</li>

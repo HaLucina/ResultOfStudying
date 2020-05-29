@@ -6,16 +6,18 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 教育大国と言われているフィンランドですが、テレビで『マラソン大会の順位付け』に関して以下のように言及していたようです。
 
 &nbsp;
 
-{{< tweet 1069129730299912192 >}}<blockquote>運動はそもそも良いものなのに子供たちを競わせることで
+https://twitter.com/twi_vaz/status/1069129730299912192
+<blockquote>運動はそもそも良いものなのに子供たちを競わせることで
 
 運動が得意じゃない子はビリという烙印を押されてしまいます
 
@@ -45,7 +47,8 @@ draft: true
 
 ただ、その試験は、単に知識を多く知っているというような試験ではない。3ヶ月ぐらい前に読了すべき書籍がwp-content/uploadsで数冊示されて、それを読んで、試験当日6時間ぐらいかけて、論文を完成するというような試験である。書籍を読了したうえで、自分なりの論点の評価や独自の考えが論理展開できる能力が当日まで形成されていないといい論文はかけない試験なのだ。これは競争がないということとは違う。限りなき高度な競争があると言わなければならない。「競争やめたら学力世界一」などとキャンペーン的にものをいうと、日本では誤解が生まれやすいといわなければならない。他の子どもとの競争はどうでもいいが、「<strong>自分で自分を磨くことに邁進するという形の競争は常にある</strong>」ということだ。逆に極めて厳しいものだといえる。ただ、何回も挑戦できる。
 
-{{< blogcard url=https://blog.goo.ne.jp/snrstudent/e/a083ffb3b2e8f1545a47b075a2d14dfd >}}&nbsp;
+[blogcard url="https://blog.goo.ne.jp/snrstudent/e/a083ffb3b2e8f1545a47b075a2d14dfd"]</blockquote>
+&nbsp;
 
 &nbsp;
 

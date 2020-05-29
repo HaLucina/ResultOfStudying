@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 なぜか人生相談をされる私です。
@@ -77,9 +78,12 @@ draft: true
 
 こんな私でもブログで150記事を書けたのは、とりあえずやってみたからなんです。
 
-{{< tweet 1098479249877491712 >}}
-{{< tweet 1098480584593002497 >}}
-{{< tweet 1098481779273457665 >}}
+https://twitter.com/_HaLucina/status/1098479249877491712
+
+https://twitter.com/_HaLucina/status/1098480584593002497
+
+https://twitter.com/_HaLucina/status/1098481779273457665
+
 &nbsp;
 
 &nbsp;

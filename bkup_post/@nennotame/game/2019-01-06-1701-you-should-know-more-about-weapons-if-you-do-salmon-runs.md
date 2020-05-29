@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 12月20日でポラリスにスパッタリーが支給されました。
@@ -21,7 +22,8 @@ draft: true
 
 &nbsp;
 <h2>ブキの長所くらい把握しろ</h2>
-{{< tweet 1075319973365538816 >}}
+https://twitter.com/_HaLucina/status/1075319973365538816
+
 &nbsp;
 
 <strong>正直こんなツイートが伸びるなんて思ってもいませんでした。</strong>
@@ -72,8 +74,10 @@ draft: true
 
 EUサーモンランガチ勢のMartyさん凄いですよ。
 <p id="header" class="title">『<a href="https://wikiwiki.jp/splatoon2mix/%E3%83%96%E3%82%AD/14%E5%BC%8F%E7%AB%B9%E7%AD%92%E9%8A%83%E3%83%BB%E7%94%B2"><strong>14式竹筒銃・甲</strong></a>』だけでここまで語るんですからね。</p>
-{{< tweet 1081128849822359553 >}}
-{{< tweet 1081129705548460032 >}}<blockquote>【意訳】
+https://twitter.com/MartyBubbler/status/1081128849822359553
+
+https://twitter.com/MartyBubbler/status/1081129705548460032
+<blockquote>【意訳】
 
 HaLucina：
 
@@ -115,4 +119,4 @@ Marty：
 
 &nbsp;
 <h2>おまけ</h2>
-{{< tweet 1077529127366811649 >}}
+https://twitter.com/_HaLucina/status/1077529127366811649

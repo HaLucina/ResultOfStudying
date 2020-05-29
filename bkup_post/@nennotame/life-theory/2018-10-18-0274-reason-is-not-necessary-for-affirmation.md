@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 最近、ブログの内容を褒められたりTwitterでRTしてもらたりと嬉しいことが多くて感謝です。
@@ -21,7 +22,8 @@ draft: true
 
 &nbsp;
 <h2>無条件で自分のやることを肯定してくれた時のエネルギーは偉大</h2>
-{{< tweet 1048046310970904578 >}}
+https://twitter.com/_HaLucina/status/1048046310970904578
+
 &nbsp;
 
 私がブログを再開してから特に励まされたのは、このツイートをしてからでした。
@@ -60,7 +62,8 @@ draft: true
 
 議論についての記事でも書きましたが、保守的な性格であることが原因だと私は考えています。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/flexible-thinking/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/flexible-thinking/"]
+
 &nbsp;
 
 終身雇用や、マイホーム、自分の住む土地に対する愛着など、特に年齢が高ければ高いほど保守性が高いように感じます。
@@ -140,7 +143,8 @@ draft: true
 
 こちらの記事で<strong>植松勉</strong>さんという方の講演動画『<strong>思うは招く</strong>』を紹介しました。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/absenteeism-19-4-html/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/absenteeism-19-4-html/"]
+
 &nbsp;
 
 その動画の中で、植松勉さんもこのようなことを述べています。

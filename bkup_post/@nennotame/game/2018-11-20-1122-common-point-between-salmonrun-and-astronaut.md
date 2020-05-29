@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以前の記事でサーモンランにおけるJP野良の特徴を述べた記事を書きました。
@@ -67,10 +68,12 @@ https://hackheatharu.xyz/characteristics-of-jp-freelance/
 
 &nbsp;
 
-{{< tweet 1064464720336277509 >}}
+https://twitter.com/_HaLucina/status/1064464720336277509
+
 &nbsp;
 
-{{< tweet 1064467096048828416 >}}
+https://twitter.com/_HaLucina/status/1064467096048828416
+
 &nbsp;
 
 <strong>『"姫プレイ" という金イクラを集める人を１人だけに絞ったプレイでもクリアできてるじゃないか！！！』</strong>

@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 2018年10月17日に暫定で赤スパッタリーブキトップをガチアサリで飾ることができました。
 
-{{< tweet 1052601750266372096 >}}
+https://twitter.com/_HaLucina/status/1052601750266372096
+
 &nbsp;
 
 順位2桁に入ったのもこれが初めてですね。
@@ -486,5 +488,6 @@ https://hackheatharu.xyz/all-stage-of-clam-blitz-map/
 
 ※2018/11/01 追記
 
-{{< tweet 1057879645905801217 >}}
+https://twitter.com/_HaLucina/status/1057879645905801217
+
 &nbsp;

@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私はスパッタリーを使っているため『<strong>ジャンプビーコン</strong>』に関して多少は知識を持ち合わせているつもりです。
@@ -30,7 +31,7 @@ https://hackheatharu.xyz/consideration-about-current-beacon-and-life/
 &nbsp;
 <h2>ビーコン使ってアピールは無駄だし、ビーコンを使うのに遠慮も許可もいらない</h2>
 さて、冒頭で述べたフォロワーさんのビーコン話題というのは、以下の画像の文章です。
-![test](/img/2019/01/DwRfmhOVsAUQYzy.jpg)
+![test](https://res.cloudinary.com/ddghc4l09/2019/01/DwRfmhOVsAUQYzy.jpg)
 引用元のサイト：<a href="https://ikasumido.com/">https://ikasumido.com/</a></blockquote>
 &nbsp;
 

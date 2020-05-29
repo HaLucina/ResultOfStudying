@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 今回は「 学校 」と 「 不登校 」 について書いていこうと思います。もし、二度と行きたくない場所はと聞かれた場合、私なら「学校」だと即答します。過去の小学か中学くらいの自分へメッセージを送れるのであれば「辛い思いをして学校へ行く必要はないんだよ！もっといい方法があるんだ！」と伝えたいです。この記事は、私と似たような学校嫌いの子が、行かないという決断を後押しできたのなら幸いです。
@@ -84,9 +85,8 @@ draft: true
 
 &nbsp;
 
-最後にご紹介したい方とブログなのですが、リンクの<strong>オヤトコ発信所</strong>というブログでは、星山 海琳（まりん）さんが学校に行かないことを選択し、小・中・高に通わず大学へ行った方です。
-
-{{< blogcard url=http://ai-am.net/ >}}
+{{< blogcard url=http://ai-am.net/marin-profile">星山 海琳（まりん）</a>さんが学校に行かないことを選択し、小・中・高に通わず大学へ行った方です。[blogcard url="http://ai-am.net/ >}}
+ぜひご覧になってみてください。
 
 &nbsp;
 

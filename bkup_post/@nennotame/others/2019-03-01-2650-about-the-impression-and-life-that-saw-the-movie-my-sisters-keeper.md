@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 https://hackheatharu.xyz/i-dont-think-happy-to-live-longer/
@@ -90,7 +91,8 @@ https://hackheatharu.xyz/i-dont-think-happy-to-live-longer/
 
 そして驚くべきは治療以外に、受精卵の段階で遺伝子を操作することにより『<strong>親が望む外見・知力・体力を備えさせる</strong>』ことも可能だとか。
 
-{{< blogcard url=http://www2.rikkyo.ac.jp/web/taki/contents/2015/20150917.pdf >}}
+[blogcard url="http://www2.rikkyo.ac.jp/web/taki/contents/2015/20150917.pdf"]
+
 &nbsp;
 
 &nbsp;

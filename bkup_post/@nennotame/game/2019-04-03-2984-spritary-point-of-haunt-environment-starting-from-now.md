@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 本日Ver.4.6.0へアップデートされますね。
@@ -53,7 +54,8 @@ draft: true
 上記がこれまでの効果でした。
 
 さて、本日のアプデで以下の効果が新たに追加されます。
-![test](/img/2019/04/canva-photo-editor-8.png)※タップまたはクリックで拡大表示されます。
+<blockquote><a href="https://hackheatharu.xyz/wp-content/uploads/2019/04/canva-photo-editor-8.png"><img class="alignnone size-medium wp-image-2987" src="https://hackheatharu.xyz/wp-content/uploads/2019/04/canva-photo-editor-8-300x68.png" alt="Ver.4.6.0 リベンジ" width="300" height="68" /></a>
+※タップまたはクリックで拡大表示されます。
 引用：<a href="https://support.nintendo.co.jp/app/answers/detail/a_id/34680">https://support.nintendo.co.jp/app/answers/detail/a_id/34680</a></blockquote>
 &nbsp;
 
@@ -94,7 +96,8 @@ draft: true
 
 そもそも正面から戦ってはいけないブキですからね。
 
-{{< blogcard url=https://hackheatharu.xyz/keep-in-mind-to-use-the-dapple-dualies/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/keep-in-mind-to-use-the-dapple-dualies/"]</blockquote>
+&nbsp;
 
 &nbsp;
 

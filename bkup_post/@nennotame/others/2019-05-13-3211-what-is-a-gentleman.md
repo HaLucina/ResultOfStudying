@@ -6,16 +6,18 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 ちょっとした質問をTwitterで実施してみました。
 
 結果は以下の通りです。
 
-{{< tweet 1124969577866096640 >}}
+https://twitter.com/_HaLucina/status/1124969577866096640
+
 &nbsp;
 
 &nbsp;
@@ -325,4 +327,4 @@ If you're prepared to adapt and learn, you can transform."</b>
 &nbsp;
 <h2>おまけ</h2>
 紳士についてまとめられた海外のサイト
-{{< blogcard url=https://www.thegentlemansjournal.com/ >}}
+[blogcard url="https://www.thegentlemansjournal.com/"]

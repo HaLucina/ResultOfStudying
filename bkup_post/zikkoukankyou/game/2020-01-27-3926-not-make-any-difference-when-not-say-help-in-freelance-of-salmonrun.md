@@ -6,9 +6,10 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 私が嫌いな野良(通称 クソ野良・ゴミ野良)の定義は以下の通りです。
@@ -51,7 +52,7 @@ draft: true
 
 ということです。
 
-![test](/img/b37080fca09cfbb0bb52a73e043c116e.png)
+![test](https://res.cloudinary.com/ddghc4l09/b37080fca09cfbb0bb52a73e043c116e.png)
 &nbsp;
 
 画像は参考程度に見て欲しいのですが、味方の頭の上には常に名前が表示されていますよね。それは壁越しだろうがシャケが画面を覆いつくすほどだろうが最前面に表示されます（ちょっと小さいかもしれないけど……）。名前の上に「イカの形と×マーク」があれば浮き輪状態であるか否か一目瞭然です。自分が向けているカメラの方向に味方がいれば、たとえ遠かろうが画面の範囲内にこれらは必ず表示されます。
@@ -77,7 +78,7 @@ draft: true
 
 とは言え、浮き輪側もヘルプ出来るのであればするに越したことはないのも事実。浮き輪の位置がわかりやすくなるというのは本当ですし、地味ですが以下画像の通りヘルプを発している方向に矢印が表示されるんですよね。受け手としては役に経った覚え全然無いけど。
 
-![test](/img/f7f63b7568d3e7e25afc1cc1f9fe909f.png)
+![test](https://res.cloudinary.com/ddghc4l09/f7f63b7568d3e7e25afc1cc1f9fe909f.png)
 &nbsp;
 
 ちなみに上手い人が救助を行う際、浮き輪になって浮上するタイミングに合わせてボムを投げているのですが、一度は見たことありませんかね。

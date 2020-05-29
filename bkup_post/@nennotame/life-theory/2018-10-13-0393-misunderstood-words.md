@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 日本には広く知れ渡って有名になった言葉がたくさんあります。
@@ -59,7 +60,8 @@ draft: true
 
 が、それはマネジメントの知識やフィードバックやり方を知らないなど、問題は別な部分にあります。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/good-feedback-and-bad-feedback/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/good-feedback-and-bad-feedback/"]
+
 &nbsp;
 
 今日お伝えしたいことは『<strong>言葉の本当の意味を知ること</strong>』です。
@@ -153,7 +155,8 @@ draft: true
 
 主体的で素晴らしいと私は思います。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/bad-work-4-18-html/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/bad-work-4-18-html/"]
+
 &nbsp;
 
 先で言った『報連相』の話と被りますが、誰が何をしなきゃならないという思考がそもそもダメなんです。

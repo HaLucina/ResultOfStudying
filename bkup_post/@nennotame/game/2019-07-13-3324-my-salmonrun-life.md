@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 さて、この記事は『<a href="https://twitter.com/kawaharayumeno"><strong>シャケ界のインテリゴリラ 夢乃さん</strong></a>』の以下ツイートを切っ掛けに書かせて頂きました。
 
-{{< tweet 1148594467731124225 >}}
+https://twitter.com/kawaharayumeno/status/1148594467731124225
+
 &nbsp;
 
 <strong>『<a href="https://twitter.com/search?q=%EF%BC%83%E7%A7%81%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%B3%E4%BA%BA%E7%94%9F&amp;src=typd">＃私のサーモン人生</a>』</strong>という面白いハッシュタグが誕生したそうです。
@@ -136,7 +138,8 @@ https://youtu.be/U6sT0xpViw4
 
 野良とのバイトでは満足できなくなってきた私は
 
-{{< tweet 982241600179912705 >}}
+https://twitter.com/_HaLucina/status/982241600179912705
+
 &nbsp;
 
 &nbsp;
@@ -145,7 +148,8 @@ https://youtu.be/U6sT0xpViw4
 
 以下が初めて水素先生の動画に出演した映像です。
 
-{{< tweet 985472799492853760 >}}
+https://twitter.com/xa_hydrogen/status/985472799492853760
+
 &nbsp;
 
 &nbsp;
@@ -156,7 +160,8 @@ https://youtu.be/U6sT0xpViw4
 
 今は大分マシになりましたが、当時は野良でやってくれる人は稀だったんですよ。
 
-{{< tweet 988028769637052416 >}}
+https://twitter.com/_HaLucina/status/988028769637052416
+
 &nbsp;
 
 &nbsp;
@@ -167,7 +172,8 @@ https://youtu.be/U6sT0xpViw4
 
 例えばハイプレを使ったタワーの確実な倒し方は水素先生から学びましたからね（当時のタワーには、ハイプレで頭の直下にある鍋を処理しきれないバグがあった）。
 
-{{< tweet 986802715152941056 >}}
+https://twitter.com/_HaLucina/status/986802715152941056
+
 &nbsp;
 
 &nbsp;
@@ -184,7 +190,8 @@ https://youtu.be/U6sT0xpViw4
 
 <strong>ていうか最近、野良にイライラしているので、また高レベルバイトに連れて行ってください。</strong>
 
-![test](/img/2019/07/D87xG9IUIAE-0TI.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/07/D87xG9IUIAE-0TI.png"><img src="https://hackheatharu.xyz/wp-content/uploads/2019/07/D87xG9IUIAE-0TI-300x224.png" alt="水素先生……高レベルバイトがしたいです……" width="300" height="224" class="alignnone size-medium wp-image-3337" /></a>
+
 &nbsp;
 
 &nbsp;
@@ -223,7 +230,8 @@ https://youtu.be/U6sT0xpViw4
 
 &nbsp;
 
-{{< tweet 1149764121828765697 >}}
+https://twitter.com/MartyBubbler/status/1149764121828765697
+
 &nbsp;
 
 &nbsp;
@@ -236,8 +244,10 @@ https://youtu.be/U6sT0xpViw4
 
 以下、当時の映像と感想。
 
-{{< tweet 1033686778702483456 >}}
-{{< tweet 1033713257654046721 >}}
+https://twitter.com/_HaLucina/status/1033686778702483456
+
+https://twitter.com/_HaLucina/status/1033713257654046721
+
 &nbsp;
 
 ツイートにも書いてますが『<strong>トキシラズで金網側使うとか知らんがな！</strong>』と叫んでいた記憶があります。
@@ -252,9 +262,12 @@ https://youtu.be/U6sT0xpViw4
 
 そう、私にとって第2のメンターはMartyさんなのです。
 
-{{< blogcard url=https://hackheatharu.xyz/salmonrun-advice-from-eu/ >}}
-{{< blogcard url=https://hackheatharu.xyz/how-to-use-specials-well-with-salmonrun/ >}}
-{{< blogcard url=https://hackheatharu.xyz/situation-where-it-is-difficult-to-clear-with-salmonrun/ >}}
+[blogcard url="https://hackheatharu.xyz/salmonrun-advice-from-eu/"]
+
+[blogcard url="https://hackheatharu.xyz/how-to-use-specials-well-with-salmonrun/"]
+
+[blogcard url="https://hackheatharu.xyz/situation-where-it-is-difficult-to-clear-with-salmonrun/"]
+
 &nbsp;
 
 &nbsp;
@@ -269,7 +282,8 @@ https://youtu.be/U6sT0xpViw4
 
 こうして現在進行中でもある、私のサーモン人生で最大の挑戦『<strong>ノーミス野良カンスト定期</strong>』が始まったのです。
 
-{{< tweet 1140414047956811776 >}}
+https://twitter.com/_HaLucina/status/1140414047956811776
+
 &nbsp;
 
 &nbsp;

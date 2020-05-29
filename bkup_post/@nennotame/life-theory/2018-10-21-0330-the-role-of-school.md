@@ -6,9 +6,10 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 <div class="permalink-inner permalink-tweet-container ThreadedConversation ThreadedConversation--permalinkTweetWithAncestors">
@@ -53,8 +54,10 @@ draft: true
 
 &nbsp;
 
-{{< blogcard url=http://datsugakkou.com/category2/entry58.html >}}
-{{< blogcard url=https://review-of-my-life.blogspot.com/2017/04/WhyEducationIsSoUniform.html >}}
+[blogcard url="http://datsugakkou.com/category2/entry58.html"]
+
+[blogcard url="https://review-of-my-life.blogspot.com/2017/04/WhyEducationIsSoUniform.html"]
+
 &nbsp;
 
 https://www.youtube.com/watch?v=fc64T5QVZyU
@@ -91,7 +94,8 @@ https://www.youtube.com/watch?v=fc64T5QVZyU
 
 ちなみに私は10枚目くらいとプログラミングのところをざっと読んでギブアップしました。
 
-{{< blogcard url=http://www.mext.go.jp/a_menu/shotou/new-cs/__icsFiles/afieldfile/2017/09/28/1396716_1.pdf >}}
+[blogcard url="http://www.mext.go.jp/a_menu/shotou/new-cs/__icsFiles/afieldfile/2017/09/28/1396716_1.pdf"]
+
 &nbsp;
 
 &nbsp;
@@ -110,7 +114,8 @@ https://www.youtube.com/watch?v=fc64T5QVZyU
 
 以下の記事でも書きましたが、勉強する方法は学校以外にたくさんあります。
 
-{{< blogcard url=https://hackheatharu.xsrv.jp/not-school-life-04-html/ >}}
+[blogcard url="https://hackheatharu.xsrv.jp/not-school-life-04-html/"]
+
 &nbsp;
 
 そもそも、必要に迫られていないことを勉強する必要は無いと私は考えています。
@@ -194,7 +199,8 @@ https://www.youtube.com/watch?v=fc64T5QVZyU
 
 例えばフィンランドでは民間企業が学校教育に協力する体制があります。
 
-{{< blogcard url=https://www.works-i.com/publication/works/works-web-special/world/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89/%E6%B0%91%E9%96%93%E4%BC%81%E6%A5%AD%E3%81%8C%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E5%8D%94%E5%8A%9B-%E5%AD%A6%E6%A0%A1%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%99%AE%E5%8F%8A%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0 >}}
+[blogcard url="https://www.works-i.com/publication/works/works-web-special/world/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89/%E6%B0%91%E9%96%93%E4%BC%81%E6%A5%AD%E3%81%8C%E7%BE%A9%E5%8B%99%E6%95%99%E8%82%B2%E3%81%AB%E5%8D%94%E5%8A%9B-%E5%AD%A6%E6%A0%A1%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%99%AE%E5%8F%8A%E3%81%99%E3%82%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0"]
+
 &nbsp;
 
 企業がそういうことを実施するということは、研究内容としてデータを取るはずです。

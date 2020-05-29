@@ -6,16 +6,18 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 （悪い意味で）面白い記事があり、とりあえず中身を読んでみました。
 
 タイトルとサブタイトルに書かれた通り『<strong>スプラトゥーン２は家族の絆を壊す</strong>』ことを述べています。
 
-{{< blogcard url=https://toyokeizai.net/articles/-/262077 >}}
+[blogcard url="https://toyokeizai.net/articles/-/262077"]
+
 &nbsp;
 
 &nbsp;

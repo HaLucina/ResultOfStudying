@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 スプラトゥーン２の更新 Ver 4.5.0 によってアメフラシがナーフされましたね。
 
-![test](/img/2019/03/D1HhKTWU8AAe7ZR.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/D1HhKTWU8AAe7ZR.png"><img class="alignnone size-medium wp-image-2815" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/D1HhKTWU8AAe7ZR-300x72.png" alt="アメフラシナーフ内容" width="300" height="72" /></a>
+
 &nbsp;
 
 結構皆さん嘆かれているのを目にするのですが、個人的に<strong>そんな悲しむ程ではない</strong>と思うのです。
@@ -194,7 +196,8 @@ draft: true
 
 まさしく下の画像の赤丸部分なんですけどね。
 
-![test](/img/2019/03/160e8939a2368d8cd7d9769eacdc7bb5.png)
+<a href="https://hackheatharu.xyz/wp-content/uploads/2019/03/160e8939a2368d8cd7d9769eacdc7bb5.png"><img class="alignnone size-medium wp-image-2816" src="https://hackheatharu.xyz/wp-content/uploads/2019/03/160e8939a2368d8cd7d9769eacdc7bb5-300x169.png" alt="" width="300" height="169" /></a>
+
 &nbsp;
 
 &nbsp;

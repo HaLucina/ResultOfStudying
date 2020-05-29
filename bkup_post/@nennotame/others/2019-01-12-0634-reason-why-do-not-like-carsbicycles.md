@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 前回『<strong>なぜ車が嫌いなのかを車嫌いが解説する</strong>』という記事を書きました。
@@ -160,7 +161,8 @@ https://hackheatharu.xyz/cant-afford/
 
 こんなの揉めるに決まってるじゃないですか。
 
-{{< blogcard url=http://www.jiko-jidan.net/%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C%E3%82%92%E9%80%86%E8%B5%B0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%A8%E4%BA%8B%E6%95%85%EF%BC%81%E9%81%8E%E5%A4%B1%E5%89%B2%E5%90%88/ >}}
+[blogcard url="http://www.jiko-jidan.net/%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C%E3%82%92%E9%80%86%E8%B5%B0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%81%A8%E4%BA%8B%E6%95%85%EF%BC%81%E9%81%8E%E5%A4%B1%E5%89%B2%E5%90%88/"]
+
 &nbsp;
 
 &nbsp;
@@ -173,7 +175,8 @@ https://hackheatharu.xyz/cant-afford/
 
 更に恐ろしいことは『<strong>運転者の方が死亡する可能性もある</strong>』ことなんです。
 
-{{< blogcard url=https://www.itarda.or.jp/ws/pdf/h22/13_02dendoasist.pdf >}}
+[blogcard url="https://www.itarda.or.jp/ws/pdf/h22/13_02dendoasist.pdf"]
+
 &nbsp;
 
 上記の資料によると『<strong>電動自転車を利用する高齢者が増加している</strong>』ことに比例して『<strong>高齢運転者の事故も増加した</strong>』という結果が示されています。

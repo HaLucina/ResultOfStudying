@@ -6,16 +6,18 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 前回『あつまれ どうぶつの森』の新しい情報が詰まったNintendo Directについての記事を書きました。
 
 &nbsp;
 
-{{< blogcard url=https://hackheatharu.xyz/collected-animal-crossing-new-horizons-information-summary/ >}}
+[blogcard url="https://hackheatharu.xyz/collected-animal-crossing-new-horizons-information-summary/"]
+
 &nbsp;
 
 そのPVを見ていた中で気になったことが１つありました。<strong>『永遠にテントで暮らすことは可能だろうか？』</strong>という点です。テントは  ~~鬼畜たぬき~~  たぬきちから最初に貰えるアイテム（家具のような扱い化は不明だが）のようで、メリットとしては好きな場所に転々とすることができる方法の１つだと思うのです。

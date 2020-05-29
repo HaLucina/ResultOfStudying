@@ -6,14 +6,16 @@ categories:
  - ゲーム
 description: 
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/spl2.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 フォロワーさんからこのようなリプを頂きました。
 
-{{< tweet 1056897263950151681 >}}
+https://twitter.com/spla2_stroika/status/1056897263950151681
+
 とてもうれしいことなのですが、以前のアプデでスパッタリーを使う人が増えてから愛の欠片も感じない人も目につくようになりました。
 
 しかし、私のフォロワーさんの大半はスパッタリーで通じ合えた人達であり、良い人だと感じた人しか現在も繋がっていません。
@@ -57,7 +59,8 @@ https://twitter.com/i/moments/925180766312480770
 
 フェスのたびにビーコンの位置のおススメ場所がTLに流れてくるので、ビーコン愛が深すぎて最近は笑って見てます。
 
-{{< tweet 1053326025944326144 >}}
+https://twitter.com/ragurun7/status/1053326025944326144
+
 &nbsp;
 
 どうしてそうなのかと考えましたが、<strong>マイナーゆえに自分から行動しないと道が広がらない場所にいる</strong>からじゃないかと。

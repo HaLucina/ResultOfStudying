@@ -6,9 +6,10 @@ categories:
  - その他
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
 以前『20代で取得しておきたいスキル』という記事を書きました。
@@ -73,7 +74,8 @@ https://hackheatharu.xyz/skill-to-acquire-in-twenties/
 
 &nbsp;
 <h2>絵を描けることで仕事関連のチャンスが多くなる</h2>
-{{< tweet 1075496457438932998 >}}
+https://twitter.com/Genki119/status/1075496457438932998
+
 &nbsp;
 
 『<strong>高田 ゲンキ</strong>』さんの述べている通り『<strong>イラスト関連だけでも仕事って多い</strong>』と認識しています。

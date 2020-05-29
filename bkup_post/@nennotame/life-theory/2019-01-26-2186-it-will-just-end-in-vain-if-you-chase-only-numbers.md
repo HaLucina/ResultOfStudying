@@ -6,12 +6,14 @@ categories:
  - 人生論
 description: 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/japanese-test-post/peak-140.jpg
+thumbnailImage: https://res.cloudinary.com/ddghc4l09/thumbnail/.jpg
 draft: true
 ---
+
 <!--more-->
 
-{{< tweet 1086235996692275200 >}}
+https://twitter.com/_HaLucina/status/1086235996692275200
+
 自分では数より質を重視するがタイプだと思っています。
 
 数を集めることは悪くありませんが、何がなんでも数を揃えて心を満たそうとする行為は褒められたものじゃないです。
@@ -105,7 +107,8 @@ TikTokやインスタグラムなんかは、再生数や表示回数なんか�
 
 まさしく<strong>根拠の無い肯定が私に一歩を踏み出させてくれた</strong>と思っています。
 
-{{< blogcard url=https://hackheatharu.xyz/reason-is-not-necessary-for-affirmation/ >}}&nbsp;
+[blogcard url="https://hackheatharu.xyz/reason-is-not-necessary-for-affirmation/"]</blockquote>
+&nbsp;
 
 &nbsp;
 
