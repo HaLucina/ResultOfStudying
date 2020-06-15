@@ -1,3 +1,6 @@
+## 自作のメソッドやクラスをパッケージ化して自由に使う
+https://cacapon.hatenablog.com/entry/2019/06/28/004245## 
+
 ## pythonの問題無料
 [pygrade](https://www.pygrade.com/start-training)
 
