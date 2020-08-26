@@ -11,7 +11,8 @@ https://cacapon.hatenablog.com/entry/2019/06/28/004245##
 ## クラスメソッド、スタティックメソッドの一番わかり易い説明
 [インスタンスメソッド、staticmethod、classmethodの違いと使い方](https://djangobrothers.com/blogs/class_instance_staticmethod_classmethod_difference/)
 
-
+## 自動ツイート
+[PythonからTwitterへ自動投稿したい（サンプルコードあり）](https://itips.krsw.biz/python-twitter-auto-post-sample/)
 
 ## Pysideを使えばPythonとC++でGUIアプリが作れるらしい
 
