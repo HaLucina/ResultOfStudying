@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 ## アイキャッチ画像をpythonで作る
 [アイキャッチ](https://enjoyall.comichi.com/auto-eye-catch/)
 
 ## アスタリスクって何？
 [N3.xのアスタリスク逆引き](https://qiita.com/LouiS0616/items/1bbe0a9bb93054f6c380)
+=======
+## 自作のメソッドやクラスをパッケージ化して自由に使う
+https://cacapon.hatenablog.com/entry/2019/06/28/004245## 
+>>>>>>> 2047f67d79f1d0d7bcd437db3db4ad415db08b27
 
 ## pythonの問題無料
 [pygrade](https://www.pygrade.com/start-training)
@@ -12,6 +17,9 @@
 
 ## クラスメソッド、スタティックメソッドの一番わかり易い説明
 [インスタンスメソッド、staticmethod、classmethodの違いと使い方](https://djangobrothers.com/blogs/class_instance_staticmethod_classmethod_difference/)
+
+## 自動ツイート
+[PythonからTwitterへ自動投稿したい（サンプルコードあり）](https://itips.krsw.biz/python-twitter-auto-post-sample/)
 
 ## Pysideを使えばPythonとC++でGUIアプリが作れるらしい
 [pyside](https://qh73xebitbucketorg.readthedocs.io/ja/latest/1.Programmings/python/LIB/pyside/basic/#id14)
