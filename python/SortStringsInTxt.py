@@ -16,12 +16,12 @@ data = []
 if __name__ == '__main__': 
     print('===START===')
 
-    with open(file_name, 'r') as f:
+    with open(file_name, 'r', encoding="utf-8") as f:
         data = f.readlines()
         data.sort()
         [print(line.rstrip()) for line in data]
 
-    with open(file_name, 'w') as f:
+    with open(file_name, 'w', encoding="utf-8") as f:
         f.write("".join(data))
         
     print('===END===')
