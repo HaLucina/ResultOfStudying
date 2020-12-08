@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## アイキャッチ画像をpythonで作る
 [アイキャッチ](https://enjoyall.comichi.com/auto-eye-catch/)
 
@@ -7,7 +6,6 @@
 =======
 ## 自作のメソッドやクラスをパッケージ化して自由に使う
 https://cacapon.hatenablog.com/entry/2019/06/28/004245## 
->>>>>>> 2047f67d79f1d0d7bcd437db3db4ad415db08b27
 
 ## pythonの問題無料
 [pygrade](https://www.pygrade.com/start-training)

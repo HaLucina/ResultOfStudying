@@ -6,3 +6,7 @@
 pipでinstall出来るようにする
 - https://blog.chocolapod.net/momokan/entry/117
 - https://cacapon.hatenablog.com/entry/2019/06/28/004245
+
+最終的にコレを目指すと絶対良い
+- https://techblog.asahi-net.co.jp/entry/2018/06/15/162951
+
