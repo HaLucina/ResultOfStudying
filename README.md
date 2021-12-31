@@ -1,9 +1,9 @@
 # ResultOfStudying
 パッケージを作りたい
-https://qiita.com/greenteabiscuit/items/01ca0e7c069a1aa28dae
-https://shimi-dai.com/python-what-is-__init__-py/
-https://cacapon.hatenablog.com/entry/2019/06/28/004245
-
+- https://qiita.com/greenteabiscuit/items/01ca0e7c069a1aa28dae
+- https://shimi-dai.com/python-what-is-__init__-py/
+- https://cacapon.hatenablog.com/entry/2019/06/28/004245
+- https://yumarublog.com/python/mymodule-import/
 
 
 
