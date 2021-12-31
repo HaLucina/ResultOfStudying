@@ -1,6 +1,9 @@
 ## チュートリアルっぽいことが出来る
 - https://go-tour-jp.appspot.com/welcome/1
 
+## 勉強になるサイト
+- https://go.genzouw.com/
+
 ## バージョン切り替えも兼ねたgoのインストール方法
 - https://nashiza-blog.com/2020/09/20/go-install/
 - http://blog.atwata.com/app/2018/01/30/golang-hello-world.html
