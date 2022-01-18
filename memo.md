@@ -45,7 +45,8 @@ vim8.2 nvim関連
 - https://qiita.com/youichiro/items/b4748b3e96106d25c5bc
 - https://co.bsnws.net/article/332
 - https://suwaru.tokyo/%E3%80%90%E8%B6%85%E9%AB%98%E9%80%9F%E5%85%A8%E6%96%87%E6%A4%9C%E7%B4%A2%E3%80%91ripgrep%E3%81%A8%E3%81%AF%EF%BC%9F%E7%B0%A1%E5%8D%98%E3%83%BB%E4%BE%BF%E5%88%A9%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/#anc_6
-
+- https://lsifrontend.blog.fc2.com/blog-entry-356.html
+- http://nanasi.jp/articles/vim/kwbd_vim.html
 
 
 heroku関連
