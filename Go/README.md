@@ -1,4 +1,4 @@
-## チュートリアルっぽいことが出来る
+## チュートリアル
 - https://go-tour-jp.appspot.com/welcome/1
 
 ## 勉強になるサイト
@@ -15,6 +15,9 @@ $ sudo apt-get remove --auto-remove golang-go
 - https://qiita.com/Jxck_/items/02185f51162e92759ebe
 - https://gist.github.com/nikuyoshi/a6c92119c59144d472ef
 - bashを付けてshを実行しないとSyntax error: "(" unexpectedが出るので気をつける
+
+## GoとGin
+- https://news.mynavi.jp/techplus/series/gogogo/
 
 ## 命名規則
 https://zenn.dev/keitakn/articles/go-naming-rules
@@ -46,7 +49,6 @@ https://qiita.com/eihigh/items/20de07f5d8cec0df17ab
 
 ### ポップアップ 候補2
 https://teratail.com/questions/253791
-
 
 ## 自作パッケージの作り方
 - https://go.genzouw.com/2021/03/29/post-57/
